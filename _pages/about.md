@@ -1,23 +1,17 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
+title: <strong>David Thien</strong>
+{::comment}
 description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+{:/comment}
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My name is David Thien. I'm currently a senior undergrad at the University of Washington. I work in the [PLSE](https://uwplse.org/) lab with my grad advisor [Pavel Panchekha](https://pavpanchekha.com/) supervised by [Zachary Tatlock](https://homes.cs.washington.edu/~ztatlock/). I mostly with floating point software and help develop [Herbie](http://herbie.uwplse.org/) as well as tools in [FPBench](http://fpbench.org/). I have also worked with [James Wilcox](https://homes.cs.washington.edu/~jrw12/) on testing the Rust compiler.
