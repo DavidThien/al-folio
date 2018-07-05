@@ -1,4 +1,9 @@
-# Summer 2018 Research
+---
+layout: post
+title:  Summer 2018 Research
+date:   2018-07-05 16:14:00
+description: My plans from Summer 2018 Research
+---
 
 This Summer I am doing work on [Herbie](http://herbie.uwplse.org) with [Pavel Panchekha](https://pavpanchekha.com/) and [Zach Tatlock](https://homes.cs.washington.edu/~ztatlock/). In particular I am working to classify floating point expressions to come up with a taxonomy describing why some expressions are inaccurate and in what ways, as well as to improve Herbie after figuring out what methods improve the types of expressions that floating point tools currently struggle on. I will be working extensively with Herbie on this, using various parts of its engine to analyze these expressions and see which parts of Herbie improve them.
 
