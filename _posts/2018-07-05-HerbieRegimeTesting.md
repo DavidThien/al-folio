@@ -13,7 +13,7 @@ To figure out if better regimes are something useful for further improving Herbi
 
 Now that we have a scale, we can run it on all of Herbie's benchmarks to see how well Herbie performs compared to the baseline and the oracle. Running all of the benchmarks gives us a cool graph which plots the percent Herbie improves against the span (baseline - oracle).
 
-![Herbie % vs Span](posts/HerbieRegimeTesting/HerbieVsSpan.png)
+![Herbie % vs Span]({{ "/assets/img/posts/HerbieRegimeTesting/HerbieVsSpan.png" | absolute_url }})
 
 Note that the graph has been cut off to only show span greater than 1 and positive Herbie improvements. Herbie's score will occasionally score less than the baseline output because Herbie trains it's output based on an initial set of sampled points, but the error is calculated by a set of resampled points to offset the possibility of overfitting. Although Herbie's output is determined based on the initial points, the baseline (no regimes) run is done based on the resampled points. Ideally, this would be done based on the initially sampled points, but the effects of having the baseline calculated based on the resampled points are very minimal. The maximum negative difference between Herbie's output and the baseline is .3 bits of error, and most of them are at least an order of magnitude less than that. This is about what we would expect, because we haven't seen Herbie have a problem with overfitting.
 
@@ -25,15 +25,15 @@ One of the interesting expressions on this plot that is also easy to analyze is 
 
 One thing to look at when deciding if Herbie can make further improvement on the regime boundaries is to look at the best expression at each point, as in the following graph.
 
-![Compound Interest Best Regime](posts/HerbieRegimeTesting/BestRegime.png)
+![Compound Interest Best Regime]({{ "/assets/img/posts/HerbieRegimeTesting/BestRegime.png" | absolute_url }})
 
 This graph plots each point that we sample on a log-log graph. Each color represents a different expression used in Herbie, and the color of each point represents the expression the oracle finds is best at that point. The areas of the graph that have no points are locations where the value of the expression is `NaN` or `+/-inf`. I will call this a regime plot. Looking at this plot, we can see that there there are pretty well-defined sections where one expression does best. However, many areas don't have a single dominating expression, and instead have two or three. This seems like a good candidate that would benefit from regime improvement. Compared to the output of a relatively simple expression such as $$e^{a * x} - 1$$ (regime plot seen below), this is a very messy expression where its not clear the best split points for regimes.
 
-![Simple Expression Regimes](posts/HerbieRegimesTesting/SimpleRegimePlot.png)
+![Simple Expression Regimes]({{ "/assets/img/posts/HerbieRegimeTesting/SimpleRegimePlot.png" | absolute_url }})
 
 Looking at our simple example, it's clear which regimes should be chosen, and Herbie does a pretty good job choosing the regimes, branching on $$a * ((a * x) * (x * frac{1}{2}) + x) \leq 0.014$$ (inside the figure graphed below.) However, Herbie doesn't make the seemingly obvious choice to make two branch conditions, instead picking just one. This is because internally, Herbie requires that there be at least 1 bit of improvement to create another branch condition. Herbie is able to improve this expression from $$20.56$$ bits of error, to just $$0.21$$ bits of error. The oracle further improves this to $$0.05$$ bits of error, but Herbie doesn't branch again because there isn't another bit of error to be improved.
 
-![Simple Branch Condition](posts/HerbieRegimesTesting/SimpleBranchCondition.png)
+![Simple Branch Condition]({{ "/assets/img/posts/HerbieRegimeTesting/SimpleBranchCondition.png" | absolute_url }})
 
 ## Next Work
 
