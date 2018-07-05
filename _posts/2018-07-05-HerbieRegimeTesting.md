@@ -1,4 +1,9 @@
-# Testing the Regime Functionality of Herbie
+---
+layout: post
+title:  Testing the Regime Functionality of Herbie
+date:   2018-07-05 16:19:00
+description: Testing how well Herbie's regimes work and possible improvement
+---
 
 This post is part of an ongoing series about my [Summer research](insert_link_here) on [Herbie](http://herbie.uwplse.org) and floating point numbers.
 
