@@ -13,9 +13,9 @@ To figure out if better regimes are something useful for further improving Herbi
 
 Now that we have a scale, we can run it on all of Herbie's benchmarks to see how well Herbie performs compared to the baseline and the oracle. Running all of the benchmarks gives us a cool graph which plots the percent Herbie improves against the span (baseline - oracle).
 
-![Herbie % vs Span]({{ "/assets/img/posts/HerbieRegimeTesting/HerbieVsSpan.png" | absolute_url }}){:width="700px"}
-
 Note that the graph has been cut off to only show span greater than 1 and positive Herbie improvements. Herbie's score will occasionally score less than the baseline output because Herbie trains it's output based on an initial set of sampled points, but the error is calculated by a set of resampled points to offset the possibility of overfitting. Although Herbie's output is determined based on the initial points, the baseline (no regimes) run is done based on the resampled points. Ideally, this would be done based on the initially sampled points, but the effects of having the baseline calculated based on the resampled points are very minimal. The maximum negative difference between Herbie's output and the baseline is .3 bits of error, and most of them are at least an order of magnitude less than that. This is about what we would expect, because we haven't seen Herbie have a problem with overfitting.
+
+![Herbie % vs Span]({{ "/assets/img/posts/HerbieRegimeTesting/HerbieVsSpan.png" | absolute_url }}){:width="700px"}
 
 There are a few things that can be seen immediately with this graph, Herbie does a relatively good job of picking regimes, but there are definitely a few expressions where the oracle makes a significant improvement over Herbie. The circled points are examples of these. These are points where there is a difference of 5 or more bits of error between Herbie's output and the oracle's. These points are interesting because the optimal regimes give a significant improvement over what Herbie currently does, pointing to possible points of improvement. The average Herbie improvement is $$67.1\%$$.
 
