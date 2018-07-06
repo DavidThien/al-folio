@@ -17,7 +17,7 @@ Note that the graph has been cut off to only show span greater than 1 and positi
 
 ![Herbie % vs Span]({{ "/assets/img/posts/HerbieRegimeTesting/HerbieVsSpan.png" | absolute_url }}){:width="700px"}
 
-There are a few things that can be seen immediately with this graph, Herbie does a relatively good job of picking regimes, but there are definitely a few expressions where the oracle makes a significant improvement over Herbie. The circled points are examples of these. These are points where there is a difference of 5 or more bits of error between Herbie's output and the oracle's. These points are interesting because the optimal regimes give a significant improvement over what Herbie currently does, pointing to possible points of improvement. The average Herbie improvement is $$67.1\%$$.
+There are a few things that can be seen immediately with this graph, Herbie does a relatively good job of picking regimes, but there are definitely a few expressions where the oracle makes a significant improvement over Herbie. The circled points are examples of these. These are points where there is a difference of 5 or more bits of error between Herbie's output and the oracle's. These points are interesting because the optimal regimes give a significant improvement over what Herbie currently does, pointing to possible points of improvement. The average Herbie improvement on tests with a span greater than 1 is $$67.1\%$$.
 
 ### The Compound Interest Formula
 
