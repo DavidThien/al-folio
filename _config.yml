@@ -22,7 +22,7 @@ github_username: DavidThien # your GitHub user name
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Blog
-blog_description: Interesting things
+blog_description: Research Notes and Updates
 
 # Pagination
 paginate: 4
