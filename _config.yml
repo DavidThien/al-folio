@@ -4,7 +4,7 @@
 name: David Thien
 email: dthien@cs.washington.edu
 description: > # this means to ignore newlines until "url:"
-  David Thien's academic website.
+  David Thien's research website.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
