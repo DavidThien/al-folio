@@ -5,11 +5,11 @@ date:   2018-07-09 16:30:00
 description: First update to the Herbie regime testing&#58; better graphs.
 ---
 
-One of the aspects lacking in the graphs of the [previous post](https://homes.cs.washington.edu/~dthien/blog/2018/HerbieRegimeTesting/) was more detailed information on how well Herbie does compared to the optimal regimes. After running some more regime tests on the [Compound Interest expression](/home/dthien/Documents/herbie/graphs/test/0-CompoundInterest/plot-0contour.png), I now have some graphs that better illustrate this property.
+One of the aspects lacking in the graphs of the [previous post](https://homes.cs.washington.edu/~dthien/blog/2018/HerbieRegimeTesting/) was more detailed information on how well Herbie does compared to the optimal regimes. After running some more regime tests on the [Compound Interest expression](http://herbie.uwplse.org/reports/1529397374:warfa:develop:b6189b1c10/numerics/25-CompoundInterest/graph.html), I now have some graphs that better illustrate this property.
 
 ![Herbie Regime % Improvement]({{ "/assets/img/posts/RegimeTestingUpdate1/RegimePercentImprovement1.png" | absolute_url }}){:width="700px"}
 
-This graph plots each resampled point ($$i$$ vs $$p$$) in greyscale as a function of Herbie's percentage improvement defined by
+This graph plots each resampled point ($$i$$ vs $$n$$) in greyscale as a function of Herbie's percentage improvement defined by
 
 $$ \texttt{herbie \% improvmement } = \frac{\texttt{baseline err } - \texttt{ herbie err}}{\texttt{span}} $$
 where
