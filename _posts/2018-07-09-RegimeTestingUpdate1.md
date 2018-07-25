@@ -11,7 +11,7 @@ One of the aspects lacking in the graphs of the [previous post](https://homes.cs
 
 This graph plots each resampled point ($$i$$ vs $$n$$) in greyscale as a function of Herbie's percentage improvement defined by
 
-$$ \texttt{herbie \% improvmement } = \frac{\texttt{baseline err } - \texttt{ herbie err}}{\texttt{span}} $$
+$$ \texttt{herbie \% improvement } = \frac{\texttt{baseline err } - \texttt{ herbie err}}{\texttt{span}} $$
 where
 $$ \texttt{span } = \texttt{baseline err } = \texttt{ oracle err} $$
 
