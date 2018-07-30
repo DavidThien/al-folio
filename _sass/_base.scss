@@ -7,7 +7,7 @@ html, body {
 }
 
 img {
-  max-width: none;
+  max-width: 100%
 }
 
 em img {
@@ -29,4 +29,8 @@ body {
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
     @extend .clearfix;
+}
+
+div.equation {
+    overflow: auto;
 }
