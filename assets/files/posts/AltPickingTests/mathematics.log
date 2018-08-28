@@ -1,0 +1,1513 @@
+Herbie alt oracle data.
+File order:
+0-bparameterofrenormalizedbetadistribution
+1-aparameterofrenormalizedbetadistribution
+10-LogisticfunctionfromLakshayGarg
+11-Hyperbolictangent
+12-Hyperbolicsine
+13-Hyperbolicsecant
+14-Hyperbolicarccosine
+15-Hyperbolicarccotangent
+16-Hyperbolicarccosecant
+18-Eccentricityofanellipse
+19-Distanceonagreatcircle
+2-TrigonometryB
+20-Destinationgivenbearingonagreatcircle
+21-Cubiccriticalwiderange
+22-Cubiccriticalnarrowrange
+24-Cubiccritical
+25-Bearingonagreatcircle
+26-AsymptoteC
+27-AsymptoteB
+28-AsymptoteA
+29-2ancestrymixingzerodiscriminant
+3-TrigonometryA
+30-2ancestrymixingpositivediscriminant
+31-2ancestrymixingnegativediscriminant
+32-Quotientofsumofexps
+33-Quotientofproducts
+34-Logisticregression2
+35-Hyperbolicarcsine
+36-Harleysexample
+37-Expofsumoflogs
+4-Sphericallawofcosines
+8-Quadraticrootsfullrange
+9-Midpointonagreatcircle
+Difference between best and picked alt improvement
+0, 0, 0, 0
+0.0, 0.00390625, 0, 0
+0.0, 0.002010051456366244, 0.0, 0.0
+0.0, 0, 0
+0.0, 0.0078125, 0, 0
+0, 0
+0, 0
+0, 0, 0
+0
+0, 0
+0.0, 0.6450699888095741, 0.6551674985780167, 0.5859744057986518
+0.0, 0.021816259768442016, 0.014003759768442016, 0.001621240231557984
+0.0, 0.006582526025963244, 0.0012299739740367632, 0.0
+0.0, 0, 0, 0
+0.0, 0, 0, 0
+0.00390625, 0.015625000000000888, 0.01345159491759329, 0.025680794957730235
+0.0, 0.0, 0.0, 0.00390625
+0.0, 0.009106736345643907, 0.0, 0.0020567484811548076
+0, 0, 0, 0
+0.0, 0.0, 0, 0
+0.0, 0.03125, 0.0, 0.00390625
+0.0, 0, 0, 0
+0.26180885477192106, 22.151819462116187, 19.914626540493405, 19.90961953315752
+0.0, 0.0078125, 0.0078125, 0.0078125
+0, 0, 0, 0
+0.0, 0.015625, 0, 0
+0.0, 0.0, 0.0, 0.0
+0.0, 0.003906249999999999, 0.003906249999999999, 0.003906249999999999
+0.0, 0.0, 0.00390625, 0
+0
+0.0, 0.13140105293472715, 0.18637585413613822, 0.21070717714588794
+0.0, 0.1155843670266492, 0.07433512457157043, 0.08770937075617447
+0.0, 0.00390625, 0.03746636238234605, 0.036825440797402215
+
+Improvement over last iter
+Picked error
+0 0 0 
+0.00390625 0.00390625 0 
+0.0 0.002010051456366244 0.0 
+0.00390625 0 
+0.0 0.0078125 0 
+0 
+0 
+0 0 
+
+0 
+0.010097509768442592 0.0 0.06919309277936492 
+0.0012575316206537568 0.0078125 0.017910009768442016 
+0.00390625 0.006582526025963244 0.015966651723634137 
+0.12404252930532605 0 0 
+0.2988663086106521 0 0 
+0.015747176949060027 0.006079655082407598 0.0 
+5.529736544567668 0.04525375976844201 0.0 
+0.002878771852211734 0.01409539638103574 0.006022509716700819 
+0 0 0 
+0.01171875 0.00390625 0 
+0.20349506837909415 0.0625 0.0078125 
+0.03125 0 0 
+0.27743385477192106 0.0 0.005007007335883884 
+0.0 0.0 0.0 
+0 0 0 
+0.01953125 0.01953125 0 
+0.00014899579333557678 7.74592473495872e-11 0.0 
+0.0 0.0 0.0 
+0.036225764059430725 0.0 0.00390625 
+
+0.11313019875086727 0.024331323009749273 0.0 
+0.0 0.04124924245507877 0.003912467175596568 
+0.6779220759575808 0.00390625 0.0006409215849438321 
+Minimum error
+0 0 0 
+0.0078125 0.00390625 0 
+0.002010051456366244 0.002010051456366244 0.0 
+0.00390625 0 
+0.0078125 0.0078125 0 
+0 
+0 
+0 0 
+
+0 
+0.6551674985780167 0.6551674985780167 0.6551674985780167 
+0.023073791389095773 0.021816259768442016 0.01953125 
+0.010488776025963244 0.007812500000000007 0.015966651723634137 
+0.12404252930532605 0 0 
+0.2988663086106521 0 0 
+0.031372176949060915 0.019531250000000888 0.025680794957730235 
+5.529736544567668 0.04525375976844201 0.00390625 
+0.01198550819785564 0.01409539638103574 0.008079258197855627 
+0 0 0 
+0.01171875 0.00390625 0 
+0.23474506837909415 0.0625 0.01171875 
+0.03125 0 0 
+22.429253316888108 19.914626540493405 19.914626540493405 
+0.0078125 0.0078125 0.0078125 
+0 0 0 
+0.03515625 0.01953125 0 
+0.00014899579333557678 7.74592473495872e-11 0.0 
+0.003906249999999999 0.003906249999999999 0.003906249999999999 
+0.036225764059430725 0.00390625 0.00390625 
+
+0.24453125168559442 0.2107071771458875 0.21070717714588794 
+0.1155843670266492 0.1155843670266492 0.09162183793177103 
+0.6818283259575808 0.04137261238234605 0.03746636238234605 
+
+Absolute min error on iteration
+0 0 0 0 
+0.0078125 0 0 0 
+0.01297628162065376 0.010966230164287516 0.010966230164287516 0.010966230164287516 
+0.00390625 0 0 
+0.0078125 0 0 0 
+0 0 
+0 0 
+0 0 0 
+0 
+0 0 
+20.562401866098956 19.90723436752094 19.897136857752496 19.897136857752496 
+0.05823004138909577 0.03515625 0.03515625 0.029628759768442016 
+0.0521779375180394 0.04168916149207615 0.04045918751803939 0.025722509768442016 
+0.12404252930532605 0 0 0 
+0.2988663086106521 0 0 0 
+5.963990395068554 5.936524468119493 5.932618218119493 5.920389018079356 
+5.60233405433611 0.07259750976844201 0.02734375 0.0234375 
+0.08867095937636756 0.07668545117851192 0.07169679114312008 0.06361753294526445 
+0 0 0 0 
+0.015625 0.00390625 0 0 
+0.28162006837909415 0.046875 0.015625 0.00390625 
+0.03125 0 0 0 
+32.597422046408504 10.429977584292317 12.667170505915099 12.667170505915099 
+0.01171875 0.00390625 0.00390625 0.00390625 
+0 0 0 0 
+0.0390625 0.00390625 0 0 
+0.10216672121970087 0.1020177254263653 0.10201772534890605 0.10201772534890605 
+0.010097509768442016 0.006191259768442017 0.006191259768442017 0.006191259768442017 
+0.040132014059430725 0.00390625 0 0 
+0 
+4.085968662846172 3.8414374111605776 3.7621312869494172 3.7377999639396675 
+5.910122758495144 5.794538391468495 5.794538391468495 5.7772516781082945 
+0.7875334891986362 0.10570516324105539 0.06823880085870934 0.06823880085870934 
+Absolute picked error on iteration
+0 0 0 0 
+0.0078125 0.00390625 0 0 
+0.01297628162065376 0.01297628162065376 0.010966230164287516 0.010966230164287516 
+0.00390625 0 0 
+0.0078125 0.0078125 0 0 
+0 0 
+0 0 
+0 0 0 
+0 
+0 0 
+20.562401866098956 20.552304356330513 20.552304356330513 20.483111263551148 
+0.05823004138909577 0.056972509768442016 0.049160009768442016 0.03125 
+0.0521779375180394 0.0482716875180394 0.04168916149207615 0.025722509768442016 
+0.12404252930532605 0 0 0 
+0.2988663086106521 0 0 0 
+5.967896645068554 5.952149468119494 5.946069813037086 5.946069813037086 
+5.60233405433611 0.07259750976844201 0.02734375 0.02734375 
+0.08867095937636756 0.08579218752415582 0.07169679114312008 0.06567428142641926 
+0 0 0 0 
+0.015625 0.00390625 0 0 
+0.28162006837909415 0.078125 0.015625 0.0078125 
+0.03125 0 0 0 
+32.859230901180425 32.581797046408504 32.581797046408504 32.57679003907262 
+0.01171875 0.01171875 0.01171875 0.01171875 
+0 0 0 0 
+0.0390625 0.01953125 0 0 
+0.10216672121970087 0.1020177254263653 0.10201772534890605 0.10201772534890605 
+0.010097509768442016 0.010097509768442016 0.010097509768442016 0.010097509768442016 
+0.040132014059430725 0.00390625 0.00390625 0 
+0 
+4.085968662846172 3.9728384640953047 3.9485071410855554 3.9485071410855554 
+5.910122758495144 5.910122758495144 5.868873516040066 5.864961048864469 
+0.7875334891986362 0.10961141324105539 0.10570516324105539 0.10506424165611156 
+File: 0-bparameterofrenormalizedbetadistribution
+Iter 0
+Alt (λ (m v) (* (- (/ (* m (- 1 m)) v) 1) (- 1 m))) error: 0
+Best alt (- (/ (* m (- 1 m)) v) 1) (- 1 m)) with error: 0
+Picked (λ (m v) (* (- (/ (* m (- 1 m)) v) 1) (- 1 m)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (- m (/ (- m (* m m)) (/ v m))))) error: 0
+Alt (λ (m v) (* (- (* (sqrt (/ (* m (- 1 m)) v)) (sqrt (/ (* m (- 1 m)) v))) 1) (- 1 m))) error: 0
+Alt (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (* (- 1 (/ (- 1 m) (/ v m))) m))) error: 0
+Alt (λ (m v) (* (* (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m)))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m))))) error: 0
+Alt (λ (m v) (/ (* (- (/ (- 1 m) (/ v m)) 1) (- 1 (* m m))) (+ 1 m))) error: 0
+Alt (λ (m v) (cbrt (* (* (- (* (- 1 m) (/ m v)) 1) (- (* (- 1 m) (/ m v)) 1)) (* (- (* (- 1 m) (/ m v)) 1) (pow (- 1 m) 3))))) error: 0
+Alt (λ (m v) (* (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (cbrt (- (/ (* m (- 1 m)) v) 1))) (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (- 1 m)))) error: 0
+Alt (λ (m v) (/ (* (- 1 (* m m)) (- (* (* (/ m v) (- 1 m)) (* (/ m v) (- 1 m))) 1)) (* (+ (/ (* m (- 1 m)) v) 1) (+ 1 m)))) error: 0
+Best alt (- (* (/ m v) (- 1 m)) 1) (- m (/ (- m (* m m)) (/ v m)))) with error: 0
+Picked (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (* (- 1 (/ (- 1 m) (/ v m))) m)))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (- m (/ (- m (* m m)) (/ v m))))) error: 0
+Alt (λ (m v) (* (- (* (sqrt (/ (* m (- 1 m)) v)) (sqrt (/ (* m (- 1 m)) v))) 1) (- 1 m))) error: 0
+Alt (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (* (- 1 (/ (- 1 m) (/ v m))) m))) error: 0
+Alt (λ (m v) (* (* (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m)))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m))))) error: 0
+Alt (λ (m v) (/ (* (- (/ (- 1 m) (/ v m)) 1) (- 1 (* m m))) (+ 1 m))) error: 0
+Alt (λ (m v) (cbrt (* (* (- (* (- 1 m) (/ m v)) 1) (- (* (- 1 m) (/ m v)) 1)) (* (- (* (- 1 m) (/ m v)) 1) (pow (- 1 m) 3))))) error: 0
+Alt (λ (m v) (* (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (cbrt (- (/ (* m (- 1 m)) v) 1))) (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (- 1 m)))) error: 0
+Alt (λ (m v) (/ (* (- 1 (* m m)) (- (* (* (/ m v) (- 1 m)) (* (/ m v) (- 1 m))) 1)) (* (+ (/ (* m (- 1 m)) v) 1) (+ 1 m)))) error: 0
+Best alt (- (* (/ m v) (- 1 m)) 1) (- m (/ (- m (* m m)) (/ v m)))) with error: 0
+Picked (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (- m (/ (- m (* m m)) (/ v m)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (- m (/ (- m (* m m)) (/ v m))))) error: 0
+Alt (λ (m v) (* (- (* (sqrt (/ (* m (- 1 m)) v)) (sqrt (/ (* m (- 1 m)) v))) 1) (- 1 m))) error: 0
+Alt (λ (m v) (+ (- (* (/ m v) (- 1 m)) 1) (* (- 1 (/ (- 1 m) (/ v m))) m))) error: 0
+Alt (λ (m v) (* (* (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m)))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) (- 1 m))))) error: 0
+Alt (λ (m v) (/ (* (- (/ (- 1 m) (/ v m)) 1) (- 1 (* m m))) (+ 1 m))) error: 0
+Alt (λ (m v) (cbrt (* (* (- (* (- 1 m) (/ m v)) 1) (- (* (- 1 m) (/ m v)) 1)) (* (- (* (- 1 m) (/ m v)) 1) (pow (- 1 m) 3))))) error: 0
+Alt (λ (m v) (* (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (cbrt (- (/ (* m (- 1 m)) v) 1))) (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (- 1 m)))) error: 0
+Alt (λ (m v) (/ (* (- 1 (* m m)) (- (* (* (/ m v) (- 1 m)) (* (/ m v) (- 1 m))) 1)) (* (+ (/ (* m (- 1 m)) v) 1) (+ 1 m)))) error: 0
+Best alt (- (* (/ m v) (- 1 m)) 1) (- m (/ (- m (* m m)) (/ v m)))) with error: 0
+Picked (λ (m v) (* (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (cbrt (- (/ (* m (- 1 m)) v) 1))) (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (- 1 m))))
+Picked alt had 100% improvement of the best alt
+
+File: 1-aparameterofrenormalizedbetadistribution
+Iter 0
+Alt (λ (m v) (* (- (/ (* m (- 1 m)) v) 1) m)) error: 0.0078125
+Best alt (- (/ (* m (- 1 m)) v) 1) m) with error: 0.0078125
+Picked (λ (m v) (* (- (/ (* m (- 1 m)) v) 1) m))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (m v) (* (- (/ (* m (- 1 m)) v) 1) m)) error: 0.0078125
+Alt (λ (m v) (* (* (cbrt (- (/ (* m (- 1 m)) v) 1)) (cbrt (- (/ (* m (- 1 m)) v) 1))) (* (cbrt (- (/ (* m (- 1 m)) v) 1)) m))) error: 0.0078125
+Alt (λ (m v) (* (- (/ m (/ v (- 1 m))) 1) m)) error: 0.00390625
+Alt (λ (m v) (* (* (cbrt (* (- (/ (* m (- 1 m)) v) 1) m)) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m)))) error: 0
+Alt (λ (m v) (* (- (* (sqrt (/ (* m (- 1 m)) v)) (sqrt (/ (* m (- 1 m)) v))) 1) m)) error: 0.00390625
+Alt (λ (m v) (* (- (/ 1 (/ v (* m (- 1 m)))) 1) m)) error: 0.00390625
+Alt (λ (m v) (cbrt (pow (- (* (/ m v) (- m (* m m))) m) 3))) error: 0.00390625
+Alt (λ (m v) (- (* (- m (* m m)) (/ m v)) m)) error: 0.00390625
+Alt (λ (m v) (* (+ (sqrt (/ (* m (- 1 m)) v)) 1) (* (- (sqrt (/ (* m (- 1 m)) v)) 1) m))) error: 0
+Best alt (* (cbrt (* (- (/ (* m (- 1 m)) v) 1) m)) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m))) with error: 0
+Picked (λ (m v) (- (* (- m (* m m)) (/ m v)) m))
+Picked alt had 0.5% improvement of the best alt with span 0.0078125
+
+Iter 2
+Alt (λ (m v) (* (- (/ (* m (- 1 m)) v) 1) m)) error: 0.00390625
+Alt (λ (m v) (- (/ (* (- 1 (* m m)) (* (* m m) m)) (* (+ m (* m m)) v)) m)) error: 0
+Alt (λ (m v) (* (- (/ m (/ v (- 1 m))) 1) m)) error: 0
+Alt (λ (m v) (* (* (cbrt (* (- (/ (* m (- 1 m)) v) 1) m)) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m)))) error: 0
+Alt (λ (m v) (* (- (* (sqrt (/ (* m (- 1 m)) v)) (sqrt (/ (* m (- 1 m)) v))) 1) m)) error: 0
+Alt (λ (m v) (* (- (/ 1 (/ v (* m (- 1 m)))) 1) m)) error: 0
+Alt (λ (m v) (- (* (- m (* m m)) (/ m v)) m)) error: 0.00390625
+Alt (λ (m v) (* (+ (sqrt (/ (* m (- 1 m)) v)) 1) (* (- (sqrt (/ (* m (- 1 m)) v)) 1) m))) error: 0
+Best alt (/ (* (- 1 (* m m)) (* (* m m) m)) (* (+ m (* m m)) v)) m) with error: 0
+Picked (λ (m v) (* (- (/ m (/ v (- 1 m))) 1) m))
+Picked alt had 1.0% improvement of the best alt with span 0.00390625
+
+Iter 3
+Alt (λ (m v) (* (- (/ (* m (- 1 m)) v) 1) m)) error: 0
+Alt (λ (m v) (* (- (/ (/ m (sqrt (/ v (- 1 m)))) (sqrt (/ v (- 1 m)))) 1) m)) error: 0
+Alt (λ (m v) (- (/ (* (- 1 (* m m)) (* (* m m) m)) (* (+ m (* m m)) v)) m)) error: 0
+Alt (λ (m v) (* (- (/ m (/ v (- 1 m))) 1) m)) error: 0
+Alt (λ (m v) (* (* (cbrt (* (- (/ (* m (- 1 m)) v) 1) m)) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m))) (cbrt (* (- (/ (* m (- 1 m)) v) 1) m)))) error: 0
+Alt (λ (m v) (* (- (* (sqrt (/ (* m (- 1 m)) v)) (sqrt (/ (* m (- 1 m)) v))) 1) m)) error: 0
+Alt (λ (m v) (* (- (/ 1 (/ v (* m (- 1 m)))) 1) m)) error: 0
+Alt (λ (m v) (- (* (- m (* m m)) (/ m v)) m)) error: 0
+Alt (λ (m v) (* (+ (sqrt (/ (* m (- 1 m)) v)) 1) (* (- (sqrt (/ (* m (- 1 m)) v)) 1) m))) error: 0
+Best alt (- (/ (* m (- 1 m)) v) 1) m) with error: 0
+Picked (λ (m v) (* (- (/ 1 (/ v (* m (- 1 m)))) 1) m))
+Picked alt had 100% improvement of the best alt
+
+File: 10-LogisticfunctionfromLakshayGarg
+Iter 0
+Alt (λ (x y) (- (/ 2 (+ 1 (exp (* -2 x)))) 1)) error: 0.01297628162065376
+Best alt (/ 2 (+ 1 (exp (* -2 x)))) 1) with error: 0.01297628162065376
+Picked (λ (x y) (- (/ 2 (+ 1 (exp (* -2 x)))) 1))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x y) (/ (- (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1))) error: 0.010966230164287516
+Alt (λ (x y) (- (+ (* 2/15 (pow x 5)) x) (* 1/3 (pow x 3)))) error: 0.01297628162065376
+Best alt (- (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1)) with error: 0.010966230164287516
+Picked (λ (x y) (- (+ (* 2/15 (pow x 5)) x) (* 1/3 (pow x 3))))
+Picked alt had 0.0% improvement of the best alt with span 0.002010051456366244
+
+Iter 2
+Alt (λ (x y) (/ (- (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1))) error: 0.010966230164287516
+Alt (λ (x y) (- (+ (* 2/15 (pow x 5)) x) (* 1/3 (pow x 3)))) error: 0.01297628162065376
+Best alt (- (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1)) with error: 0.010966230164287516
+Picked (λ (x y) (/ (- (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1)))
+Picked alt had 1.0% improvement of the best alt with span 0.002010051456366244
+
+Iter 3
+Alt (λ (x y) (/ (- (cbrt (pow (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 3)) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1))) error: 0.010966230164287516
+Alt (λ (x y) (- (+ (* 2/15 (pow x 5)) x) (* 1/3 (pow x 3)))) error: 0.010966230164287516
+Best alt (- (cbrt (pow (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 3)) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1)) with error: 0.010966230164287516
+Picked (λ (x y) (/ (- (cbrt (pow (* (/ 2 (+ 1 (exp (* -2 x)))) (/ 2 (+ 1 (exp (* -2 x))))) 3)) 1) (+ (/ 2 (+ 1 (exp (* -2 x)))) 1)))
+Picked alt had 100% improvement of the best alt
+
+File: 11-Hyperbolictangent
+Iter 0
+Alt (λ (x) (/ (- (exp x) (exp (- x))) (+ (exp x) (exp (- x))))) error: 0.00390625
+Best alt  (exp x) (exp (- x))) (+ (exp x) (exp (- x)))) with error: 0.00390625
+Picked (λ (x) (/ (- (exp x) (exp (- x))) (+ (exp x) (exp (- x)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (tanh x)) error: 0
+Best alt  x) with error: 0
+Picked (λ (x) (tanh x))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (x) (* (* (cbrt (tanh x)) (cbrt (tanh x))) (cbrt (tanh x)))) error: 0
+Alt (λ (x) (tanh x)) error: 0
+Best alt  (cbrt (tanh x)) (cbrt (tanh x))) (cbrt (tanh x))) with error: 0
+Picked (λ (x) (* (* (cbrt (tanh x)) (cbrt (tanh x))) (cbrt (tanh x))))
+Picked alt had 100% improvement of the best alt
+
+File: 12-Hyperbolicsine
+Iter 0
+Alt (λ (x) (/ (- (exp x) (exp (- x))) 2)) error: 0.0078125
+Best alt  (exp x) (exp (- x))) 2) with error: 0.0078125
+Picked (λ (x) (/ (- (exp x) (exp (- x))) 2))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (+ (* 1/3 (pow x 3)) (+ (* 1/60 (pow x 5)) (* 2 x))) 2)) error: 0.0078125
+Alt (λ (x) (/ (/ (- (* (exp x) (exp x)) (* (exp (- x)) (exp (- x)))) (+ (exp x) (exp (- x)))) 2)) error: 0
+Alt (λ (x) (/ (* (+ (sqrt (exp x)) (sqrt (exp (- x)))) (- (sqrt (exp x)) (sqrt (exp (- x))))) 2)) error: 0.0078125
+Alt (λ (x) (/ (/ (- (pow (exp x) 3) (pow (exp (- x)) 3)) (+ (exp (- (+ x x))) (+ (* (exp x) (exp x)) 1))) 2)) error: 0
+Best alt  (- (* (exp x) (exp x)) (* (exp (- x)) (exp (- x)))) (+ (exp x) (exp (- x)))) 2) with error: 0
+Picked (λ (x) (/ (+ (* 1/3 (pow x 3)) (+ (* 1/60 (pow x 5)) (* 2 x))) 2))
+Picked alt had 0.0% improvement of the best alt with span 0.0078125
+
+Iter 2
+Alt (λ (x) (/ (+ (* 1/3 (pow x 3)) (+ (* 1/60 (pow x 5)) (* 2 x))) 2)) error: 0.0078125
+Alt (λ (x) (/ (/ (- (* (exp x) (exp x)) (* (exp (- x)) (exp (- x)))) (+ (exp x) (exp (- x)))) 2)) error: 0
+Alt (λ (x) (/ (* (+ (sqrt (exp x)) (sqrt (exp (- x)))) (- (sqrt (exp x)) (sqrt (exp (- x))))) 2)) error: 0.0078125
+Alt (λ (x) (/ (/ (- (pow (exp x) 3) (pow (exp (- x)) 3)) (+ (exp (- (+ x x))) (+ (* (exp x) (exp x)) 1))) 2)) error: 0
+Best alt  (- (* (exp x) (exp x)) (* (exp (- x)) (exp (- x)))) (+ (exp x) (exp (- x)))) 2) with error: 0
+Picked (λ (x) (/ (/ (- (* (exp x) (exp x)) (* (exp (- x)) (exp (- x)))) (+ (exp x) (exp (- x)))) 2))
+Picked alt had 1.0% improvement of the best alt with span 0.0078125
+
+Iter 3
+Alt (λ (x) (/ (+ (* 1/3 (pow x 3)) (+ (* 1/60 (pow x 5)) (* 2 x))) 2)) error: 0
+Alt (λ (x) (/ (* (+ (sqrt (exp x)) (sqrt (exp (- x)))) (- (sqrt (exp x)) (sqrt (exp (- x))))) 2)) error: 0
+Alt (λ (x) (/ (/ (- (pow (exp x) 3) (pow (exp (- x)) 3)) (+ (exp (- (+ x x))) (+ (* (exp x) (exp x)) 1))) 2)) error: 0
+Alt (λ (x) (/ (* (* (cbrt (+ (/ (- 1) (exp (+ x x))) (exp (+ x x)))) (cbrt (+ (/ (- 1) (exp (+ x x))) (exp (+ x x))))) (/ (cbrt (- (exp (+ x x)) (exp (+ (- x) (- x))))) (+ (exp x) (exp (- x))))) 2)) error: 0
+Best alt  (* 1/3 (pow x 3)) (+ (* 1/60 (pow x 5)) (* 2 x))) 2) with error: 0
+Picked (λ (x) (/ (* (* (cbrt (+ (/ (- 1) (exp (+ x x))) (exp (+ x x)))) (cbrt (+ (/ (- 1) (exp (+ x x))) (exp (+ x x))))) (/ (cbrt (- (exp (+ x x)) (exp (+ (- x) (- x))))) (+ (exp x) (exp (- x))))) 2))
+Picked alt had 100% improvement of the best alt
+
+File: 13-Hyperbolicsecant
+Iter 0
+Alt (λ (x) (/ 2 (+ (exp x) (exp (- x))))) error: 0
+Best alt (+ (exp x) (exp (- x)))) with error: 0
+Picked (λ (x) (/ 2 (+ (exp x) (exp (- x)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (log (exp (/ 2 (+ (exp x) (exp (- x))))))) error: 0
+Alt (λ (x) (/ 2 (+ (exp x) (exp (- x))))) error: 0
+Best alt (exp (/ 2 (+ (exp x) (exp (- x)))))) with error: 0
+Picked (λ (x) (log (exp (/ 2 (+ (exp x) (exp (- x)))))))
+Picked alt had 100% improvement of the best alt
+
+File: 14-Hyperbolicarccosine
+Iter 0
+Alt (λ (x) (log (+ x (sqrt (- (* x x) 1))))) error: 0
+Best alt (+ x (sqrt (- (* x x) 1)))) with error: 0
+Picked (λ (x) (log (+ x (sqrt (- (* x x) 1)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (log (+ x (sqrt (- (* x x) 1))))) error: 0
+Alt (λ (x) (log (+ x (* (sqrt (+ x 1)) (sqrt (- x 1)))))) error: 0
+Best alt (+ x (sqrt (- (* x x) 1)))) with error: 0
+Picked (λ (x) (log (+ x (* (sqrt (+ x 1)) (sqrt (- x 1))))))
+Picked alt had 100% improvement of the best alt
+
+File: 15-Hyperbolicarccotangent
+Iter 0
+Alt (λ (x) (* (/ 1 2) (log (/ (+ 1 x) (- 1 x))))) error: 0
+Best alt  1 2) (log (/ (+ 1 x) (- 1 x)))) with error: 0
+Picked (λ (x) (* (/ 1 2) (log (/ (+ 1 x) (- 1 x)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (+ (+ x (* (pow x 3) (/ 2/3 2))) (/ (* (pow x 5) 2/5) 2))) error: 0
+Alt (λ (x) (* (/ 1 2) (+ (log (sqrt (+ x 1))) (log (/ (sqrt (+ 1 x)) (- 1 x)))))) error: 0
+Best alt  x (* (pow x 3) (/ 2/3 2))) (/ (* (pow x 5) 2/5) 2)) with error: 0
+Picked (λ (x) (+ (+ x (* (pow x 3) (/ 2/3 2))) (/ (* (pow x 5) 2/5) 2)))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (x) (+ (+ x (* (pow x 3) (/ 2/3 2))) (/ (* (pow x 5) 2/5) 2))) error: 0
+Alt (λ (x) (* (/ 1 2) (+ (log (sqrt (+ x 1))) (log (/ (sqrt (+ 1 x)) (- 1 x)))))) error: 0
+Best alt  x (* (pow x 3) (/ 2/3 2))) (/ (* (pow x 5) 2/5) 2)) with error: 0
+Picked (λ (x) (* (/ 1 2) (+ (log (sqrt (+ x 1))) (log (/ (sqrt (+ 1 x)) (- 1 x))))))
+Picked alt had 100% improvement of the best alt
+
+File: 16-Hyperbolicarccosecant
+Iter 0
+Alt (λ (x) (log (+ (/ 1 x) (/ (sqrt (- 1 (* x x))) x)))) error: 0
+Best alt (+ (/ 1 x) (/ (sqrt (- 1 (* x x))) x))) with error: 0
+Picked (λ (x) (log (+ (/ 1 x) (/ (sqrt (- 1 (* x x))) x))))
+Picked alt had 100% improvement of the best alt
+
+File: 18-Eccentricityofanellipse
+Iter 0
+Alt (λ (a b) (sqrt (fabs (- 1 (* (/ b a) (/ b a)))))) error: 0
+Alt (λ (a b) (sqrt (fabs (/ (- (* a a) (* b b)) (* a a))))) error: 0
+Best alt rt (fabs (- 1 (* (/ b a) (/ b a))))) with error: 0
+Picked (λ (a b) (sqrt (fabs (- 1 (* (/ b a) (/ b a))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b) (sqrt (fabs (- 1 (* (/ b a) (/ b a)))))) error: 0
+Alt (λ (a b) (sqrt (fabs (- 1 (log (exp (* (/ b a) (/ b a)))))))) error: 0
+Best alt rt (fabs (- 1 (* (/ b a) (/ b a))))) with error: 0
+Picked (λ (a b) (sqrt (fabs (- 1 (log (exp (* (/ b a) (/ b a))))))))
+Picked alt had 100% improvement of the best alt
+
+File: 19-Distanceonagreatcircle
+Iter 0
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.562401866098956
+Best alt 1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))))))) with error: 20.562401866098956
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.544491856330513
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.90723436752094
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.90723436752094
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (* (sqrt (sin (/ (- lambda1 lambda2) 2))) (sqrt (sin (/ (- lambda1 lambda2) 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.51913260082314
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.552304356330513
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* 1/2 lambda1) (+ (* 1/2 lambda2) (* 1/48 (pow lambda1 3)))))))))))) error: 20.484646285815554
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (* (* (cbrt (sin (/ (- lambda1 lambda2) 2))) (cbrt (sin (/ (- lambda1 lambda2) 2)))) (cbrt (sin (/ (- lambda1 lambda2) 2))))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.48676115487321
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (log (exp (sin (/ (- lambda1 lambda2) 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.53667935524091
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2)))))))))))) error: 20.020995652660677
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (* (* (cbrt (sin (/ (- lambda1 lambda2) 2))) (cbrt (sin (/ (- lambda1 lambda2) 2)))) (cbrt (sin (/ (- lambda1 lambda2) 2))))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.49320922766937
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* 1/2 lambda1) (+ (* 1/2 lambda2) (* 1/48 (pow lambda1 3))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.389176061121752
+Best alt 1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))))))) with error: 19.90723436752094
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (sin (/ (- lambda1 lambda2) 2))))))))))
+Picked alt had 0.0% improvement of the best alt with span 0.6450699888095741
+
+Iter 2
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.897136857752496
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.897136857752496
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (* (sqrt (sin (/ (- lambda1 lambda2) 2))) (sqrt (sin (/ (- lambda1 lambda2) 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.5090350910547
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3)))))))))) error: 20.552304356330513
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* 1/2 lambda1) (+ (* 1/2 lambda2) (* 1/48 (pow lambda1 3)))))))))))) error: 20.47454877604711
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (* (* (cbrt (sin (/ (- lambda1 lambda2) 2))) (cbrt (sin (/ (- lambda1 lambda2) 2)))) (cbrt (sin (/ (- lambda1 lambda2) 2))))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.480569895104768
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (* (* (cbrt (sin (/ (- lambda1 lambda2) 2))) (cbrt (sin (/ (- lambda1 lambda2) 2)))) (cbrt (sin (/ (- lambda1 lambda2) 2)))))))))))) error: 20.483111263551148
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (log (exp (sin (/ (- lambda1 lambda2) 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.526581845472467
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2)))))))))))) error: 20.010898142892234
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* 1/2 lambda1) (+ (* 1/2 lambda2) (* 1/48 (pow lambda1 3))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.37907855135331
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.901043107752496
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.53830059656207
+Best alt 1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))))))) with error: 19.897136857752496
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))))))))))
+Picked alt had 0.0% improvement of the best alt with span 0.6551674985780167
+
+Iter 3
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.897136857752496
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.897136857752496
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (* (sqrt (sin (/ (- lambda1 lambda2) 2))) (sqrt (sin (/ (- lambda1 lambda2) 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.5090350910547
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3)))))))))) error: 20.552304356330513
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* 1/2 lambda1) (+ (* 1/2 lambda2) (* 1/48 (pow lambda1 3)))))))))))) error: 20.47454877604711
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (* (* (cbrt (sin (/ (- lambda1 lambda2) 2))) (cbrt (sin (/ (- lambda1 lambda2) 2)))) (cbrt (sin (/ (- lambda1 lambda2) 2))))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.480569895104768
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (* (* (cbrt (sin (/ (- lambda1 lambda2) 2))) (cbrt (sin (/ (- lambda1 lambda2) 2)))) (cbrt (sin (/ (- lambda1 lambda2) 2)))))))))))) error: 20.483111263551148
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (log (exp (sin (/ (- lambda1 lambda2) 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.526581845472467
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2)))))))))))) error: 20.010898142892234
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* 1/2 lambda1) (+ (* 1/2 lambda2) (* 1/48 (pow lambda1 3))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.37907855135331
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 19.901043107752496
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (sin (/ (- lambda1 lambda2) 2)))))))))) error: 20.53830059656207
+Best alt 1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (- (* (sin (/ lambda1 2)) (cos (/ lambda2 2))) (* (cos (/ lambda1 2)) (sin (/ lambda2 2))))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))))))) with error: 19.897136857752496
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* R (* 2 (atan2 (sqrt (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (sin (/ (- lambda1 lambda2) 2))) (sin (/ (- lambda1 lambda2) 2))))) (sqrt (- 1 (+ (pow (sin (/ (- phi1 phi2) 2)) 2) (* (* (* (cos phi1) (cos phi2)) (cbrt (pow (sin (/ (- lambda1 lambda2) 2)) 3))) (* (* (cbrt (sin (/ (- lambda1 lambda2) 2))) (cbrt (sin (/ (- lambda1 lambda2) 2)))) (cbrt (sin (/ (- lambda1 lambda2) 2))))))))))))
+Picked alt had 0.10561130234564814% improvement of the best alt with span 0.6551674985780167
+
+File: 2-TrigonometryB
+Iter 0
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))) error: 0.05823004138909577
+Best alt  1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x)))) with error: 0.05823004138909577
+Picked (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (* (tan x) (* (cbrt (tan x)) (cbrt (tan x)))) (cbrt (tan x)))))) error: 0.05432379138909577
+Alt (λ (x) (* (/ (* (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (- 1 (* (tan x) (tan x))))) (* (cbrt (+ 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x)))))) (/ (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x))))))) error: 0.037441259768442016
+Alt (λ (x) (* (- 1 (* (tan x) (tan x))) (/ 1 (+ 1 (* (tan x) (tan x)))))) error: 0.049160009768442016
+Alt (λ (x) (- (+ (* 2/3 (pow x 4)) 1) (* 2 (pow x 2)))) error: 0.05823004138909577
+Alt (λ (x) (/ (log (exp (- 1 (* (tan x) (tan x))))) (+ 1 (* (tan x) (tan x))))) error: 0.04651129138909577
+Alt (λ (x) (/ (* (sqrt (- 1 (* (tan x) (tan x)))) (sqrt (- 1 (* (tan x) (tan x))))) (+ 1 (* (tan x) (tan x))))) error: 0.05823004138909577
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (cbrt (pow (* (tan x) (tan x)) 3))))) error: 0.056972509768442016
+Alt (λ (x) (* (/ (- 1 (* (tan x) (tan x))) (- 1 (pow (tan x) (+ 1 3)))) (- 1 (* (tan x) (tan x))))) error: 0.03582001953688403
+Alt (λ (x) (/ (- 1 (/ (* (sin x) (sin x)) (* (cos x) (cos x)))) (+ 1 (* (tan x) (tan x))))) error: 0.05144501953688403
+Alt (λ (x) (log (exp (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))))) error: 0.048796301157537796
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (* (cbrt (* (tan x) (tan x))) (cbrt (* (tan x) (tan x)))) (cbrt (* (tan x) (tan x))))))) error: 0.05432379138909577
+Alt (λ (x) (- (/ 1 (+ 1 (* (tan x) (tan x)))) (/ (* (tan x) (tan x)) (+ 1 (* (tan x) (tan x)))))) error: 0.03515625
+Alt (λ (x) (* (* (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))) (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x)))))) (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))))) error: 0.04098380115753779
+Best alt  1 (+ 1 (* (tan x) (tan x)))) (/ (* (tan x) (tan x)) (+ 1 (* (tan x) (tan x))))) with error: 0.03515625
+Picked (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (cbrt (pow (* (tan x) (tan x)) 3)))))
+Picked alt had 0.05450043295650328% improvement of the best alt with span 0.023073791389095773
+
+Iter 2
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (* (tan x) (* (cbrt (tan x)) (cbrt (tan x)))) (cbrt (tan x)))))) error: 0.053066259768442016
+Alt (λ (x) (* (/ (* (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (- 1 (* (tan x) (tan x))))) (* (cbrt (+ 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x)))))) (/ (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x))))))) error: 0.037441259768442016
+Alt (λ (x) (* (- 1 (* (tan x) (tan x))) (/ 1 (+ 1 (* (tan x) (tan x)))))) error: 0.049160009768442016
+Alt (λ (x) (- (+ (* 2/3 (pow x 4)) 1) (* 2 (pow x 2)))) error: 0.056972509768442016
+Alt (λ (x) (/ (log (exp (- 1 (* (tan x) (tan x))))) (+ 1 (* (tan x) (tan x))))) error: 0.04651129138909577
+Alt (λ (x) (/ (* (sqrt (- 1 (* (tan x) (tan x)))) (sqrt (- 1 (* (tan x) (tan x))))) (+ 1 (* (tan x) (tan x))))) error: 0.056972509768442016
+Alt (λ (x) (* (/ (- 1 (* (tan x) (tan x))) (- 1 (pow (tan x) (+ 1 3)))) (- 1 (* (tan x) (tan x))))) error: 0.03582001953688403
+Alt (λ (x) (/ (- 1 (/ (* (sin x) (sin x)) (* (cos x) (cos x)))) (+ 1 (cbrt (pow (* (tan x) (tan x)) 3))))) error: 0.04982377930532605
+Alt (λ (x) (log (exp (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))))) error: 0.04753876953688403
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (* (cbrt (* (tan x) (tan x))) (cbrt (* (tan x) (tan x)))) (cbrt (* (tan x) (tan x))))))) error: 0.053066259768442016
+Alt (λ (x) (- (/ 1 (+ 1 (* (tan x) (tan x)))) (/ (* (tan x) (tan x)) (+ 1 (* (tan x) (tan x)))))) error: 0.03515625
+Alt (λ (x) (* (* (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))) (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x)))))) (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))))) error: 0.04098380115753779
+Best alt  1 (+ 1 (* (tan x) (tan x)))) (/ (* (tan x) (tan x)) (+ 1 (* (tan x) (tan x))))) with error: 0.03515625
+Picked (λ (x) (* (- 1 (* (tan x) (tan x))) (/ 1 (+ 1 (* (tan x) (tan x))))))
+Picked alt had 0.35810446350208275% improvement of the best alt with span 0.021816259768442016
+
+Iter 3
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (* (tan x) (* (cbrt (tan x)) (cbrt (tan x)))) (cbrt (tan x)))))) error: 0.049160009768442016
+Alt (λ (x) (* (/ (* (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (- 1 (* (tan x) (tan x))))) (* (cbrt (+ 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x)))))) (/ (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x))))))) error: 0.029628759768442016
+Alt (λ (x) (* (- 1 (* (tan x) (tan x))) (/ 1 (+ 1 (* (tan x) (tan x)))))) error: 0.049160009768442016
+Alt (λ (x) (- (+ (* 2/3 (pow x 4)) 1) (* 2 (pow x 2)))) error: 0.049160009768442016
+Alt (λ (x) (/ (log (exp (- 1 (* (tan x) (tan x))))) (+ 1 (* (tan x) (tan x))))) error: 0.03869879138909577
+Alt (λ (x) (/ (* (sqrt (- 1 (* (tan x) (tan x)))) (sqrt (- 1 (* (tan x) (tan x))))) (+ 1 (* (tan x) (tan x))))) error: 0.049160009768442016
+Alt (λ (x) (* (/ (- 1 (* (tan x) (tan x))) (- 1 (pow (tan x) (+ 1 3)))) (- 1 (* (tan x) (tan x))))) error: 0.03191376953688403
+Alt (λ (x) (/ (- 1 (/ (* (sin x) (sin x)) (* (cos x) (cos x)))) (+ 1 (cbrt (pow (* (tan x) (tan x)) 3))))) error: 0.04591752930532605
+Alt (λ (x) (* (- 1 (/ (* (sin x) (sin x)) (* (cos x) (cos x)))) (/ 1 (+ 1 (* (tan x) (tan x)))))) error: 0.04753876953688403
+Alt (λ (x) (log (exp (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))))) error: 0.04363251953688403
+Alt (λ (x) (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (* (cbrt (* (tan x) (tan x))) (cbrt (* (tan x) (tan x)))) (cbrt (* (tan x) (tan x))))))) error: 0.049160009768442016
+Alt (λ (x) (- (/ 1 (+ 1 (* (tan x) (tan x)))) (/ (* (tan x) (tan x)) (+ 1 (* (tan x) (tan x)))))) error: 0.03125
+Alt (λ (x) (* (* (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))) (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x)))))) (cbrt (/ (- 1 (* (tan x) (tan x))) (+ 1 (* (tan x) (tan x))))))) error: 0.04098380115753779
+Alt (λ (x) (* (- 1 (* (* (tan x) (* (cbrt (tan x)) (cbrt (tan x)))) (cbrt (tan x)))) (/ 1 (+ 1 (* (tan x) (tan x)))))) error: 0.049160009768442016
+Best alt  (* (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (- 1 (* (tan x) (tan x))))) (* (cbrt (+ 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x)))))) (/ (cbrt (- 1 (* (tan x) (tan x)))) (cbrt (+ 1 (* (tan x) (tan x)))))) with error: 0.029628759768442016
+Picked (λ (x) (- (/ 1 (+ 1 (* (tan x) (tan x)))) (/ (* (tan x) (tan x)) (+ 1 (* (tan x) (tan x))))))
+Picked alt had 0.9169925001442312% improvement of the best alt with span 0.01953125
+
+File: 20-Destinationgivenbearingonagreatcircle
+Iter 0
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.0521779375180394
+Best alt phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta))))))))) with error: 0.0521779375180394
+Picked (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta))))))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (sin theta) (* (cbrt (sin delta)) (cbrt (sin delta)))) (cbrt (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.0443654375180394
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (cbrt (sin theta)) (cbrt (sin theta))) (* (cbrt (sin theta)) (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.05182338492458946
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (cbrt (pow (* (sin delta) (sin theta)) 3)) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.05055669728648141
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (cbrt (* (sin theta) (sin delta))) (cbrt (* (sin theta) (sin delta)))) (cbrt (* (sin theta) (sin delta)))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.04436543751803939
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (log (exp (+ (* (cos delta) (sin phi1)) (* (cos theta) (* (sin delta) (cos phi1))))))))))))) error: 0.0482716875180394
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (sin theta) (sqrt (sin delta))) (sqrt (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.05055669728648141
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (cbrt (pow (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (sin delta) (cos phi1)) (cos theta))))))) 3))))) error: 0.04168916149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (exp (log (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))))) error: 0.049665021553383294
+Best alt phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (cbrt (pow (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (sin delta) (cos phi1)) (cos theta))))))) 3)))) with error: 0.04168916149207615
+Picked (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (log (exp (+ (* (cos delta) (sin phi1)) (* (cos theta) (* (sin delta) (cos phi1)))))))))))))
+Picked alt had 0.35046567013267793% improvement of the best alt with span 0.010134223432513308
+
+Iter 2
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (sin theta) (* (cbrt (sin delta)) (cbrt (sin delta)))) (cbrt (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.0443654375180394
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (cbrt (sin theta)) (cbrt (sin theta))) (* (cbrt (sin theta)) (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.04791713492458946
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (cbrt (pow (* (sin delta) (sin theta)) 3)) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.04665044728648141
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (cbrt (* (sin theta) (sin delta))) (cbrt (* (sin theta) (sin delta)))) (cbrt (* (sin theta) (sin delta)))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.04045918751803939
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (/ (- (pow (cos delta) 3) (pow (* (sin phi1) (sin (asin (log (exp (+ (* (cos delta) (sin phi1)) (* (cos theta) (* (sin delta) (cos phi1))))))))) 3)) (+ (* (* (sin (asin (+ (* (cos delta) (sin phi1)) (* (cos phi1) (* (sin delta) (cos theta)))))) (sin phi1)) (* (sin (asin (+ (* (cos delta) (sin phi1)) (* (cos phi1) (* (sin delta) (cos theta)))))) (sin phi1))) (+ (* (* (cos delta) (sin phi1)) (sin (asin (+ (* (cos delta) (sin phi1)) (* (cos phi1) (* (sin delta) (cos theta))))))) (* (cos delta) (cos delta)))))))) error: 0.04274419728648141
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (sin theta) (sqrt (sin delta))) (sqrt (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.04665044728648141
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (cbrt (pow (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (sin delta) (cos phi1)) (cos theta))))))) 3))))) error: 0.04168916149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (exp (log (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))))) error: 0.045758771553383294
+Best alt phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (cbrt (* (sin theta) (sin delta))) (cbrt (* (sin theta) (sin delta)))) (cbrt (* (sin theta) (sin delta)))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta))))))))) with error: 0.04045918751803939
+Picked (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (cbrt (pow (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (sin delta) (cos phi1)) (cos theta))))))) 3)))))
+Picked alt had 0.8350787546508417% improvement of the best alt with span 0.007457947406550071
+
+Iter 3
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (sin theta) (* (cbrt (sin delta)) (cbrt (sin delta)))) (cbrt (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.03778291149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (* (cbrt (sqrt (pow (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (sin delta) (cos phi1)) (cos theta))))))) 3))) (cbrt (sqrt (pow (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (sin delta) (cos phi1)) (cos theta))))))) 3))))))) error: 0.03778291149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (cbrt (sin theta)) (cbrt (sin theta))) (* (cbrt (sin theta)) (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.04168916149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (cbrt (* (sin theta) (sin delta))) (cbrt (* (sin theta) (sin delta)))) (cbrt (* (sin theta) (sin delta)))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.03778291149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (/ (- (pow (cos delta) 3) (pow (* (sin phi1) (sin (asin (log (exp (+ (* (cos delta) (sin phi1)) (* (cos theta) (* (sin delta) (cos phi1))))))))) 3)) (+ (* (* (sin (asin (+ (* (cos delta) (sin phi1)) (* (cos phi1) (* (sin delta) (cos theta)))))) (sin phi1)) (* (sin (asin (+ (* (cos delta) (sin phi1)) (* (cos phi1) (* (sin delta) (cos theta)))))) (sin phi1))) (+ (* (* (cos delta) (sin phi1)) (sin (asin (+ (* (cos delta) (sin phi1)) (* (cos phi1) (* (sin delta) (cos theta))))))) (* (cos delta) (cos delta)))))))) error: 0.03778291149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (* (sin theta) (sqrt (sin delta))) (sqrt (sin delta))) (cos phi1)) (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (cos phi1) (sin delta)) (cos theta)))))))))) error: 0.04168916149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ lambda1 (atan2 (* (* (sin theta) (sin delta)) (cos phi1)) (cbrt (pow (- (cos delta) (* (sin phi1) (sin (asin (+ (* (sin phi1) (cos delta)) (* (* (sin delta) (cos phi1)) (cos theta))))))) 3))))) error: 0.04168916149207615
+Alt (λ (lambda1 phi1 phi2 delta theta) (+ (atan2 (* (* (cos phi1) (sin delta)) (sin theta)) (- (- (cos delta) (* (cos delta) (* (sin phi1) (sin phi1)))) (* (* (sin phi1) (cos theta)) (* (cos phi1) (sin delta))))) lambda1)) error: 0.025722509768442016
+Best alt phi1 phi2 delta theta) (+ (atan2 (* (* (cos phi1) (sin delta)) (sin theta)) (- (- (cos delta) (* (cos delta) (* (sin phi1) (sin phi1)))) (* (* (sin phi1) (cos theta)) (* (cos phi1) (sin delta))))) lambda1) with error: 0.025722509768442016
+Picked (λ (lambda1 phi1 phi2 delta theta) (+ (atan2 (* (* (cos phi1) (sin delta)) (sin theta)) (- (- (cos delta) (* (cos delta) (* (sin phi1) (sin phi1)))) (* (* (sin phi1) (cos theta)) (* (cos phi1) (sin delta))))) lambda1))
+Picked alt had 1.0% improvement of the best alt with span 0.015966651723634137
+
+File: 21-Cubiccriticalwiderange
+Iter 0
+Alt (λ (a b c d) (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a))) error: 0.12404252930532605
+Best alt  (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a)) with error: 0.12404252930532605
+Picked (λ (a b c d) (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b c d) (/ (* (/ c 1) (/ -3/2 3)) b)) error: 0.12404252930532605
+Alt (λ (a b c d) (/ (* (* (cbrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) (cbrt (- (sqrt (- (* b b) (* 3 (* c a)))) b))) (cbrt (- (sqrt (- (* b b) (* (* c a) 3))) b))) (* 3 a))) error: 0.12404252930532605
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 0
+Best alt  (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a)) with error: 0
+Picked (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a)))
+Picked alt had 1.0% improvement of the best alt with span 0.12404252930532605
+
+Iter 2
+Alt (λ (a b c d) (/ (* (/ c 1) (/ -3/2 3)) b)) error: 0
+Alt (λ (a b c d) (cbrt (pow (/ (* 1 c) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))) 3))) error: 0
+Alt (λ (a b c d) (* (/ 1 3) (/ (* (/ c 1) 3) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))))) error: 0
+Alt (λ (a b c d) (* (/ (/ (* c (* a 3)) (- (pow (- b) 3) (pow (sqrt (- (* b b) (* (* 3 a) c))) 3))) 3) (- (/ (sqrt (- (* b b) (* c (* a 3)))) (/ a (- b))) (/ (- (* c (* a 3)) (* b (+ b b))) a)))) error: 0
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 0
+Alt (λ (a b c d) (* (/ c 3) (/ 3 (- (- b) (sqrt (- (* b b) (* c (* a 3)))))))) error: 0
+Alt (λ (a b c d) (cbrt (/ (* (* (/ (* a (* c 3)) (* 3 a)) (/ (* a (* c 3)) (* (* 3 a) (* 3 a)))) (* a (* c 3))) (pow (- (- b) (sqrt (- (* b b) (* a (* c 3))))) 3)))) error: 0
+Alt (λ (a b c d) (/ (/ c (/ (- (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* a 3))) (* 3 a))) error: 0
+Best alt  (/ (* (/ c 1) (/ -3/2 3)) b) with error: 0
+Picked (λ (a b c d) (* (/ c 3) (/ 3 (- (- b) (sqrt (- (* b b) (* c (* a 3))))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (a b c d) (/ (* (/ c 1) (/ -3/2 3)) b)) error: 0
+Alt (λ (a b c d) (cbrt (pow (/ (* 1 c) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))) 3))) error: 0
+Alt (λ (a b c d) (* (/ 1 3) (/ (* (/ c 1) 3) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))))) error: 0
+Alt (λ (a b c d) (* (/ (/ (* c (* a 3)) (- (pow (- b) 3) (pow (sqrt (- (* b b) (* (* 3 a) c))) 3))) 3) (- (/ (sqrt (- (* b b) (* c (* a 3)))) (/ a (- b))) (/ (- (* c (* a 3)) (* b (+ b b))) a)))) error: 0
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 0
+Alt (λ (a b c d) (* (/ c 3) (/ 3 (- (- b) (sqrt (- (* b b) (* c (* a 3)))))))) error: 0
+Alt (λ (a b c d) (cbrt (/ (* (* (/ (* a (* c 3)) (* 3 a)) (/ (* a (* c 3)) (* (* 3 a) (* 3 a)))) (* a (* c 3))) (pow (- (- b) (sqrt (- (* b b) (* a (* c 3))))) 3)))) error: 0
+Alt (λ (a b c d) (/ (/ c (/ (- (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* a 3))) (* 3 a))) error: 0
+Best alt  (/ (* (/ c 1) (/ -3/2 3)) b) with error: 0
+Picked (λ (a b c d) (/ (/ c (/ (- (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* a 3))) (* 3 a)))
+Picked alt had 100% improvement of the best alt
+
+File: 22-Cubiccriticalnarrowrange
+Iter 0
+Alt (λ (a b c d) (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a))) error: 0.2988663086106521
+Best alt  (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a)) with error: 0.2988663086106521
+Picked (λ (a b c d) (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b c d) (/ (cbrt (pow (- (sqrt (- (* b b) (* a (* 3 c)))) b) 3)) (* 3 a))) error: 0.1796875
+Alt (λ (a b c d) (/ (* (cbrt (+ (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (cbrt (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))))) (/ (* 3 a) (cbrt (- (sqrt (- (* b b) (* a (* 3 c)))) b))))) error: 0.2988663086106521
+Alt (λ (a b c d) (* (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a))) (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a)))) (cbrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))))) error: 0.2949600586106521
+Alt (λ (a b c d) (/ (* (/ c 1) (/ -3/2 3)) b)) error: 0.2988663086106521
+Alt (λ (a b c d) (/ (- (* (- b) (- b)) (* (sqrt (- (* b b) (* (* 3 a) c))) (sqrt (- (* b b) (* (* 3 a) c))))) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))) error: 0.02734375
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 0
+Best alt  (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a)) with error: 0
+Picked (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a)))
+Picked alt had 1.0% improvement of the best alt with span 0.2988663086106521
+
+Iter 2
+Alt (λ (a b c d) (/ (* c (* a 3)) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))))) error: 0
+Alt (λ (a b c d) (* (/ 1 3) (/ (* (/ c 1) 3) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))))) error: 0
+Alt (λ (a b c d) (* (/ (/ (* c (* a 3)) (- (pow (- b) 3) (pow (sqrt (- (* b b) (* (* 3 a) c))) 3))) 3) (- (/ (sqrt (- (* b b) (* c (* a 3)))) (/ a (- b))) (/ (- (* c (* a 3)) (* b (+ b b))) a)))) error: 0
+Alt (λ (a b c d) (/ (* (cbrt (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c)))))) (cbrt (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))) (/ (* 3 a) (cbrt (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))))) error: 0
+Alt (λ (a b c d) (* (* c a) (/ (/ 1 (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) a))) error: 0
+Alt (λ (a b c d) (* (/ c 3) (/ 3 (- (- b) (sqrt (- (* b b) (* c (* a 3)))))))) error: 0
+Alt (λ (a b c d) (/ (- (* (- b) (- b)) (* (sqrt (- (* b b) (* (* 3 a) c))) (sqrt (- (* b b) (* (* 3 a) c))))) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))) error: 0
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 0
+Alt (λ (a b c d) (/ (cbrt (pow (/ (* c (* 3 a)) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))) 3)) (* 3 a))) error: 0
+Alt (λ (a b c d) (* (/ (/ c (* (cbrt (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (cbrt (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))) 3) (/ 3 (cbrt (- (- b) (sqrt (- (* b b) (* c (* a 3))))))))) error: 0
+Best alt  (/ (* c (* a 3)) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* c (* 3 a))))))) with error: 0
+Picked (λ (a b c d) (* (/ c 3) (/ 3 (- (- b) (sqrt (- (* b b) (* c (* a 3))))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (a b c d) (/ (* c (* a 3)) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))))) error: 0
+Alt (λ (a b c d) (* (/ 1 3) (/ (* (/ c 1) 3) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))))) error: 0
+Alt (λ (a b c d) (* (/ (/ (* c (* a 3)) (- (pow (- b) 3) (pow (sqrt (- (* b b) (* (* 3 a) c))) 3))) 3) (- (/ (sqrt (- (* b b) (* c (* a 3)))) (/ a (- b))) (/ (- (* c (* a 3)) (* b (+ b b))) a)))) error: 0
+Alt (λ (a b c d) (/ (* (cbrt (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c)))))) (cbrt (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))) (/ (* 3 a) (cbrt (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))))) error: 0
+Alt (λ (a b c d) (* (* c a) (/ (/ 1 (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) a))) error: 0
+Alt (λ (a b c d) (* (/ c 3) (/ 3 (- (- b) (sqrt (- (* b b) (* c (* a 3)))))))) error: 0
+Alt (λ (a b c d) (/ (- (* (- b) (- b)) (* (sqrt (- (* b b) (* (* 3 a) c))) (sqrt (- (* b b) (* (* 3 a) c))))) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))) error: 0
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 0
+Alt (λ (a b c d) (/ (cbrt (pow (/ (* c (* 3 a)) (- (- b) (sqrt (- (* b b) (* c (* 3 a)))))) 3)) (* 3 a))) error: 0
+Alt (λ (a b c d) (* (/ (/ c (* (cbrt (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (cbrt (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))))) 3) (/ 3 (cbrt (- (- b) (sqrt (- (* b b) (* c (* a 3))))))))) error: 0
+Best alt  (/ (* c (* a 3)) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* c (* 3 a))))))) with error: 0
+Picked (λ (a b c d) (/ (* c (* a 3)) (* (* 3 a) (- (- b) (sqrt (- (* b b) (* c (* 3 a))))))))
+Picked alt had 100% improvement of the best alt
+
+File: 24-Cubiccritical
+Iter 0
+Alt (λ (a b c d) (/ (- (sqrt (- (* b b) (* (* c a) 3))) b) (* 3 a))) error: 5.963990395068554
+Alt (λ (a b c d) (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a))) error: 5.967896645068554
+Best alt  (/ (- (sqrt (- (* b b) (* (* c a) 3))) b) (* 3 a)) with error: 5.963990395068554
+Picked (λ (a b c d) (/ (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a)))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+Iter 1
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 5.960084145068554
+Alt (λ (a b c d) (/ (/ (+ (pow (- b) 3) (pow (sqrt (- (* b b) (* (* 3 a) c))) 3)) (+ (* b (sqrt (- (* b b) (* c (* a 3))))) (+ (* b b) (- (* b b) (* c (* a 3)))))) (* 3 a))) error: 5.967896645068554
+Alt (λ (a b c d) (/ (* (/ c 1) (/ -3/2 3)) b)) error: 5.967896645068554
+Alt (λ (a b c d) (* (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) 3) (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) a))) error: 5.967896645068554
+Alt (λ (a b c d) (cbrt (pow (/ (- (sqrt (- (* b b) (* a (* 3 c)))) b) (* 3 a)) 3))) error: 5.94824522672057
+Alt (λ (a b c d) (/ (- (* 3/2 (/ (* c a) b)) (* 2 b)) (* 3 a))) error: 5.936524468119493
+Alt (λ (a b c d) (* (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (/ 1 (* 3 a)))) error: 5.952149468119494
+Alt (λ (a b c d) (* (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a))) (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a)))) (cbrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))))) error: 5.961816989986146
+Alt (λ (a b c d) (* -2/3 (/ b a))) error: 5.952271645068554
+Alt (λ (a b c d) (* (sqrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))) (sqrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))))) error: 5.967896645068554
+Best alt  (/ (- (* 3/2 (/ (* c a) b)) (* 2 b)) (* 3 a)) with error: 5.936524468119493
+Picked (λ (a b c d) (* (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (/ 1 (* 3 a))))
+Picked alt had 0.5019472182191488% improvement of the best alt with span 0.031372176949060915
+
+Iter 2
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 5.948243218119494
+Alt (λ (a b c d) (/ (/ (+ (pow (- b) 3) (pow (sqrt (- (* b b) (* (* 3 a) c))) 3)) (+ (* b (sqrt (- (* b b) (* c (* a 3))))) (+ (* b b) (- (* b b) (* c (* a 3)))))) (* 3 a))) error: 5.952149468119494
+Alt (λ (a b c d) (/ (* (/ c 1) (/ -3/2 3)) b)) error: 5.952149468119494
+Alt (λ (a b c d) (* (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) 3) (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) a))) error: 5.952149468119494
+Alt (λ (a b c d) (/ (* c (* a 3)) (* (- (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a)))) error: 5.940430718119494
+Alt (λ (a b c d) (cbrt (pow (/ (- (sqrt (- (* b b) (* a (* 3 c)))) b) (* 3 a)) 3))) error: 5.944336968119494
+Alt (λ (a b c d) (/ (- (* 3/2 (/ (* c a) b)) (* 2 b)) (* 3 a))) error: 5.932618218119493
+Alt (λ (a b c d) (* (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (/ 1 (* 3 a)))) error: 5.952149468119494
+Alt (λ (a b c d) (* (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a))) (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a)))) (cbrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))))) error: 5.946069813037086
+Alt (λ (a b c d) (* -2/3 (/ b a))) error: 5.936524468119493
+Alt (λ (a b c d) (* (/ c b) (* (/ a 3) (/ -3/2 a)))) error: 5.952149428126868
+Alt (λ (a b c d) (* (sqrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))) (sqrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))))) error: 5.952149468119494
+Alt (λ (a b c d) (- (* 1/2 (/ c b)) (* 2/3 (/ b a)))) error: 5.936524468119494
+Best alt  (/ (- (* 3/2 (/ (* c a) b)) (* 2 b)) (* 3 a)) with error: 5.932618218119493
+Picked (λ (a b c d) (* (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a))) (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a)))) (cbrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a)))))
+Picked alt had 0.3112783402192549% improvement of the best alt with span 0.019531250000000888
+
+Iter 3
+Alt (λ (a b c d) (/ (/ (* c (* a 3)) (- (- b) (sqrt (- (* b b) (* (* 3 a) c))))) (* 3 a))) error: 5.942163563037086
+Alt (λ (a b c d) (/ (/ (+ (pow (- b) 3) (pow (sqrt (- (* b b) (* (* 3 a) c))) 3)) (+ (* b (sqrt (- (* b b) (* c (* a 3))))) (+ (* b b) (- (* b b) (* c (* a 3)))))) (* 3 a))) error: 5.946069813037086
+Alt (λ (a b c d) (/ (* (/ c 1) (/ -3/2 3)) b)) error: 5.946069813037086
+Alt (λ (a b c d) (* (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) 3) (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) a))) error: 5.946069813037086
+Alt (λ (a b c d) (/ (* c (* a 3)) (* (- (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (* 3 a)))) error: 5.934351063037086
+Alt (λ (a b c d) (cbrt (pow (/ (- (sqrt (- (* b b) (* a (* 3 c)))) b) (* 3 a)) 3))) error: 5.938257313037086
+Alt (λ (a b c d) (/ (- (* 3/2 (/ (* c a) b)) (* 2 b)) (* 3 a))) error: 5.926538563037086
+Alt (λ (a b c d) (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 a) c))) b) (* 3 a))) (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 a) c))) b) (* 3 a))) (cbrt (* (/ (/ -3/2 3) b) (/ c 1)))))) error: 5.920389018079356
+Alt (λ (a b c d) (* (+ (- b) (sqrt (- (* b b) (* (* 3 a) c)))) (/ 1 (* 3 a)))) error: 5.946069813037086
+Alt (λ (a b c d) (* (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a))) (cbrt (/ (- (sqrt (- (* b b) (* (* 3 c) a))) b) (* 3 a)))) (cbrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))))) error: 5.946069813037086
+Alt (λ (a b c d) (* -2/3 (/ b a))) error: 5.930444813037086
+Alt (λ (a b c d) (* (sqrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))) (sqrt (/ (- (sqrt (- (* b b) (* 3 (* c a)))) b) (* 3 a))))) error: 5.946069813037086
+Alt (λ (a b c d) (- (* 1/2 (/ c b)) (* 2/3 (/ b a)))) error: 5.930444813037086
+Best alt  (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 a) c))) b) (* 3 a))) (* (cbrt (/ (- (sqrt (- (* b b) (* (* 3 a) c))) b) (* 3 a))) (cbrt (* (/ (/ -3/2 3) b) (/ c 1))))) with error: 5.920389018079356
+Picked (λ (a b c d) (* (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) 3) (/ (sqrt (- (sqrt (- (* b b) (* 3 (* c a)))) b)) a)))
+Picked alt had 0.0% improvement of the best alt with span 0.025680794957730235
+
+File: 25-Bearingonagreatcircle
+Iter 0
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 5.60233405433611
+Best alt lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2))))) with error: 5.60233405433611
+Picked (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (cbrt (* (pow (cos (- lambda1 lambda2)) 3) (* (pow (sin phi1) 3) (pow (cos phi2) 3))))))) error: 5.598427804336058
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) error: 0.09279252930532605
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (log (exp (sin (- lambda1 lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 5.6007128141045515
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (cbrt (* (sin (- lambda1 lambda2)) (cos phi2))) (cbrt (* (sin (- lambda1 lambda2)) (cos phi2)))) (cbrt (* (sin (- lambda1 lambda2)) (cos phi2)))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 5.596142260797169
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (log (exp (cos (- lambda1 lambda2)))))))) error: 5.60233405433611
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (* (* (cbrt (cos (- lambda1 lambda2))) (cbrt (cos (- lambda1 lambda2)))) (cbrt (cos (- lambda1 lambda2)))))))) error: 5.599782341764391
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (cbrt (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))) (cbrt (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2))))) (cbrt (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))))) error: 5.599782341764391
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (cbrt (sin (- lambda1 lambda2))) (cbrt (sin (- lambda1 lambda2)))) (* (cbrt (sin (- lambda1 lambda2))) (cos phi2))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 5.596142260797169
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (cbrt (pow (* (sin (- lambda1 lambda2)) (cos phi2)) 3)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 5.592789289415526
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.07259750976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (- lambda1 (+ lambda2 (* 1/6 (pow lambda1 3)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 5.599693089850577
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (log (exp (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))))) error: 5.59842780433611
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (sqrt (sin (- lambda1 lambda2))) (sqrt (sin (- lambda1 lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 5.59842780433611
+Best alt lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2))))) with error: 0.07259750976844201
+Picked (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2))))))
+Picked alt had 1.0% improvement of the best alt with span 5.529736544567668
+
+Iter 2
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (cbrt (* (pow (cos (- lambda1 lambda2)) 3) (* (pow (sin phi1) 3) (pow (cos phi2) 3))))))) error: 0.06869125976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (cbrt (* (sin (- lambda1 lambda2)) (cos phi2))) (cbrt (* (sin (- lambda1 lambda2)) (cos phi2)))) (cbrt (* (sin (- lambda1 lambda2)) (cos phi2)))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.07259750976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (log (exp (cos (- lambda1 lambda2)))))))) error: 0.07259750976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (cbrt (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))) (cbrt (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2))))) (cbrt (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))))) error: 0.07259750976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (cbrt (sin (- lambda1 lambda2))) (cbrt (sin (- lambda1 lambda2)))) (* (cbrt (sin (- lambda1 lambda2))) (cos phi2))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.07259750976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (+ (* (* (sin phi1) (cos phi2)) (* (cos lambda1) (cos lambda2))) (* (* (sin phi1) (cos phi2)) (* (sin lambda1) (sin lambda2))))))) error: 0.0390625
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (cbrt (pow (* (sin (- lambda1 lambda2)) (cos phi2)) 3)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.06869125976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (* (cbrt (cos lambda1)) (cbrt (cos lambda1))) (* (cbrt (cos lambda1)) (sin (- lambda2))))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.06869125976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (- (* (cos phi1) (sin phi2)) (log (exp (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))))) error: 0.06869125976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (sqrt (sin (- lambda1 lambda2))) (sqrt (sin (- lambda1 lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.06869125976844201
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (/ (* (+ (pow (* (sin lambda1) (cos lambda2)) 3) (pow (* (cos lambda1) (sin (- lambda2))) 3)) (cos phi2)) (+ (* (* (sin lambda1) (cos lambda2)) (* (sin lambda1) (cos lambda2))) (- (* (* (cos lambda1) (sin (- lambda2))) (* (cos lambda1) (sin (- lambda2)))) (* (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2))))))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.0546875
+Best alt lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))) with error: 0.02734375
+Picked (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))))
+Picked alt had 1.0% improvement of the best alt with span 0.04525375976844201
+
+Iter 3
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (/ (* (- (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (* (cos phi2) (sin phi1)) (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))))) (+ (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) error: 0.0234375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (log (pow (exp (* (cos phi2) (sin phi1))) (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1)))))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (cbrt (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (sin phi1) (cos phi2)))) (cbrt (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (sin phi1) (cos phi2))))) (cbrt (* (+ (* (sin lambda1) (sin lambda2)) (* (cos lambda2) (cos lambda1))) (* (sin phi1) (cos phi2)))))))) error: 0.0234375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (cbrt (* (* (* (pow (sin phi1) 3) (pow (cos phi2) 3)) (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda1) (sin lambda2)))) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda1) (sin lambda2))) (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda1) (sin lambda2))))))))) error: 0.0234375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (* (cos lambda1) (sqrt (sin (- lambda2)))) (sqrt (sin (- lambda2))))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) error: 0.0234375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (cbrt (* (sin (- lambda1 lambda2)) (cos phi2))) (cbrt (* (sin (- lambda1 lambda2)) (cos phi2)))) (cbrt (* (sin (- lambda1 lambda2)) (cos phi2)))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (cbrt (sin (- lambda1 lambda2))) (cbrt (sin (- lambda1 lambda2)))) (* (cbrt (sin (- lambda1 lambda2))) (cos phi2))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (cbrt (pow (* (sin (- lambda1 lambda2)) (cos phi2)) 3)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.0234375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (/ (* (* (sin phi1) (cos phi2)) (- (pow (* (cos lambda1) (cos lambda2)) 3) (pow (* (sin lambda1) (sin (- lambda2))) 3))) (+ (* (* (cos lambda1) (cos lambda2)) (* (cos lambda1) (cos lambda2))) (+ (* (* (sin lambda1) (sin (- lambda2))) (* (sin lambda1) (sin (- lambda2)))) (* (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (* (sin lambda1) (* (cbrt (sin (- lambda2))) (cbrt (sin (- lambda2))))) (cbrt (sin (- lambda2))))))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (log (pow (exp (cos phi2)) (- (* (cos lambda2) (sin lambda1)) (* (cos lambda1) (sin lambda2))))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (* (cbrt (cos lambda1)) (cbrt (cos lambda1))) (* (cbrt (cos lambda1)) (sin (- lambda2))))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.02734375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (* (sqrt (sin (- lambda1 lambda2))) (sqrt (sin (- lambda1 lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.0234375
+Alt (λ (lambda1 lambda2 phi1 phi2) (atan2 (/ (* (+ (pow (* (sin lambda1) (cos lambda2)) 3) (pow (* (cos lambda1) (sin (- lambda2))) 3)) (cos phi2)) (+ (* (* (sin lambda1) (cos lambda2)) (* (sin lambda1) (cos lambda2))) (- (* (* (cos lambda1) (sin (- lambda2))) (* (cos lambda1) (sin (- lambda2)))) (* (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2))))))) (- (* (cos phi1) (sin phi2)) (* (* (sin phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) error: 0.0234375
+Best alt lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (/ (* (- (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (* (cos phi2) (sin phi1)) (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))))) (+ (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))) with error: 0.0234375
+Picked (λ (lambda1 lambda2 phi1 phi2) (atan2 (* (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2)))) (cos phi2)) (- (* (cos phi1) (sin phi2)) (/ (* (* (sin phi1) (cos phi2)) (- (pow (* (cos lambda1) (cos lambda2)) 3) (pow (* (sin lambda1) (sin (- lambda2))) 3))) (+ (* (* (cos lambda1) (cos lambda2)) (* (cos lambda1) (cos lambda2))) (+ (* (* (sin lambda1) (sin (- lambda2))) (* (sin lambda1) (sin (- lambda2)))) (* (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))))))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+File: 26-AsymptoteC
+Iter 0
+Alt (λ (x) (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))) error: 0.08867095937636756
+Best alt  x (+ x 1)) (/ (+ x 1) (- x 1))) with error: 0.08867095937636756
+Picked (λ (x) (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (- (/ (- 1) (* x x)) (+ (/ (/ 3 x) (* x x)) (/ 3 x)))) error: 0.08867095937636756
+Alt (λ (x) (- (/ x (+ x 1)) (* (/ (+ 1 x) (- (pow x 3) 1)) (+ (* x x) (+ (* 1 1) (* x 1)))))) error: 0.08451170056624945
+Alt (λ (x) (exp (log (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))))) error: 0.08360349932343478
+Alt (λ (x) (log (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) error: 0.08579218752415582
+Alt (λ (x) (/ (- (* (/ x (+ x 1)) (/ x (+ x 1))) (* (/ (+ x 1) (- x 1)) (/ (+ x 1) (- x 1)))) (+ (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) error: 0.07864884922031957
+Alt (λ (x) (* (* (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))))) error: 0.07668545117851192
+Best alt  (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) with error: 0.07668545117851192
+Picked (λ (x) (log (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1))))))
+Picked alt had 0.24018771709044284% improvement of the best alt with span 0.01198550819785564
+
+Iter 2
+Alt (λ (x) (- (/ (- 1) (* x x)) (+ (/ (/ 3 x) (* x x)) (/ 3 x)))) error: 0.08579218752415582
+Alt (λ (x) (exp (log (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))))) error: 0.08072472747122303
+Alt (λ (x) (log (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) error: 0.08579218752415582
+Alt (λ (x) (+ (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))))) error: 0.07169679114312008
+Alt (λ (x) (* (* (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))))) error: 0.07380667932630018
+Best alt og (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1))))))) with error: 0.07169679114312008
+Picked (λ (x) (+ (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1))))))))
+Picked alt had 1.0% improvement of the best alt with span 0.01409539638103574
+
+Iter 3
+Alt (λ (x) (+ (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (+ (log (fabs (cbrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1))))))) (log (sqrt (cbrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))))))) error: 0.07169679114312008
+Alt (λ (x) (+ (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (- (log (sqrt (exp (/ x (+ 1 x))))) (log (sqrt (exp (/ (+ 1 x) (- x 1)))))))) error: 0.06567428142641926
+Alt (λ (x) (- (/ (- 1) (* x x)) (+ (/ (/ 3 x) (* x x)) (/ 3 x)))) error: 0.07169679114312008
+Alt (λ (x) (+ (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))))) error: 0.07169679114312008
+Alt (λ (x) (+ (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (* (* (cbrt (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1))))))) (cbrt (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))))) (cbrt (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))))))) error: 0.07169679114312008
+Alt (λ (x) (* (* (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))))) error: 0.06361753294526445
+Best alt  (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1)))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) (cbrt (- (/ x (+ x 1)) (/ (+ x 1) (- x 1))))) with error: 0.06361753294526445
+Picked (λ (x) (+ (log (sqrt (exp (- (/ x (+ 1 x)) (/ (+ 1 x) (- x 1)))))) (- (log (sqrt (exp (/ x (+ 1 x))))) (log (sqrt (exp (/ (+ 1 x) (- x 1))))))))
+Picked alt had 0.7454285491580522% improvement of the best alt with span 0.008079258197855627
+
+File: 27-AsymptoteB
+Iter 0
+Alt (λ (x) (+ (/ 1 (- x 1)) (/ x (+ x 1)))) error: 0
+Best alt  1 (- x 1)) (/ x (+ x 1))) with error: 0
+Picked (λ (x) (+ (/ 1 (- x 1)) (/ x (+ x 1))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (* (* (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))))) error: 0
+Alt (λ (x) (+ (cbrt (/ (/ 1 (- x 1)) (* (- x 1) (- x 1)))) (/ x (+ x 1)))) error: 0
+Alt (λ (x) (log (exp (+ (/ x (+ x 1)) (/ 1 (- x 1)))))) error: 0
+Best alt  (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) with error: 0
+Picked (λ (x) (log (exp (+ (/ x (+ x 1)) (/ 1 (- x 1))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (x) (* (* (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))))) error: 0
+Alt (λ (x) (+ (cbrt (/ (/ 1 (- x 1)) (* (- x 1) (- x 1)))) (/ x (+ x 1)))) error: 0
+Alt (λ (x) (log (exp (+ (/ x (+ x 1)) (/ 1 (- x 1)))))) error: 0
+Best alt  (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) with error: 0
+Picked (λ (x) (+ (cbrt (/ (/ 1 (- x 1)) (* (- x 1) (- x 1)))) (/ x (+ x 1))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (x) (* (* (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))))) error: 0
+Alt (λ (x) (+ (cbrt (/ (/ 1 (- x 1)) (* (- x 1) (- x 1)))) (/ x (+ x 1)))) error: 0
+Alt (λ (x) (log (exp (+ (/ x (+ x 1)) (/ 1 (- x 1)))))) error: 0
+Best alt  (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) with error: 0
+Picked (λ (x) (* (* (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1)))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))) (cbrt (+ (/ 1 (- x 1)) (/ x (+ x 1))))))
+Picked alt had 100% improvement of the best alt
+
+File: 28-AsymptoteA
+Iter 0
+Alt (λ (x) (- (/ 1 (+ x 1)) (/ 1 (- x 1)))) error: 0.015625
+Best alt  1 (+ x 1)) (/ 1 (- x 1))) with error: 0.015625
+Picked (λ (x) (- (/ 1 (+ x 1)) (/ 1 (- x 1))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (- (* (/ 1 (+ x 1)) (/ 1 (+ x 1))) (* (/ 1 (- x 1)) (/ 1 (- x 1)))) (+ (/ 1 (+ x 1)) (/ 1 (- x 1))))) error: 0.015625
+Alt (λ (x) (- (/ 1 (+ x 1)) (/ 1 (- x 1)))) error: 0.015625
+Alt (λ (x) (/ (- (+ 1 1)) (* (+ x 1) (- x 1)))) error: 0.00390625
+Alt (λ (x) (- (- (/ (- 2) (pow x 6)) (/ 2 (pow x 4))) (/ (/ 2 x) x))) error: 0.00390625
+Best alt  (+ 1 1)) (* (+ x 1) (- x 1))) with error: 0.00390625
+Picked (λ (x) (/ (- (+ 1 1)) (* (+ x 1) (- x 1))))
+Picked alt had 1.0% improvement of the best alt with span 0.01171875
+
+Iter 2
+Alt (λ (x) (/ (- (+ 1 1)) (* (+ x 1) (- x 1)))) error: 0.00390625
+Alt (λ (x) (cbrt (* (/ (- (+ 1 1)) (pow (- x 1) 3)) (/ (+ (+ 1 1) (+ 1 1)) (pow (+ 1 x) 3))))) error: 0.00390625
+Alt (λ (x) (* (/ (/ (+ (- 1) (- 1)) (+ 1 (pow x 3))) (- (* x x) 1)) (* (+ (* x x) (- (* 1 1) (* x 1))) (+ x 1)))) error: 0.00390625
+Alt (λ (x) (* (/ (- (sqrt (+ 1 1))) (+ x 1)) (/ (sqrt (+ 1 1)) (- x 1)))) error: 0
+Alt (λ (x) (- (- (/ (- 2) (pow x 6)) (/ 2 (pow x 4))) (/ (/ 2 x) x))) error: 0.00390625
+Best alt  (- (sqrt (+ 1 1))) (+ x 1)) (/ (sqrt (+ 1 1)) (- x 1))) with error: 0
+Picked (λ (x) (* (/ (- (sqrt (+ 1 1))) (+ x 1)) (/ (sqrt (+ 1 1)) (- x 1))))
+Picked alt had 1.0% improvement of the best alt with span 0.00390625
+
+Iter 3
+Alt (λ (x) (/ (- (+ 1 1)) (* (+ x 1) (- x 1)))) error: 0
+Alt (λ (x) (cbrt (* (/ (- (+ 1 1)) (pow (- x 1) 3)) (/ (+ (+ 1 1) (+ 1 1)) (pow (+ 1 x) 3))))) error: 0
+Alt (λ (x) (* (/ (/ (+ (- 1) (- 1)) (+ 1 (pow x 3))) (- (* x x) 1)) (* (+ (* x x) (- (* 1 1) (* x 1))) (+ x 1)))) error: 0
+Alt (λ (x) (* (/ (- (sqrt (+ 1 1))) (+ x 1)) (/ (sqrt (+ 1 1)) (- x 1)))) error: 0
+Alt (λ (x) (- (- (/ (- 2) (pow x 6)) (/ 2 (pow x 4))) (/ (/ 2 x) x))) error: 0
+Alt (λ (x) (* (* (/ (- (sqrt (+ 1 1))) (+ x 1)) (/ (sqrt (sqrt (+ 1 1))) (* (cbrt (- x 1)) (cbrt (- x 1))))) (/ (sqrt (sqrt (+ 1 1))) (cbrt (- x 1))))) error: 0
+Best alt  (+ 1 1)) (* (+ x 1) (- x 1))) with error: 0
+Picked (λ (x) (* (* (/ (- (sqrt (+ 1 1))) (+ x 1)) (/ (sqrt (sqrt (+ 1 1))) (* (cbrt (- x 1)) (cbrt (- x 1))))) (/ (sqrt (sqrt (+ 1 1))) (cbrt (- x 1)))))
+Picked alt had 100% improvement of the best alt
+
+File: 29-2ancestrymixingzerodiscriminant
+Iter 0
+Alt (λ (g a) (cbrt (/ g (* 2 a)))) error: 0.28162006837909415
+Best alt rt (/ g (* 2 a))) with error: 0.28162006837909415
+Picked (λ (g a) (cbrt (/ g (* 2 a))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (g a) (* (* (cbrt (cbrt (/ g (* 2 a)))) (cbrt (cbrt (/ g (* 2 a))))) (cbrt (cbrt (/ g (* 2 a)))))) error: 0.24646381837909412
+Alt (λ (g a) (* (cbrt g) (cbrt (/ 1 (* 2 a))))) error: 0.078125
+Alt (λ (g a) (* (cbrt (sqrt (/ g (* 2 a)))) (cbrt (sqrt (/ g (* 2 a)))))) error: 0.24874882814753613
+Alt (λ (g a) (* (sqrt (cbrt (/ g (* 2 a)))) (sqrt (cbrt (/ g (* 2 a)))))) error: 0.24255756837909412
+Alt (λ (g a) (* (cbrt (* (cbrt (/ g (* 2 a))) (cbrt (/ g (* 2 a))))) (cbrt (cbrt (/ g (* 2 a)))))) error: 0.2269325683790941
+Alt (λ (g a) (exp (log (cbrt (/ g (* 2 a)))))) error: 0.26208881837909415
+Alt (λ (g a) (* (pow (/ 1 a) 1/3) (* (cbrt g) (cbrt 1/2)))) error: 0.0859375
+Alt (λ (g a) (cbrt (/ g (* 2 a)))) error: 0.28162006837909415
+Alt (λ (g a) (/ (cbrt g) (cbrt (* 2 a)))) error: 0.046875
+Best alt (cbrt g) (cbrt (* 2 a))) with error: 0.046875
+Picked (λ (g a) (* (cbrt g) (cbrt (/ 1 (* 2 a)))))
+Picked alt had 0.8668768625650793% improvement of the best alt with span 0.23474506837909415
+
+Iter 2
+Alt (λ (g a) (* (cbrt g) (cbrt (/ 1 (* 2 a))))) error: 0.078125
+Alt (λ (g a) (* (cbrt (sqrt (/ g (* 2 a)))) (cbrt (sqrt (/ g (* 2 a)))))) error: 0.0703125
+Alt (λ (g a) (* (sqrt (cbrt (/ g (* 2 a)))) (sqrt (cbrt (/ g (* 2 a)))))) error: 0.0703125
+Alt (λ (g a) (* (cbrt (* (cbrt (/ g (* 2 a))) (cbrt (/ g (* 2 a))))) (cbrt (cbrt (/ g (* 2 a)))))) error: 0.0625
+Alt (λ (g a) (* (cbrt g) (exp (log (cbrt (/ 1 (* 2 a))))))) error: 0.07421875
+Alt (λ (g a) (* (cbrt g) (* (cbrt (* (cbrt (/ 1 (* 2 a))) (cbrt (/ 1 (* 2 a))))) (cbrt (cbrt (/ 1 (* 2 a))))))) error: 0.046875
+Alt (λ (g a) (* (cbrt g) (* (* (cbrt (cbrt (/ 1 (* 2 a)))) (cbrt (cbrt (/ 1 (* 2 a))))) (cbrt (cbrt (/ 1 (* 2 a))))))) error: 0.07421875
+Alt (λ (g a) (* (* (cbrt (* (cbrt g) (cbrt (/ 1 (* 2 a))))) (cbrt (* (cbrt g) (cbrt (/ 1 (* 2 a)))))) (cbrt (* (cbrt g) (cbrt (/ 1 (* 2 a))))))) error: 0.0390625
+Alt (λ (g a) (* (* (cbrt g) (cbrt -1/2)) (cbrt (/ -1 a)))) error: 0.015625
+Alt (λ (g a) (* (* (cbrt (cbrt g)) (cbrt (cbrt g))) (* (cbrt (cbrt g)) (cbrt (/ 1 (* 2 a)))))) error: 0.046875
+Alt (λ (g a) (* (sqrt (* (cbrt g) (cbrt (/ 1 (* 2 a))))) (sqrt (* (cbrt g) (cbrt (/ 1 (* 2 a))))))) error: 0.0703125
+Alt (λ (g a) (cbrt (/ g (* 2 a)))) error: 0.078125
+Alt (λ (g a) (/ (cbrt g) (cbrt (* 2 a)))) error: 0.0390625
+Alt (λ (g a) (* (cbrt g) (/ (cbrt 1) (cbrt (* 2 a))))) error: 0.03125
+Alt (λ (g a) (* (* (cbrt g) (cbrt (sqrt (/ 1 (* 2 a))))) (cbrt (sqrt (/ 1 (* 2 a)))))) error: 0.06640625
+Alt (λ (g a) (* (cbrt g) (* (cbrt (sqrt (/ 1 (* 2 a)))) (cbrt (sqrt (/ 1 (* 2 a))))))) error: 0.06640625
+Alt (λ (g a) (* (* (cbrt g) (* (cbrt (cbrt (/ 1 (* 2 a)))) (cbrt (cbrt (/ 1 (* 2 a)))))) (cbrt (cbrt (/ 1 (* 2 a)))))) error: 0.0703125
+Alt (λ (g a) (* (* (cbrt g) (cbrt (* (cbrt (/ 1 (* 2 a))) (cbrt (/ 1 (* 2 a)))))) (cbrt (cbrt (/ 1 (* 2 a)))))) error: 0.05078125
+Best alt (* (cbrt g) (cbrt -1/2)) (cbrt (/ -1 a))) with error: 0.015625
+Picked (λ (g a) (* (* (cbrt g) (cbrt -1/2)) (cbrt (/ -1 a))))
+Picked alt had 1.0% improvement of the best alt with span 0.0625
+
+Iter 3
+Alt (λ (g a) (* (cbrt g) (cbrt (/ 1 (* 2 a))))) error: 0.015625
+Alt (λ (g a) (* (cbrt (sqrt (/ g (* 2 a)))) (cbrt (sqrt (/ g (* 2 a)))))) error: 0.015625
+Alt (λ (g a) (* (sqrt (cbrt (/ g (* 2 a)))) (sqrt (cbrt (/ g (* 2 a)))))) error: 0.015625
+Alt (λ (g a) (* (cbrt (* (cbrt (/ g (* 2 a))) (cbrt (/ g (* 2 a))))) (cbrt (cbrt (/ g (* 2 a)))))) error: 0.01171875
+Alt (λ (g a) (* (* (cbrt g) (cbrt -1/2)) (* (* (cbrt (cbrt (/ -1 a))) (cbrt (cbrt (/ -1 a)))) (cbrt (cbrt (/ -1 a)))))) error: 0.015625
+Alt (λ (g a) (* (cbrt (* g -1/2)) (cbrt (/ -1 a)))) error: 0.00390625
+Alt (λ (g a) (* (* (* (cbrt g) (cbrt -1/2)) (cbrt (sqrt (/ -1 a)))) (cbrt (sqrt (/ -1 a))))) error: 0.015625
+Alt (λ (g a) (* (* (cbrt g) (cbrt -1/2)) (* (cbrt (sqrt (/ -1 a))) (cbrt (sqrt (/ -1 a)))))) error: 0.015625
+Alt (λ (g a) (* (cbrt g) (* (* (cbrt (cbrt (/ 1 (* 2 a)))) (cbrt (cbrt (/ 1 (* 2 a))))) (cbrt (cbrt (/ 1 (* 2 a))))))) error: 0.015625
+Alt (λ (g a) (* (* (cbrt (* (cbrt g) (cbrt (/ 1 (* 2 a))))) (cbrt (* (cbrt g) (cbrt (/ 1 (* 2 a)))))) (cbrt (* (cbrt g) (cbrt (/ 1 (* 2 a))))))) error: 0.0078125
+Alt (λ (g a) (* (* (cbrt g) (cbrt -1/2)) (cbrt (/ -1 a)))) error: 0.015625
+Alt (λ (g a) (* (* (cbrt (cbrt g)) (cbrt (cbrt g))) (* (cbrt (cbrt g)) (cbrt (/ 1 (* 2 a)))))) error: 0.015625
+Alt (λ (g a) (cbrt (/ g (* 2 a)))) error: 0.015625
+Alt (λ (g a) (* (* (* (cbrt (cbrt g)) (cbrt (cbrt g))) (* (cbrt (cbrt g)) (cbrt -1/2))) (cbrt (/ -1 a)))) error: 0.015625
+Alt (λ (g a) (cbrt (/ (- -1/2) (/ a g)))) error: 0.0078125
+Alt (λ (g a) (* (* (cbrt g) (cbrt -1/2)) (/ (cbrt -1) (cbrt a)))) error: 0.0078125
+Alt (λ (g a) (* (* (* (cbrt g) (* (cbrt (cbrt -1/2)) (cbrt (cbrt -1/2)))) (cbrt (cbrt -1/2))) (cbrt (/ -1 a)))) error: 0.01171875
+Alt (λ (g a) (* (cbrt g) (/ (cbrt 1) (cbrt (* 2 a))))) error: 0.0078125
+Alt (λ (g a) (* (* (cbrt g) (cbrt (sqrt (/ 1 (* 2 a))))) (cbrt (sqrt (/ 1 (* 2 a)))))) error: 0.01171875
+Alt (λ (g a) (* (* (cbrt g) (* (cbrt (cbrt (/ 1 (* 2 a)))) (cbrt (cbrt (/ 1 (* 2 a)))))) (cbrt (cbrt (/ 1 (* 2 a)))))) error: 0.015625
+Best alt (cbrt (* g -1/2)) (cbrt (/ -1 a))) with error: 0.00390625
+Picked (λ (g a) (* (cbrt g) (/ (cbrt 1) (cbrt (* 2 a)))))
+Picked alt had 0.6666666666666666% improvement of the best alt with span 0.01171875
+
+File: 3-TrigonometryA
+Iter 0
+Alt (λ (e v) (/ (* e (sin v)) (+ 1 (* e (cos v))))) error: 0.03125
+Best alt (* e (sin v)) (+ 1 (* e (cos v)))) with error: 0.03125
+Picked (λ (e v) (/ (* e (sin v)) (+ 1 (* e (cos v)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (e v) (/ (* (* e (sqrt (sin v))) (sqrt (sin v))) (+ 1 (* e (cos v))))) error: 0.02734375
+Alt (λ (e v) (/ 1 (/ (+ 1 (* e (cos v))) (* e (sin v))))) error: 0.01953125
+Alt (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (/ (sin v) (sqrt (+ 1 (* e (cos v))))))) error: 0
+Alt (λ (e v) (/ e (/ (+ 1 (* e (cos v))) (sin v)))) error: 0.01171875
+Alt (λ (e v) (/ (* (sqrt (* e (sin v))) (sqrt (* e (sin v)))) (+ 1 (* e (cos v))))) error: 0.02734375
+Alt (λ (e v) (/ (* (* e (* (cbrt (sin v)) (cbrt (sin v)))) (cbrt (sin v))) (+ 1 (* e (cos v))))) error: 0.01171875
+Best alt (/ e (sqrt (+ 1 (* e (cos v))))) (/ (sin v) (sqrt (+ 1 (* e (cos v)))))) with error: 0
+Picked (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (/ (sin v) (sqrt (+ 1 (* e (cos v)))))))
+Picked alt had 1.0% improvement of the best alt with span 0.02734375
+
+Iter 2
+Alt (λ (e v) (/ (* (* e (sqrt (sin v))) (sqrt (sin v))) (+ 1 (* e (cos v))))) error: 0
+Alt (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (log (exp (/ (sin v) (sqrt (+ 1 (* e (cos v))))))))) error: 0
+Alt (λ (e v) (* (sqrt (/ e (sqrt (+ 1 (* e (cos v)))))) (* (sqrt (/ e (sqrt (+ 1 (* e (cos v)))))) (/ (sin v) (sqrt (+ 1 (* e (cos v)))))))) error: 0
+Alt (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (cbrt (/ (/ (pow (sin v) 3) (+ (* (cos v) e) 1)) (sqrt (+ (* (cos v) e) 1)))))) error: 0
+Alt (λ (e v) (/ 1 (/ (+ 1 (* e (cos v))) (* e (sin v))))) error: 0
+Alt (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (/ (sin v) (sqrt (+ 1 (* e (cos v))))))) error: 0
+Alt (λ (e v) (/ e (/ (+ 1 (* e (cos v))) (sin v)))) error: 0
+Best alt (* (* e (sqrt (sin v))) (sqrt (sin v))) (+ 1 (* e (cos v)))) with error: 0
+Picked (λ (e v) (/ e (/ (+ 1 (* e (cos v))) (sin v))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (e v) (/ (* (* e (sqrt (sin v))) (sqrt (sin v))) (+ 1 (* e (cos v))))) error: 0
+Alt (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (log (exp (/ (sin v) (sqrt (+ 1 (* e (cos v))))))))) error: 0
+Alt (λ (e v) (* (sqrt (/ e (sqrt (+ 1 (* e (cos v)))))) (* (sqrt (/ e (sqrt (+ 1 (* e (cos v)))))) (/ (sin v) (sqrt (+ 1 (* e (cos v)))))))) error: 0
+Alt (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (cbrt (/ (/ (pow (sin v) 3) (+ (* (cos v) e) 1)) (sqrt (+ (* (cos v) e) 1)))))) error: 0
+Alt (λ (e v) (/ 1 (/ (+ 1 (* e (cos v))) (* e (sin v))))) error: 0
+Alt (λ (e v) (* (/ e (sqrt (+ 1 (* e (cos v))))) (/ (sin v) (sqrt (+ 1 (* e (cos v))))))) error: 0
+Alt (λ (e v) (/ e (/ (+ 1 (* e (cos v))) (sin v)))) error: 0
+Best alt (* (* e (sqrt (sin v))) (sqrt (sin v))) (+ 1 (* e (cos v)))) with error: 0
+Picked (λ (e v) (* (sqrt (/ e (sqrt (+ 1 (* e (cos v)))))) (* (sqrt (/ e (sqrt (+ 1 (* e (cos v)))))) (/ (sin v) (sqrt (+ 1 (* e (cos v))))))))
+Picked alt had 100% improvement of the best alt
+
+File: 30-2ancestrymixingpositivediscriminant
+Iter 0
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.859230901180425
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 32.597422046408504
+Best alt + (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h))))))) with error: 32.597422046408504
+Picked (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2)))))
+Picked alt had 0.0% improvement of the best alt with span 0.26180885477192106
+
+Iter 1
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 32.581797046408504
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (/ (sqrt (* (+ g h) (- (* g g) (* h h)))) (sqrt (+ g h)))) (* a 2))))) error: 32.84522713980165
+Alt (λ (g h a) (+ (cbrt (/ (- (- g) (sqrt (* (- g h) (+ g h)))) (* a 2))) (cbrt 0))) error: 10.429977584292317
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) g) (* a 2))))) error: 12.936791570650064
+Alt (λ (g h a) (+ (cbrt (/ (* (* (cbrt (- (sqrt (* (+ g h) (- g h))) g)) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.84631618356455
+Alt (λ (g h a) (+ (cbrt (/ (/ (- (* (+ h g) (- g h)) (* g g)) (+ (sqrt (* (+ g h) (- g h))) g)) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 30.90827726402306
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (* (* (cbrt (sqrt (* (+ g h) (- g h)))) (cbrt (sqrt (* (+ g h) (- g h))))) (cbrt (sqrt (* (+ g h) (- g h)))))) (* a 2))))) error: 32.85923090117965
+Alt (λ (g h a) (+ (cbrt (/ (- (* (sqrt (sqrt (* (+ g h) (- g h)))) (sqrt (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.85470473811004
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (* (* (cbrt (- (- g) (sqrt (* (+ g h) (- g h))))) (cbrt (- (- g) (sqrt (* (+ g h) (- g h)))))) (cbrt (- (- g) (sqrt (* (+ g h) (- g h)))))) (* a 2))))) error: 32.859230901180425
+Alt (λ (g h a) (+ (cbrt (/ (- (exp (log (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.859229615073275
+Alt (λ (g h a) (+ (cbrt (/ (- (* (sqrt (+ g h)) (sqrt (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 25.66962012552791
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (exp (log (sqrt (* (+ g h) (- g h)))))) (* a 2))))) error: 32.85443604405564
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (cbrt (pow (- (- g) (sqrt (* (+ g h) (- g h)))) 3)) (* a 2))))) error: 32.8430561798636
+Alt (λ (g h a) (+ (cbrt (/ (- (* (* (cbrt (sqrt (* (+ g h) (- g h)))) (cbrt (sqrt (* (+ g h) (- g h))))) (cbrt (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.83882644788117
+Alt (λ (g h a) (+ (cbrt (/ (* (sqrt (- (sqrt (* (+ g h) (- g h))) g)) (sqrt (- (sqrt (* (+ g h) (- g h))) g))) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.843605901180425
+Best alt + (cbrt (/ (- (- g) (sqrt (* (- g h) (+ g h)))) (* a 2))) (cbrt 0)) with error: 10.429977584292317
+Picked (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h))))))))
+Picked alt had 0.012369286255420157% improvement of the best alt with span 22.429253316888108
+
+Iter 2
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (* (fabs (cbrt (* (- g h) (+ g h)))) (sqrt (cbrt (- (* g g) (* h h)))))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 32.562265796408504
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (* (* (cbrt (- (- g) (sqrt (- (* g g) (* h h))))) (cbrt (- (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (- (- g) (sqrt (- (* g g) (* h h)))))))))) error: 32.581797046408504
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (* (sqrt (- (sqrt (* (- g h) (+ h g))) g)) (sqrt (- (sqrt (* (- g h) (+ h g))) g))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 32.577890796408504
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (/ (sqrt (* (+ g h) (- (* g g) (* h h)))) (sqrt (+ g h)))) (* a 2))))) error: 32.57169953664007
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) g) (* a 2))))) error: 12.667170505915099
+Alt (λ (g h a) (+ (cbrt (/ (* (* (cbrt (- (sqrt (* (+ g h) (- g h))) g)) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.57679003907262
+Alt (λ (g h a) (+ (cbrt (/ (- (* (sqrt (sqrt (* (+ g h) (- g h)))) (sqrt (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.577890796408504
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (/ (* h h) (- (- g) (sqrt (- (* g g) (* h h))))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 17.414041033082604
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (* (* (cbrt (sqrt (- (* g g) (* h h)))) (cbrt (sqrt (- (* g g) (* h h))))) (cbrt (sqrt (- (* g g) (* h h)))))))))) error: 32.57789079640773
+Alt (λ (g h a) (+ (cbrt (/ (- (exp (log (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.58179576030136
+Alt (λ (g h a) (+ (cbrt (/ (- (* (sqrt (+ g h)) (sqrt (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 25.399998770815632
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (exp (log (sqrt (* (+ g h) (- g h)))))) (* a 2))))) error: 32.577890796408504
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (cbrt (pow (- (- g) (sqrt (* (+ g h) (- g h)))) 3)) (* a 2))))) error: 32.56562232509168
+Alt (λ (g h a) (+ (cbrt (/ (- (* (* (cbrt (sqrt (* (+ g h) (- g h)))) (cbrt (sqrt (* (+ g h) (- g h))))) (cbrt (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.56139259310925
+Best alt + (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) g) (* a 2)))) with error: 12.667170505915099
+Picked (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (* (* (cbrt (- (- g) (sqrt (- (* g g) (* h h))))) (cbrt (- (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (- (- g) (sqrt (- (* g g) (* h h))))))))))
+Picked alt had 0.0% improvement of the best alt with span 19.914626540493405
+
+Iter 3
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (* (fabs (cbrt (* (- g h) (+ g h)))) (sqrt (cbrt (- (* g g) (* h h)))))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 32.562265796408504
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (* (* (cbrt (- (- g) (sqrt (- (* g g) (* h h))))) (cbrt (- (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (- (- g) (sqrt (- (* g g) (* h h)))))))))) error: 32.581797046408504
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (* (sqrt (- (sqrt (* (- g h) (+ h g))) g)) (sqrt (- (sqrt (* (- g h) (+ h g))) g))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 32.577890796408504
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (/ (sqrt (* (+ g h) (- (* g g) (* h h)))) (sqrt (+ g h)))) (* a 2))))) error: 32.57169953664007
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) g) (* a 2))))) error: 12.667170505915099
+Alt (λ (g h a) (+ (cbrt (/ (* (* (cbrt (- (sqrt (* (+ g h) (- g h))) g)) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.57679003907262
+Alt (λ (g h a) (+ (cbrt (/ (- (* (sqrt (sqrt (* (+ g h) (- g h)))) (sqrt (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.577890796408504
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (/ (* h h) (- (- g) (sqrt (- (* g g) (* h h))))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (sqrt (- (* g g) (* h h)))))))) error: 17.414041033082604
+Alt (λ (g h a) (+ (cbrt (* (/ 1 (* 2 a)) (+ (- g) (sqrt (- (* g g) (* h h)))))) (cbrt (* (/ 1 (* 2 a)) (- (- g) (* (* (cbrt (sqrt (- (* g g) (* h h)))) (cbrt (sqrt (- (* g g) (* h h))))) (cbrt (sqrt (- (* g g) (* h h)))))))))) error: 32.57789079640773
+Alt (λ (g h a) (+ (cbrt (/ (- (exp (log (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.58179576030136
+Alt (λ (g h a) (+ (cbrt (/ (- (* (sqrt (+ g h)) (sqrt (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 25.399998770815632
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) (exp (log (sqrt (* (+ g h) (- g h)))))) (* a 2))))) error: 32.577890796408504
+Alt (λ (g h a) (+ (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (cbrt (pow (- (- g) (sqrt (* (+ g h) (- g h)))) 3)) (* a 2))))) error: 32.56562232509168
+Alt (λ (g h a) (+ (cbrt (/ (- (* (* (cbrt (sqrt (* (+ g h) (- g h)))) (cbrt (sqrt (* (+ g h) (- g h))))) (cbrt (sqrt (* (+ g h) (- g h))))) g) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2))))) error: 32.56139259310925
+Best alt + (cbrt (/ (- (sqrt (* (+ g h) (- g h))) g) (* a 2))) (cbrt (/ (- (- g) g) (* a 2)))) with error: 12.667170505915099
+Picked (λ (g h a) (+ (cbrt (/ (* (* (cbrt (- (sqrt (* (+ g h) (- g h))) g)) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (cbrt (- (sqrt (* (+ g h) (- g h))) g))) (* a 2))) (cbrt (/ (- (- g) (sqrt (* (+ g h) (- g h)))) (* a 2)))))
+Picked alt had 0.00025142361197197876% improvement of the best alt with span 19.914626540493405
+
+File: 31-2ancestrymixingnegativediscriminant
+Iter 0
+Alt (λ (g h) (* 2 (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))) error: 0.01171875
+Best alt 2 (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))) with error: 0.01171875
+Picked (λ (g h) (* 2 (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (g h) (* 2 (cos (/ (* (+ (* 2 PI) (acos (- (/ g h)))) 3) (* 3 3))))) error: 0.01171875
+Alt (λ (g h) (* 2 (* (* (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))))) error: 0.00390625
+Alt (λ (g h) (* 2 (+ (* (cos (/ (acos (/ g h)) 3)) (cos (* (+ 2 1) (/ PI 3)))) (* (sin (/ (acos (/ g h)) 3)) (sin (* (+ 2 1) (/ PI 3))))))) error: 0.01171875
+Alt (λ (g h) (* 2 (cos (+ (cbrt (pow (* (/ 2 3) PI) 3)) (/ (acos (/ (- g) h)) 3))))) error: 0.01171875
+Best alt 2 (* (* (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))))) with error: 0.00390625
+Picked (λ (g h) (* 2 (+ (* (cos (/ (acos (/ g h)) 3)) (cos (* (+ 2 1) (/ PI 3)))) (* (sin (/ (acos (/ g h)) 3)) (sin (* (+ 2 1) (/ PI 3)))))))
+Picked alt had 0.0% improvement of the best alt with span 0.0078125
+
+Iter 2
+Alt (λ (g h) (* 2 (cos (/ (* (+ (* 2 PI) (acos (- (/ g h)))) 3) (* 3 3))))) error: 0.01171875
+Alt (λ (g h) (* 2 (* (* (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))))) error: 0.00390625
+Alt (λ (g h) (* 2 (+ (* (cos (/ (acos (/ g h)) 3)) (cos (* (+ 2 1) (/ PI 3)))) (* (sin (/ (acos (/ g h)) 3)) (sin (* (+ 2 1) (/ PI 3))))))) error: 0.01171875
+Alt (λ (g h) (* 2 (cos (+ (cbrt (pow (* (/ 2 3) PI) 3)) (/ (acos (/ (- g) h)) 3))))) error: 0.01171875
+Best alt 2 (* (* (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))))) with error: 0.00390625
+Picked (λ (g h) (* 2 (cos (/ (* (+ (* 2 PI) (acos (- (/ g h)))) 3) (* 3 3)))))
+Picked alt had 0.0% improvement of the best alt with span 0.0078125
+
+Iter 3
+Alt (λ (g h) (* 2 (cos (/ (* (+ (* 2 PI) (acos (- (/ g h)))) 3) (* 3 3))))) error: 0.01171875
+Alt (λ (g h) (* 2 (* (* (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))))) error: 0.00390625
+Alt (λ (g h) (* 2 (+ (* (cos (/ (acos (/ g h)) 3)) (cos (* (+ 2 1) (/ PI 3)))) (* (sin (/ (acos (/ g h)) 3)) (sin (* (+ 2 1) (/ PI 3))))))) error: 0.01171875
+Alt (λ (g h) (* 2 (cos (+ (cbrt (pow (* (/ 2 3) PI) 3)) (/ (acos (/ (- g) h)) 3))))) error: 0.01171875
+Best alt 2 (* (* (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3))))) (cbrt (cos (+ (/ (* 2 PI) 3) (/ (acos (/ (- g) h)) 3)))))) with error: 0.00390625
+Picked (λ (g h) (* 2 (cos (+ (cbrt (pow (* (/ 2 3) PI) 3)) (/ (acos (/ (- g) h)) 3)))))
+Picked alt had 0.0% improvement of the best alt with span 0.0078125
+
+File: 32-Quotientofsumofexps
+Iter 0
+Alt (λ (a b) (/ (exp a) (+ (exp a) (exp b)))) error: 0
+Best alt (exp a) (+ (exp a) (exp b))) with error: 0
+Picked (λ (a b) (/ (exp a) (+ (exp a) (exp b))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b) (/ (exp a) (+ b (+ 2 a)))) error: 0
+Alt (λ (a b) (/ (exp a) (+ (exp a) (exp b)))) error: 0
+Alt (λ (a b) (+ 1/2 (* (- a b) 1/4))) error: 0
+Alt (λ (a b) (cbrt (pow (/ (exp a) (+ (exp a) (exp b))) 3))) error: 0
+Alt (λ (a b) (exp (- a (log (+ (exp a) (exp b)))))) error: 0
+Best alt (exp a) (+ b (+ 2 a))) with error: 0
+Picked (λ (a b) (exp (- a (log (+ (exp a) (exp b))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (a b) (/ (exp a) (+ b (+ 2 a)))) error: 0
+Alt (λ (a b) (/ (exp a) (+ (exp a) (exp b)))) error: 0
+Alt (λ (a b) (+ 1/2 (* (- a b) 1/4))) error: 0
+Alt (λ (a b) (cbrt (pow (/ (exp a) (+ (exp a) (exp b))) 3))) error: 0
+Alt (λ (a b) (exp (- a (log (+ (exp a) (exp b)))))) error: 0
+Best alt (exp a) (+ b (+ 2 a))) with error: 0
+Picked (λ (a b) (cbrt (pow (/ (exp a) (+ (exp a) (exp b))) 3)))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (a b) (/ (exp a) (+ b (+ 2 a)))) error: 0
+Alt (λ (a b) (/ (exp a) (+ (exp a) (exp b)))) error: 0
+Alt (λ (a b) (+ 1/2 (* (- a b) 1/4))) error: 0
+Alt (λ (a b) (cbrt (pow (/ (exp a) (+ (exp a) (exp b))) 3))) error: 0
+Alt (λ (a b) (exp (- a (log (+ (exp a) (exp b)))))) error: 0
+Best alt (exp a) (+ b (+ 2 a))) with error: 0
+Picked (λ (a b) (/ (exp a) (+ b (+ 2 a))))
+Picked alt had 100% improvement of the best alt
+
+File: 33-Quotientofproducts
+Iter 0
+Alt (λ (a1 a2 b1 b2) (/ (* a1 a2) (* b1 b2))) error: 0.0390625
+Best alt  b2) (/ (* a1 a2) (* b1 b2)) with error: 0.0390625
+Picked (λ (a1 a2 b1 b2) (/ (* a1 a2) (* b1 b2)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a1 a2 b1 b2) (* (* a1 a2) (/ 1 (* b1 b2)))) error: 0.0078125
+Alt (λ (a1 a2 b1 b2) (/ a1 (/ (* b1 b2) a2))) error: 0.0078125
+Alt (λ (a1 a2 b1 b2) (* (/ a1 b1) (/ a2 b2))) error: 0.00390625
+Alt (λ (a1 a2 b1 b2) (/ (/ (* a1 a2) b1) b2)) error: 0.01953125
+Alt (λ (a1 a2 b1 b2) (cbrt (pow (* (/ a1 b1) (/ a2 b2)) 3))) error: 0.0078125
+Best alt  b2) (* (/ a1 b1) (/ a2 b2)) with error: 0.00390625
+Picked (λ (a1 a2 b1 b2) (/ (/ (* a1 a2) b1) b2))
+Picked alt had 0.0% improvement of the best alt with span 0.015625
+
+Iter 2
+Alt (λ (a1 a2 b1 b2) (* (* a1 a2) (/ 1 (* b1 b2)))) error: 0
+Alt (λ (a1 a2 b1 b2) (/ a1 (/ (* b1 b2) a2))) error: 0.00390625
+Alt (λ (a1 a2 b1 b2) (* (/ a1 b1) (/ a2 b2))) error: 0
+Alt (λ (a1 a2 b1 b2) (cbrt (pow (* (/ a1 b2) (/ a2 b1)) 3))) error: 0.00390625
+Alt (λ (a1 a2 b1 b2) (/ (/ (* a1 a2) b1) b2)) error: 0.01953125
+Alt (λ (a1 a2 b1 b2) (/ (cbrt (pow (* (/ a2 b1) a1) 3)) b2)) error: 0.00390625
+Alt (λ (a1 a2 b1 b2) (/ (/ a1 (/ b1 a2)) b2)) error: 0.00390625
+Alt (λ (a1 a2 b1 b2) (/ (* (cbrt (/ (* a1 a2) b1)) (cbrt (/ (* a1 a2) b1))) (/ b2 (cbrt (/ (* a1 a2) b1))))) error: 0.01953125
+Best alt  b2) (* (* a1 a2) (/ 1 (* b1 b2))) with error: 0
+Picked (λ (a1 a2 b1 b2) (* (/ a1 b1) (/ a2 b2)))
+Picked alt had 1.0% improvement of the best alt with span 0.01953125
+
+Iter 3
+Alt (λ (a1 a2 b1 b2) (* a1 (/ (/ a2 b1) b2))) error: 0
+Alt (λ (a1 a2 b1 b2) (/ (* a1 (/ a2 b2)) b1)) error: 0
+Alt (λ (a1 a2 b1 b2) (/ a1 (/ (* b1 b2) a2))) error: 0
+Alt (λ (a1 a2 b1 b2) (* (/ a1 b1) (/ a2 b2))) error: 0
+Alt (λ (a1 a2 b1 b2) (/ (/ (* a1 a2) b1) b2)) error: 0
+Alt (λ (a1 a2 b1 b2) (/ (cbrt (pow (* (/ a2 b1) a1) 3)) b2)) error: 0
+Alt (λ (a1 a2 b1 b2) (/ (/ a1 (/ b1 a2)) b2)) error: 0
+Best alt  b2) (* a1 (/ (/ a2 b1) b2)) with error: 0
+Picked (λ (a1 a2 b1 b2) (/ (* a1 (/ a2 b2)) b1))
+Picked alt had 100% improvement of the best alt
+
+File: 34-Logisticregression2
+Iter 0
+Alt (λ (x y) (- (log (+ 1 (exp x))) (* x y))) error: 0.10216672121970087
+Best alt (log (+ 1 (exp x))) (* x y)) with error: 0.10216672121970087
+Picked (λ (x y) (- (log (+ 1 (exp x))) (* x y)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x y) (cbrt (pow (- (log (+ 1 (exp x))) (* y x)) 3))) error: 0.10216672114426269
+Alt (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (log (+ (- 1 (exp x)) (* (exp x) (exp x))))) (* x y))) error: 0.1020177254263653
+Alt (λ (x y) (- (log 2) (* x (- (- y 1/2) (* 1/8 x))))) error: 0.10216672121970087
+Best alt (- (log (+ 1 (pow (exp x) 3))) (log (+ (- 1 (exp x)) (* (exp x) (exp x))))) (* x y)) with error: 0.1020177254263653
+Picked (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (log (+ (- 1 (exp x)) (* (exp x) (exp x))))) (* x y)))
+Picked alt had 1.0% improvement of the best alt with span 0.00014899579333557678
+
+Iter 2
+Alt (λ (x y) (cbrt (pow (- (log (+ 1 (exp x))) (* y x)) 3))) error: 0.1020177254263653
+Alt (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (log (+ (- 1 (exp x)) (* (exp x) (exp x))))) (* x y))) error: 0.1020177254263653
+Alt (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (+ (log (* (cbrt (+ (exp (+ x x)) (- 1 (exp x)))) (cbrt (+ (exp (+ x x)) (- 1 (exp x)))))) (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))) (* x y))) error: 0.10201772534890605
+Alt (λ (x y) (- (log 2) (* x (- (- y 1/2) (* 1/8 x))))) error: 0.1020177254263653
+Best alt (- (log (+ 1 (pow (exp x) 3))) (+ (log (* (cbrt (+ (exp (+ x x)) (- 1 (exp x)))) (cbrt (+ (exp (+ x x)) (- 1 (exp x)))))) (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))) (* x y)) with error: 0.10201772534890605
+Picked (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (+ (log (* (cbrt (+ (exp (+ x x)) (- 1 (exp x)))) (cbrt (+ (exp (+ x x)) (- 1 (exp x)))))) (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))) (* x y)))
+Picked alt had 1.0% improvement of the best alt with span 7.74592473495872e-11
+
+Iter 3
+Alt (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (+ (log (* (cbrt (+ (exp (+ x x)) (- 1 (exp x)))) (cbrt (+ (exp (+ x x)) (- 1 (exp x)))))) (* (* (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1))))) (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))) (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))))) (* x y))) error: 0.10201772534890605
+Alt (λ (x y) (cbrt (pow (- (log (+ 1 (exp x))) (* y x)) 3))) error: 0.10201772534890605
+Alt (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (log (+ (- 1 (exp x)) (* (exp x) (exp x))))) (* x y))) error: 0.10201772534890605
+Alt (λ (x y) (- (log 2) (* x (- (- y 1/2) (* 1/8 x))))) error: 0.10201772534890605
+Best alt (- (log (+ 1 (pow (exp x) 3))) (+ (log (* (cbrt (+ (exp (+ x x)) (- 1 (exp x)))) (cbrt (+ (exp (+ x x)) (- 1 (exp x)))))) (* (* (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1))))) (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))) (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))))) (* x y)) with error: 0.10201772534890605
+Picked (λ (x y) (- (- (log (+ 1 (pow (exp x) 3))) (+ (log (* (cbrt (+ (exp (+ x x)) (- 1 (exp x)))) (cbrt (+ (exp (+ x x)) (- 1 (exp x)))))) (* (* (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1))))) (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))) (cbrt (log (cbrt (- (exp (+ x x)) (- (exp x) 1)))))))) (* x y)))
+Picked alt had 100% improvement of the best alt
+
+File: 35-Hyperbolicarcsine
+Iter 0
+Alt (λ (x) (log (+ x (sqrt (+ (* x x) 1))))) error: 0.010097509768442016
+Best alt (+ x (sqrt (+ (* x x) 1)))) with error: 0.010097509768442016
+Picked (λ (x) (log (+ x (sqrt (+ (* x x) 1)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (+ (log (sqrt (+ x (sqrt (+ (* x x) 1))))) (log (sqrt (+ x (sqrt (+ (* x x) 1))))))) error: 0.006191259768442017
+Alt (λ (x) (log (- (+ (/ 1/2 x) (* x 2)) (/ (/ 1/8 x) (* x x))))) error: 0.010097509768442016
+Alt (λ (x) (- (+ (* 3/40 (pow x 5)) x) (* 1/6 (pow x 3)))) error: 0.010097509768442016
+Alt (λ (x) (log (- (/ (/ 1/8 x) (* x x)) (+ (/ 1/16 (pow x 5)) (/ 1/2 x))))) error: 0.010097509768442016
+Best alt og (sqrt (+ x (sqrt (+ (* x x) 1))))) (log (sqrt (+ x (sqrt (+ (* x x) 1)))))) with error: 0.006191259768442017
+Picked (λ (x) (- (+ (* 3/40 (pow x 5)) x) (* 1/6 (pow x 3))))
+Picked alt had 0.0% improvement of the best alt with span 0.003906249999999999
+
+Iter 2
+Alt (λ (x) (+ (log (sqrt (+ x (sqrt (+ (* x x) 1))))) (log (sqrt (+ x (sqrt (+ (* x x) 1))))))) error: 0.006191259768442017
+Alt (λ (x) (log (- (+ (/ 1/2 x) (* x 2)) (/ (/ 1/8 x) (* x x))))) error: 0.010097509768442016
+Alt (λ (x) (- (+ (* 3/40 (pow x 5)) x) (* 1/6 (pow x 3)))) error: 0.010097509768442016
+Alt (λ (x) (log (- (/ (/ 1/8 x) (* x x)) (+ (/ 1/16 (pow x 5)) (/ 1/2 x))))) error: 0.010097509768442016
+Best alt og (sqrt (+ x (sqrt (+ (* x x) 1))))) (log (sqrt (+ x (sqrt (+ (* x x) 1)))))) with error: 0.006191259768442017
+Picked (λ (x) (log (- (/ (/ 1/8 x) (* x x)) (+ (/ 1/16 (pow x 5)) (/ 1/2 x)))))
+Picked alt had 0.0% improvement of the best alt with span 0.003906249999999999
+
+Iter 3
+Alt (λ (x) (+ (log (sqrt (+ x (sqrt (+ (* x x) 1))))) (log (sqrt (+ x (sqrt (+ (* x x) 1))))))) error: 0.006191259768442017
+Alt (λ (x) (log (- (+ (/ 1/2 x) (* x 2)) (/ (/ 1/8 x) (* x x))))) error: 0.010097509768442016
+Alt (λ (x) (- (+ (* 3/40 (pow x 5)) x) (* 1/6 (pow x 3)))) error: 0.010097509768442016
+Alt (λ (x) (log (- (/ (/ 1/8 x) (* x x)) (+ (/ 1/16 (pow x 5)) (/ 1/2 x))))) error: 0.010097509768442016
+Best alt og (sqrt (+ x (sqrt (+ (* x x) 1))))) (log (sqrt (+ x (sqrt (+ (* x x) 1)))))) with error: 0.006191259768442017
+Picked (λ (x) (log (- (+ (/ 1/2 x) (* x 2)) (/ (/ 1/8 x) (* x x)))))
+Picked alt had 0.0% improvement of the best alt with span 0.003906249999999999
+
+File: 36-Harleysexample
+Iter 0
+Alt (λ (c_p c_n t s) (/ (* (pow (/ 1 (+ 1 (exp (- s)))) c_p) (pow (- 1 (/ 1 (+ 1 (exp (- s))))) c_n)) (* (pow (/ 1 (+ 1 (exp (- t)))) c_p) (pow (- 1 (/ 1 (+ 1 (exp (- t))))) c_n)))) error: 0.040132014059430725
+Best alt t s) (/ (* (pow (/ 1 (+ 1 (exp (- s)))) c_p) (pow (- 1 (/ 1 (+ 1 (exp (- s))))) c_n)) (* (pow (/ 1 (+ 1 (exp (- t)))) c_p) (pow (- 1 (/ 1 (+ 1 (exp (- t))))) c_n))) with error: 0.040132014059430725
+Picked (λ (c_p c_n t s) (/ (* (pow (/ 1 (+ 1 (exp (- s)))) c_p) (pow (- 1 (/ 1 (+ 1 (exp (- s))))) c_n)) (* (pow (/ 1 (+ 1 (exp (- t)))) c_p) (pow (- 1 (/ 1 (+ 1 (exp (- t))))) c_n))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (c_p c_n t s) (/ (pow (- 1 (/ 1 (+ (exp (- s)) 1))) c_n) (/ (pow (- 1 (/ 1 (+ 1 (exp (- t))))) c_n) (/ (pow (/ 1 (+ (exp (- s)) 1)) c_p) (+ (* c_p (+ (* t 1/2) (log 1/2))) 1))))) error: 0.040132014059430725
+Alt (λ (c_p c_n t s) (+ 1 (* (- c_p c_n) (* 1/2 s)))) error: 0.040132014059430725
+Alt (λ (c_p c_n t s) (exp (- (* (- (log (- 1 (/ 1 (+ (exp (- s)) 1)))) (log (- 1 (/ 1 (+ 1 (exp (- t))))))) c_n) (* (- (log (+ (exp (- s)) 1)) (log (+ 1 (exp (- t))))) c_p)))) error: 0.00390625
+Best alt t s) (exp (- (* (- (log (- 1 (/ 1 (+ (exp (- s)) 1)))) (log (- 1 (/ 1 (+ 1 (exp (- t))))))) c_n) (* (- (log (+ (exp (- s)) 1)) (log (+ 1 (exp (- t))))) c_p))) with error: 0.00390625
+Picked (λ (c_p c_n t s) (exp (- (* (- (log (- 1 (/ 1 (+ (exp (- s)) 1)))) (log (- 1 (/ 1 (+ 1 (exp (- t))))))) c_n) (* (- (log (+ (exp (- s)) 1)) (log (+ 1 (exp (- t))))) c_p))))
+Picked alt had 1.0% improvement of the best alt with span 0.036225764059430725
+
+Iter 2
+Alt (λ (c_p c_n t s) (/ (pow (/ (- 1 (/ 1 (+ (exp (- s)) 1))) (- 1 (/ 1 (+ (exp (- t)) 1)))) c_n) (exp (+ (* (* c_p 1/8) (* s s)) (* (* c_p 1/2) (- t s)))))) error: 0
+Alt (λ (c_p c_n t s) (exp (- (* (- (log (- 1 (/ 1 (+ (exp (- s)) 1)))) (log (- 1 (/ 1 (+ 1 (exp (- t))))))) c_n) (* (* (+ (sqrt (log (+ (exp (- s)) 1))) (sqrt (log (+ 1 (exp (- t)))))) (- (sqrt (log (+ (exp (- s)) 1))) (sqrt (log (+ 1 (exp (- t))))))) c_p)))) error: 0.00390625
+Alt (λ (c_p c_n t s) (+ 1 (* (- c_p c_n) (* 1/2 s)))) error: 0.00390625
+Best alt t s) (/ (pow (/ (- 1 (/ 1 (+ (exp (- s)) 1))) (- 1 (/ 1 (+ (exp (- t)) 1)))) c_n) (exp (+ (* (* c_p 1/8) (* s s)) (* (* c_p 1/2) (- t s))))) with error: 0
+Picked (λ (c_p c_n t s) (exp (- (* (- (log (- 1 (/ 1 (+ (exp (- s)) 1)))) (log (- 1 (/ 1 (+ 1 (exp (- t))))))) c_n) (* (* (+ (sqrt (log (+ (exp (- s)) 1))) (sqrt (log (+ 1 (exp (- t)))))) (- (sqrt (log (+ (exp (- s)) 1))) (sqrt (log (+ 1 (exp (- t))))))) c_p))))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+Iter 3
+Alt (λ (c_p c_n t s) (/ (pow (/ (- 1 (/ 1 (+ (exp (- s)) 1))) (- 1 (/ 1 (+ (exp (- t)) 1)))) c_n) (exp (+ (* (* c_p 1/8) (* s s)) (* (* c_p 1/2) (- t s)))))) error: 0
+Alt (λ (c_p c_n t s) (exp (- (* (- (log (- 1 (/ 1 (+ (exp (- s)) 1)))) (log (- 1 (/ 1 (+ 1 (exp (- t))))))) c_n) (* (* (+ (sqrt (log (+ (exp (- s)) 1))) (sqrt (log (+ 1 (exp (- t)))))) (- (sqrt (log (+ (exp (- s)) 1))) (sqrt (log (+ 1 (exp (- t))))))) c_p)))) error: 0.00390625
+Alt (λ (c_p c_n t s) (+ 1 (* (- c_p c_n) (* 1/2 s)))) error: 0.00390625
+Best alt t s) (/ (pow (/ (- 1 (/ 1 (+ (exp (- s)) 1))) (- 1 (/ 1 (+ (exp (- t)) 1)))) c_n) (exp (+ (* (* c_p 1/8) (* s s)) (* (* c_p 1/2) (- t s))))) with error: 0
+Picked (λ (c_p c_n t s) (/ (pow (/ (- 1 (/ 1 (+ (exp (- s)) 1))) (- 1 (/ 1 (+ (exp (- t)) 1)))) c_n) (exp (+ (* (* c_p 1/8) (* s s)) (* (* c_p 1/2) (- t s))))))
+Picked alt had 1.0% improvement of the best alt with span 0.00390625
+
+File: 37-Expofsumoflogs
+Iter 0
+Alt (λ (a b) (* a b)) error: 0
+Best alt a b) with error: 0
+Picked (λ (a b) (* a b))
+Picked alt had 100% improvement of the best alt
+
+File: 4-Sphericallawofcosines
+Iter 0
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) error: 4.085968662846172
+Best alt 1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R) with error: 4.085968662846172
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (- (/ PI 2) (asin (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) R)) error: 3.8414374111605776
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) (* (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) R))) error: 4.055827229119612
+Alt (λ (R lambda1 lambda2 phi1 phi2) (log (exp (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)))) error: 4.085968662846172
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (log (exp (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))))) R)) error: 4.05421384738339
+Alt (λ (R lambda1 lambda2 phi1 phi2) (cbrt (pow (* (acos (+ (* (cos (- lambda1 lambda2)) (* (cos phi2) (cos phi1))) (* (sin phi2) (sin phi1)))) R) 3))) error: 4.070038965533652
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (log (exp (cos (- lambda1 lambda2))))))) R)) error: 4.068058653077729
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (exp (+ (log (sin phi1)) (log (sin phi2)))) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) error: 4.085968662846172
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (cbrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) (cbrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R))) (cbrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)))) error: 4.068989427713465
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (* (sin phi1) (* (cbrt (sin phi2)) (cbrt (sin phi2)))) (cbrt (sin phi2))) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) error: 4.074249912846172
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (cbrt (pow (acos (+ (* (cos (- lambda1 lambda2)) (* (cos phi2) (cos phi1))) (* (sin phi2) (sin phi1)))) 3)) R)) error: 4.058590549767121
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))))) R)) error: 4.062771008723766
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (sqrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) (sqrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)))) error: 4.078156162846172
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (cbrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) (cbrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))))) (* (cbrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) R))) error: 4.060362136222014
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))) R)) error: 3.9728384640953047
+Best alt 1 lambda2 phi1 phi2) (* (- (/ PI 2) (asin (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) R) with error: 3.8414374111605776
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))) R))
+Picked alt had 0.4626410651850922% improvement of the best alt with span 0.24453125168559442
+
+Iter 2
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (cbrt (pow (* (sin phi2) (sin phi1)) 3)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))) R)) error: 3.9485071410855554
+Alt (λ (R lambda1 lambda2 phi1 phi2) (cbrt (pow (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1))))) R) 3))) error: 3.964570977142885
+Alt (λ (R lambda1 lambda2 phi1 phi2) (log (exp (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)))) error: 3.9728384640953047
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (log (exp (cos (- lambda1 lambda2))))))) R)) error: 3.9650259640953047
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (cbrt (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1))))) R)) (cbrt (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1))))) R))) (cbrt (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda2) (sin lambda1)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1))))) R)))) error: 3.956423252045939
+Alt (λ (R lambda1 lambda2 phi1 phi2) (exp (log (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda1) (sin lambda2))) (* (cos phi2) (cos phi1))))) R)))) error: 3.970912526551242
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (log (exp (* (sin lambda1) (sin (- lambda2))))))))) R)) error: 3.9691532435029857
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (cbrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) (cbrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))))) (* (cbrt (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda2) (sin lambda1)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1)))))) R))) error: 3.963644569741341
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (exp (+ (log (sin phi1)) (log (sin phi2)))) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) error: 3.9728384640953047
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (* (sin phi1) (* (cbrt (sin phi2)) (cbrt (sin phi2)))) (cbrt (sin phi2))) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) error: 3.9728384640953047
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))))) R)) error: 3.949640809972899
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) (* (sqrt (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda2) (sin lambda1)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1)))))) R))) error: 3.9487371945584204
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (sqrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) (sqrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)))) error: 3.9650259640953047
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (- (/ PI 2) (asin (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1)))))) R)) error: 3.7621312869494172
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (cbrt (pow (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda2) (sin lambda1)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1))))) 3)) R)) error: 3.9532728510162536
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (log (exp (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda1) (sin lambda2)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1))))))) R)) error: 3.9287911489719596
+Best alt 1 lambda2 phi1 phi2) (* (- (/ PI 2) (asin (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1)))))) R) with error: 3.7621312869494172
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (cbrt (pow (* (sin phi2) (sin phi1)) 3)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))) R))
+Picked alt had 0.1154745810718302% improvement of the best alt with span 0.2107071771458875
+
+Iter 3
+Alt (λ (R lambda1 lambda2 phi1 phi2) (cbrt (pow (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1))))) R) 3))) error: 3.9402396541331357
+Alt (λ (R lambda1 lambda2 phi1 phi2) (log (exp (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)))) error: 3.9485071410855554
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (cbrt (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1))))) R)) (cbrt (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1))))) R))) (cbrt (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda2) (sin lambda1)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1))))) R)))) error: 3.9343769388046312
+Alt (λ (R lambda1 lambda2 phi1 phi2) (exp (log (* (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda1) (sin lambda2))) (* (cos phi2) (cos phi1))))) R)))) error: 3.9465812035414927
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (log (exp (* (sin lambda1) (sin (- lambda2))))))))) R)) error: 3.9485071410855554
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (exp (+ (log (sin phi1)) (log (sin phi2)))) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) error: 3.9485071410855554
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (* (sin phi1) (* (cbrt (sin phi2)) (cbrt (sin phi2)))) (cbrt (sin phi2))) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) error: 3.9485071410855554
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2)))))) (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))))) R)) error: 3.9253094869631497
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (sqrt (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) (* (sqrt (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda2) (sin lambda1)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1)))))) R))) error: 3.924405871548671
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (sqrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)) (sqrt (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (cos (- lambda1 lambda2))))) R)))) error: 3.9406946410855554
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (* (cbrt (acos (+ (cbrt (pow (* (sin phi2) (sin phi1)) 3)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2)))))))) (cbrt (acos (+ (cbrt (pow (* (sin phi2) (sin phi1)) 3)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin (- lambda2))))))))) (* R (cbrt (acos (+ (* (+ (* (cos lambda1) (cos lambda2)) (* (sin lambda1) (sin lambda2))) (* (cos phi1) (cos phi2))) (* (sin phi1) (sin phi2)))))))) error: 3.9370282369631497
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (- (/ PI 2) (asin (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1)))))) R)) error: 3.7377999639396675
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (cbrt (pow (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda2) (sin lambda1)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1))))) 3)) R)) error: 3.9289415280065043
+Alt (λ (R lambda1 lambda2 phi1 phi2) (* (log (exp (acos (+ (* (sin phi2) (sin phi1)) (* (+ (* (sin lambda1) (sin lambda2)) (* (cos lambda2) (cos lambda1))) (* (cos phi2) (cos phi1))))))) R)) error: 3.90445982596221
+Best alt 1 lambda2 phi1 phi2) (* (- (/ PI 2) (asin (+ (* (sin phi2) (sin phi1)) (* (+ (* (cos lambda2) (cos lambda1)) (* (sin lambda2) (sin lambda1))) (* (cos phi2) (cos phi1)))))) R) with error: 3.7377999639396675
+Picked (λ (R lambda1 lambda2 phi1 phi2) (* (acos (+ (* (sin phi1) (sin phi2)) (* (* (cos phi1) (cos phi2)) (- (* (cos lambda1) (cos lambda2)) (log (exp (* (sin lambda1) (sin (- lambda2))))))))) R))
+Picked alt had 0.0% improvement of the best alt with span 0.21070717714588794
+
+File: 8-Quadraticrootsfullrange
+Iter 0
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* (* 4 a) c)))) (* 2 a))) error: 5.910122758495144
+Best alt / (+ (- b) (sqrt (- (* b b) (* (* 4 a) c)))) (* 2 a)) with error: 5.910122758495144
+Picked (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* (* 4 a) c)))) (* 2 a)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b c) (/ (- b) a)) error: 5.910122758495144
+Alt (λ (a b c) (* (- 1) (/ c b))) error: 5.910122758495144
+Alt (λ (a b c) (- (/ (/ c b) 1) (/ (+ b b) (* a 2)))) error: 5.910122758495144
+Alt (λ (a b c) (/ (+ (- b) (* (fabs (cbrt (- (* b b) (* (* 4 c) a)))) (sqrt (cbrt (- (* b b) (* (* 4 a) c)))))) (* 2 a))) error: 5.910120368085391
+Alt (λ (a b c) (/ (+ (- b) (* (* (cbrt (sqrt (- (* b b) (* (* 4 a) c)))) (cbrt (sqrt (- (* b b) (* (* 4 a) c))))) (cbrt (sqrt (- (* b b) (* (* 4 a) c)))))) (* 2 a))) error: 5.910122690211792
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* (* 4 a) c)))) (* 2 a))) error: 5.910122758495144
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* (* a c) 4))) b)))) error: 5.910122758495144
+Alt (λ (a b c) (* (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))))) error: 5.794538391468495
+Alt (λ (a b c) (cbrt (pow (/ (- (sqrt (- (* b b) (* (* c a) 4))) b) (* a 2)) 3))) error: 5.910122758495144
+Alt (λ (a b c) (/ (- (* (- b) (- b)) (* (sqrt (- (* b b) (* (* 4 a) c))) (sqrt (- (* b b) (* (* 4 a) c))))) (* (* 2 a) (- (- b) (sqrt (- (* b b) (* (* 4 a) c))))))) error: 5.910122758495144
+Alt (λ (a b c) (* (* (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a))) (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a)))) (cbrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))))) error: 5.868873516040066
+Alt (λ (a b c) (/ (/ (* c (* a 4)) (- (- b) (sqrt (- (* b b) (* (* 4 a) c))))) (* 2 a))) error: 5.906210291319548
+Best alt * (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a)))) with error: 5.794538391468495
+Picked (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* (* a c) 4))) b))))
+Picked alt had 0.0% improvement of the best alt with span 0.1155843670266492
+
+Iter 2
+Alt (λ (a b c) (/ (- b) a)) error: 5.910122758495144
+Alt (λ (a b c) (* (- 1) (/ c b))) error: 5.910122758495144
+Alt (λ (a b c) (- (/ (/ c b) 1) (/ (+ b b) (* a 2)))) error: 5.910122758495144
+Alt (λ (a b c) (/ (+ (- b) (* (fabs (cbrt (- (* b b) (* (* 4 c) a)))) (sqrt (cbrt (- (* b b) (* (* 4 a) c)))))) (* 2 a))) error: 5.910120368085391
+Alt (λ (a b c) (/ (+ (- b) (* (* (cbrt (sqrt (- (* b b) (* (* 4 a) c)))) (cbrt (sqrt (- (* b b) (* (* 4 a) c))))) (cbrt (sqrt (- (* b b) (* (* 4 a) c)))))) (* 2 a))) error: 5.910122690211792
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* (* 4 a) c)))) (* 2 a))) error: 5.910122758495144
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* (* a c) 4))) b)))) error: 5.910122758495144
+Alt (λ (a b c) (* (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))))) error: 5.794538391468495
+Alt (λ (a b c) (cbrt (pow (/ (- (sqrt (- (* b b) (* (* c a) 4))) b) (* a 2)) 3))) error: 5.910122758495144
+Alt (λ (a b c) (/ (- (* (- b) (- b)) (* (sqrt (- (* b b) (* (* 4 a) c))) (sqrt (- (* b b) (* (* 4 a) c))))) (* (* 2 a) (- (- b) (sqrt (- (* b b) (* (* 4 a) c))))))) error: 5.910122758495144
+Alt (λ (a b c) (* (* (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a))) (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a)))) (cbrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))))) error: 5.868873516040066
+Alt (λ (a b c) (/ (/ (* c (* a 4)) (- (- b) (sqrt (- (* b b) (* (* 4 a) c))))) (* 2 a))) error: 5.906210291319548
+Best alt * (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a)))) with error: 5.794538391468495
+Picked (λ (a b c) (* (* (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a))) (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a)))) (cbrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a)))))
+Picked alt had 0.3568756183573538% improvement of the best alt with span 0.1155843670266492
+
+Iter 3
+Alt (λ (a b c) (/ (- b) a)) error: 5.868873516040066
+Alt (λ (a b c) (* (- 1) (/ c b))) error: 5.868873516040066
+Alt (λ (a b c) (- (/ (/ c b) 1) (/ (+ b b) (* a 2)))) error: 5.868873516040066
+Alt (λ (a b c) (/ (+ (- b) (* (fabs (cbrt (- (* b b) (* (* 4 c) a)))) (sqrt (cbrt (- (* b b) (* (* 4 a) c)))))) (* 2 a))) error: 5.868871125630312
+Alt (λ (a b c) (/ (+ (- b) (* (* (cbrt (sqrt (- (* b b) (* (* 4 a) c)))) (cbrt (sqrt (- (* b b) (* (* 4 a) c))))) (cbrt (sqrt (- (* b b) (* (* 4 a) c)))))) (* 2 a))) error: 5.868873447756713
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* (* 4 a) c)))) (* 2 a))) error: 5.868873516040066
+Alt (λ (a b c) (* (* (cbrt (/ (- (sqrt (- (* b b) (* c (* a 4)))) b) (* 2 a))) (cbrt (/ (- (sqrt (- (* b b) (* c (* a 4)))) b) (* 2 a)))) (cbrt (- (* (/ c b) 1) (/ (+ b b) (* 2 a)))))) error: 5.865609331522644
+Alt (λ (a b c) (* (cbrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (* (cbrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (cbrt (- (* (/ c b) 1) (/ (+ b b) (* 2 a))))))) error: 5.865609331522644
+Alt (λ (a b c) (* (* (cbrt (/ (- (sqrt (- (* b b) (* a (* 4 c)))) b) (* 2 a))) (cbrt (/ (- (sqrt (- (* b b) (* a (* 4 c)))) b) (* 2 a)))) (cbrt (/ (- 0 (/ (* 2 c) (/ b a))) (* 2 a))))) error: 5.865609307709038
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* (* a c) 4))) b)))) error: 5.868873516040066
+Alt (λ (a b c) (* (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))))) error: 5.7772516781082945
+Alt (λ (a b c) (cbrt (pow (/ (- (sqrt (- (* b b) (* (* c a) 4))) b) (* a 2)) 3))) error: 5.868873516040066
+Alt (λ (a b c) (/ (- (* (- b) (- b)) (* (sqrt (- (* b b) (* (* 4 a) c))) (sqrt (- (* b b) (* (* 4 a) c))))) (* (* 2 a) (- (- b) (sqrt (- (* b b) (* (* 4 a) c))))))) error: 5.868873516040066
+Alt (λ (a b c) (* (* (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a))) (cbrt (/ (- (sqrt (- (* b b) (* 4 (* c a)))) b) (* 2 a)))) (cbrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))))) error: 5.868873516040066
+Alt (λ (a b c) (/ (/ (* c (* a 4)) (- (- b) (sqrt (- (* b b) (* (* 4 a) c))))) (* 2 a))) error: 5.864961048864469
+Best alt * (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a))) (sqrt (/ (- (sqrt (- (* b b) (* (* 4 c) a))) b) (* 2 a)))) with error: 5.7772516781082945
+Picked (λ (a b c) (/ (/ (* c (* a 4)) (- (- b) (sqrt (- (* b b) (* (* 4 a) c))))) (* 2 a)))
+Picked alt had 0.04270234328316034% improvement of the best alt with span 0.09162183793177103
+
+File: 9-Midpointonagreatcircle
+Iter 0
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))) error: 0.7875334891986362
+Best alt lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))) with error: 0.7875334891986362
+Picked (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (* (sqrt (cos (- lambda1 lambda2))) (sqrt (cos (- lambda1 lambda2))))))))) error: 0.7875334891986362
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (* (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))) (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.7875334891986362
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (/ (+ (pow (cos phi1) 3) (pow (* (cos phi2) (cos (- lambda1 lambda2))) 3)) (+ (* (cos phi1) (cos phi1)) (- (* (* (cos phi2) (cos (- lambda1 lambda2))) (* (cos phi2) (cos (- lambda1 lambda2)))) (* (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))))) error: 0.7865444878866074
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (/ (- (* (cos phi1) (cos phi1)) (* (* (cos phi2) (cos (- lambda1 lambda2))) (* (cos phi2) (cos (- lambda1 lambda2))))) (- (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))) error: 0.7797209891985399
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (cbrt (pow (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))) 3))))) error: 0.7813421978176126
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (* (* (cbrt (sin (- lambda1 lambda2))) (cbrt (sin (- lambda1 lambda2)))) (cbrt (sin (- lambda1 lambda2))))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))) error: 0.7751818532541562
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.7461608768162902
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (log (exp (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.78552343774227
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (exp (log (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.7875334891986362
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (cbrt (pow (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (+ (cos phi1) (* (cos (- lambda1 lambda2)) (cos phi2)))) 3)))) error: 0.7756236860717575
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (+ (cos phi1) (* (cos phi2) (* (cos lambda1) (cos lambda2)))) (* (cos phi2) (* (sin lambda1) (sin lambda2))))))) error: 0.10961141324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2))))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))) error: 0.10570516324105539
+Best alt lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2))))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))) with error: 0.10570516324105539
+Picked (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (+ (cos phi1) (* (cos phi2) (* (cos lambda1) (cos lambda2)))) (* (cos phi2) (* (sin lambda1) (sin lambda2)))))))
+Picked alt had 0.9942709185710142% improvement of the best alt with span 0.6818283259575808
+
+Iter 2
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (* (sqrt (cos (- lambda1 lambda2))) (sqrt (cos (- lambda1 lambda2))))))))) error: 0.10961141324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (* (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))) (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.10961141324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (/ (+ (pow (cos phi1) 3) (pow (* (cos phi2) (cos (- lambda1 lambda2))) 3)) (+ (* (cos phi1) (cos phi1)) (- (* (* (cos phi2) (cos (- lambda1 lambda2))) (* (cos phi2) (cos (- lambda1 lambda2)))) (* (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))))) error: 0.10961141324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (/ (- (* (cos phi1) (cos phi1)) (* (* (cos phi2) (cos (- lambda1 lambda2))) (* (cos phi2) (cos (- lambda1 lambda2))))) (- (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))) error: 0.10570516324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (cbrt (pow (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))) 3))))) error: 0.10342015347261338
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (* (* (cbrt (sin (- lambda1 lambda2))) (cbrt (sin (- lambda1 lambda2)))) (cbrt (sin (- lambda1 lambda2))))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))) error: 0.1046525824793631
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2))))) (+ (+ (cos phi1) (* (cos phi2) (* (cos lambda1) (cos lambda2)))) (* (cos phi2) (* (sin lambda1) (sin lambda2))))))) error: 0.10570516324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.06823880085870934
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (log (exp (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.10760136178468915
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (exp (log (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.10961141324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (cbrt (pow (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (+ (cos phi1) (* (cos (- lambda1 lambda2)) (cos phi2)))) 3)))) error: 0.09770161011417669
+Best alt lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))) with error: 0.06823880085870934
+Picked (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2))))) (+ (+ (cos phi1) (* (cos phi2) (* (cos lambda1) (cos lambda2)))) (* (cos phi2) (* (sin lambda1) (sin lambda2)))))))
+Picked alt had 0.09441632459416127% improvement of the best alt with span 0.04137261238234605
+
+Iter 3
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (* (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))) (cbrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.10570516324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (/ (+ (pow (cos phi1) 3) (pow (* (cos phi2) (cos (- lambda1 lambda2))) 3)) (+ (* (cos phi1) (cos phi1)) (- (* (* (cos phi2) (cos (- lambda1 lambda2))) (* (cos phi2) (cos (- lambda1 lambda2)))) (* (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))))) error: 0.10570516324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (/ (- (* (cos phi1) (cos phi1)) (* (* (cos phi2) (cos (- lambda1 lambda2))) (* (cos phi2) (cos (- lambda1 lambda2))))) (- (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))) error: 0.10570516324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (cbrt (pow (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))) 3))))) error: 0.10342015347261338
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (* (* (cbrt (sin (- lambda1 lambda2))) (cbrt (sin (- lambda1 lambda2)))) (cbrt (sin (- lambda1 lambda2))))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))) error: 0.1007463324793631
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (+ (* (sin lambda1) (cos lambda2)) (* (cos lambda1) (sin (- lambda2))))) (+ (+ (cos phi1) (* (cos phi2) (* (cos lambda1) (cos lambda2)))) (* (cos phi2) (* (sin lambda1) (sin lambda2))))))) error: 0.10570516324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.06823880085870934
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (log (exp (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.10369511178468915
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (exp (log (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))))))) error: 0.10570516324105539
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (cbrt (pow (atan2 (* (sin (- lambda1 lambda2)) (cos phi2)) (+ (cos phi1) (* (cos (- lambda1 lambda2)) (cos phi2)))) 3)))) error: 0.09770161011417669
+Alt (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (* (cbrt (cos phi2)) (cbrt (cos phi2))) (* (cbrt (cos phi2)) (- (* (cos lambda2) (sin lambda1)) (* (sin lambda2) (cos lambda1))))) (+ (+ (cos phi1) (* (cos phi2) (* (cos lambda1) (cos lambda2)))) (* (cos phi2) (* (sin lambda1) (sin lambda2))))))) error: 0.10506424165611156
+Best alt lambda2 phi1 phi2) (+ lambda1 (atan2 (* (cos phi2) (sin (- lambda1 lambda2))) (* (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2))))) (sqrt (+ (cos phi1) (* (cos phi2) (cos (- lambda1 lambda2)))))))) with error: 0.06823880085870934
+Picked (λ (lambda1 lambda2 phi1 phi2) (+ lambda1 (atan2 (* (* (cbrt (cos phi2)) (cbrt (cos phi2))) (* (cbrt (cos phi2)) (- (* (cos lambda2) (sin lambda1)) (* (sin lambda2) (cos lambda1))))) (+ (+ (cos phi1) (* (cos phi2) (* (cos lambda1) (cos lambda2)))) (* (cos phi2) (* (sin lambda1) (sin lambda2)))))))
+Picked alt had 0.017106586927313525% improvement of the best alt with span 0.03746636238234605
+

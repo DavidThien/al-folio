@@ -1,0 +1,1191 @@
+Herbie alt oracle data.
+File order:
+0-sqrtexpproblem344
+1-sintanproblem345
+10-2logproblem336
+11-2fracproblem331
+12-2cosproblem335
+14-tanhfexample34
+15-quadpp42positive
+16-quadmp42negative
+17-qlogexample310
+18-logsexample38
+19-logqproblem343
+2-quad2pproblem321positive
+20-invcotexample39
+21-expq3problem342
+22-expq2section311
+23-expm1example37
+24-expaxsection35
+25-exp2problem337
+26-3fracproblem333
+28-2sqrtexample31
+29-2sinexample33
+3-quad2mproblem321negative
+30-2isqrtexample36
+31-2atanexample35
+4-cos2problem341
+5-392realpartp56
+6-392imaginarypartp56
+7-391realpartp56
+8-391imaginarypartp56
+9-2nthrtproblem346
+Difference between best and picked alt improvement
+0, 0, 0
+0.0, 0.00390625, 0.00390625, 0
+0.0, 0.0, 0.0, 0
+0.0, 0.0, 0, 0
+0.0, 0.09816444093688625, 0.14710988445776632, 0.15101622087566938
+0
+0.0, 0.0, 0.003908960898438174, 0.003908960898438174
+0.0, 0.0, 0.0, 0.806985316953595
+0.0, 0.00390625, 0.00390625, 0
+0, 0
+0.0, 0.005384811028334883, 0.0, 0.0
+0.0, 0.0, 0.0, 0.0015794077820130425
+0.0, 0.0, 0.0703125, 0.08203125
+0.0, 0.0, 1.1059726942416748e-05, 1.1059726942416748e-05
+0, 0, 0, 0
+0.0, 0.0, 0.0, 0.0
+0.0, 0.0, 0.0
+0.0, 0.0, 0.0, 0.0
+0.0, 0.01953125, 0, 0
+0.0, 0.0, 0, 0
+0.0, 0.056770580464567566, 0.09192745147834308, 0.09583370147834314
+0.0, 0.0, 1.2503625921311823e-06, 1.2503625921311823e-06
+0.0, 0.0, 0.0, 0.00390625
+0.0, 0.0, 0.0, 0.0
+0.0, 0, 0, 0
+0, 0
+0
+0
+0
+0.0, 0.0, 0.031271744651411915, 0.0
+
+Picked error
+0 0 
+0.0 0.0 0.00390625 
+0.00390625 0.00390625 0.00390625 
+0.2559125219886432 0.0078125 0 
+0.0546875 0.003906336417903056 0.0 
+
+0.01953125 0.0 0.0 
+0.015625 0.029057981548733736 0.0 
+0.0 0.0 0.00390625 
+0 
+0.0 0.005384811028334883 0.0 
+0.007815413023349649 0.03608423457637677 1.7033739396765668e-07 
+0.10384750976844204 0.0625 0.01171875 
+0.01953125 2.1957005380546235e-09 0.0 
+0 0 0 
+0.0010766970414587025 0.006495957080946989 0.006191259768442016 
+0.0 0.0 
+0.0 0.0 0.0 
+0.03125 0.01953125 0 
+0.1015625 0.01953125 0 
+0.04296937101377557 0.0078125 0.0039062499999999445 
+0.025249063945905093 0.0 0.0 
+17.66130794449762 0.21949013675818824 0.0 
+0.01953125 0.0078125 0.0078125 
+0.0078125 0 0 
+0 
+
+
+
+19.739118512236207 0.0 0.031271744651411915 
+Minimum error
+0 0 
+0.00390625 0.00390625 0.00390625 
+0.00390625 0.00390625 0.00390625 
+0.2559125219886432 0.0078125 0 
+0.15285194093688625 0.15101622087566938 0.15101622087566938 
+
+0.01953125 0.003908960898438174 0.003908960898438174 
+0.015625 0.029057981548733736 0.806985316953595 
+0.00390625 0.00390625 0.00390625 
+0 
+0.005384811028334883 0.005384811028334883 0.0 
+0.007815413023349649 0.03608423457637677 0.0015795781194070102 
+0.10384750976844204 0.1328125 0.09375 
+0.01953125 1.1061922642954802e-05 1.1059726942416748e-05 
+0 0 0 
+0.0010766970414587025 0.006495957080946989 0.006191259768442016 
+0.0 0.0 
+0.0 0.0 0.0 
+0.05078125 0.01953125 0 
+0.1015625 0.01953125 0 
+0.09973995147834314 0.09973995147834308 0.09973995147834308 
+0.025249063945905093 1.2503625921311823e-06 1.2503625921311823e-06 
+17.66130794449762 0.21949013675818824 0.00390625 
+0.01953125 0.0078125 0.0078125 
+0.0078125 0 0 
+0 
+
+
+
+19.739118512236207 0.031271744651411915 0.031271744651411915 
+
+Absolute min error on iteration
+0 0 0 
+0.00390625 0 0 0 
+0.01171875 0.0078125 0.00390625 0 
+0.2637250219886432 0.0078125 0 0 
+0.39449467042829717 0.2416427294914109 0.1887909495526278 0.18488461313472473 
+0 
+4.3184029000500574 4.2988716500500574 4.294962689151619 4.294962689151619 
+4.339628828311373 4.324003828311373 4.294945846762639 3.487960529809044 
+0.00390625 0 0 0 
+0 0 
+0.014454842648988641 0.009070031620653759 0.009070031620653759 0.009070031620653759 
+4.302114028118376 4.294298615095026 4.258214380518649 4.256634802399242 
+0.32259750976844204 0.21875 0.0859375 0.0625 
+0.1284234402197122 0.10889219021971219 0.10888112829706924 0.10888112829706924 
+0 0 0 0 
+0.017670163890847707 0.016593466849389005 0.010097509768442016 0.00390625 
+0.01688253162065376 0.01688253162065376 0.01688253162065376 
+0.009070031620653759 0.009070031620653759 0.009070031620653759 0.009070031620653759 
+0.05078125 0 0 0 
+0.12109375 0.01953125 0 0 
+0.36405066602033315 0.26431071454199 0.2213413435282145 0.2135288435282145 
+4.319528453296323 4.294279389350418 4.294278138987826 4.294278138987826 
+17.884704331255808 0.22339638675818824 0.00390625 0 
+0.2637250219886432 0.24419377198864323 0.23638127198864323 0.22856877198864323 
+0.0078125 0 0 0 
+0 0 
+0 
+0 
+0 
+21.8395711032341 2.100452590997892 2.0691808463464803 2.0691808463464803 
+Absolute picked error on iteration
+0 0 0 
+0.00390625 0.00390625 0.00390625 0 
+0.01171875 0.0078125 0.00390625 0 
+0.2637250219886432 0.0078125 0 0 
+0.39449467042829717 0.33980717042829717 0.3359008340103941 0.3359008340103941 
+0 
+4.3184029000500574 4.2988716500500574 4.2988716500500574 4.2988716500500574 
+4.339628828311373 4.324003828311373 4.294945846762639 4.294945846762639 
+0.00390625 0.00390625 0.00390625 0 
+0 0 
+0.014454842648988641 0.014454842648988641 0.009070031620653759 0.009070031620653759 
+4.302114028118376 4.294298615095026 4.258214380518649 4.258214210181255 
+0.32259750976844204 0.21875 0.15625 0.14453125 
+0.1284234402197122 0.10889219021971219 0.10889218802401165 0.10889218802401165 
+0 0 0 0 
+0.017670163890847707 0.016593466849389005 0.010097509768442016 0.00390625 
+0.01688253162065376 0.01688253162065376 0.01688253162065376 
+0.009070031620653759 0.009070031620653759 0.009070031620653759 0.009070031620653759 
+0.05078125 0.01953125 0 0 
+0.12109375 0.01953125 0 0 
+0.36405066602033315 0.3210812950065576 0.3132687950065576 0.30936254500655763 
+4.319528453296323 4.294279389350418 4.294279389350418 4.294279389350418 
+17.884704331255808 0.22339638675818824 0.00390625 0.00390625 
+0.2637250219886432 0.24419377198864323 0.23638127198864323 0.22856877198864323 
+0.0078125 0 0 0 
+0 0 
+0 
+0 
+0 
+21.8395711032341 2.100452590997892 2.100452590997892 2.0691808463464803 
+File: 0-sqrtexpproblem344
+Iter 0
+Alt (λ (x) (sqrt (+ 1 (exp x)))) error: 0
+Best alt (λ (x) (sqrt (+ 1 (exp x)))) with error: 0
+Picked (λ (x) (sqrt (+ 1 (exp x))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (sqrt (+ 1 (exp x)))) error: 0
+Alt (λ (x) (sqrt (/ (+ 1 (pow (exp x) 3)) (+ (exp (+ x x)) (- 1 (exp x)))))) error: 0
+Alt (λ (x) (sqrt (* (* (cbrt (+ 1 (exp x))) (cbrt (+ 1 (exp x)))) (cbrt (+ 1 (exp x)))))) error: 0
+Best alt (λ (x) (sqrt (+ 1 (exp x)))) with error: 0
+Picked (λ (x) (sqrt (/ (+ 1 (pow (exp x) 3)) (+ (exp (+ x x)) (- 1 (exp x))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (x) (sqrt (+ 1 (exp x)))) error: 0
+Alt (λ (x) (sqrt (/ (+ 1 (pow (exp x) 3)) (+ (exp (+ x x)) (- 1 (exp x)))))) error: 0
+Alt (λ (x) (sqrt (* (* (cbrt (+ 1 (exp x))) (cbrt (+ 1 (exp x)))) (cbrt (+ 1 (exp x)))))) error: 0
+Best alt (λ (x) (sqrt (+ 1 (exp x)))) with error: 0
+Picked (λ (x) (sqrt (* (* (cbrt (+ 1 (exp x))) (cbrt (+ 1 (exp x)))) (cbrt (+ 1 (exp x))))))
+Picked alt had 100% improvement of the best alt
+
+File: 1-sintanproblem345
+Iter 0
+Alt (λ (x) (/ (- x (sin x)) (- x (tan x)))) error: 0.00390625
+Best alt (λ (x) (/ (- x (sin x)) (- x (tan x)))) with error: 0.00390625
+Picked (λ (x) (/ (- x (sin x)) (- x (tan x))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (- (/ x (- x (tan x))) (/ (sin x) (- x (tan x))))) error: 0.00390625
+Alt (λ (x) (* (- x (sin x)) (/ 1 (- x (tan x))))) error: 0
+Alt (λ (x) (/ (- x (sin x)) (* (* (cbrt (- x (tan x))) (cbrt (- x (tan x)))) (cbrt (- x (tan x)))))) error: 0
+Alt (λ (x) (- (* 9/40 (pow x 2)) (+ (* 27/2800 (pow x 4)) 1/2))) error: 0.00390625
+Best alt (λ (x) (* (- x (sin x)) (/ 1 (- x (tan x))))) with error: 0
+Picked (λ (x) (- (* 9/40 (pow x 2)) (+ (* 27/2800 (pow x 4)) 1/2)))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+Iter 2
+Alt (λ (x) (- (/ x (- x (tan x))) (/ (sin x) (- x (tan x))))) error: 0.00390625
+Alt (λ (x) (* (- x (sin x)) (/ 1 (- x (tan x))))) error: 0
+Alt (λ (x) (/ (- x (sin x)) (* (* (cbrt (- x (tan x))) (cbrt (- x (tan x)))) (cbrt (- x (tan x)))))) error: 0
+Alt (λ (x) (- (* 9/40 (pow x 2)) (+ (* 27/2800 (pow x 4)) 1/2))) error: 0.00390625
+Best alt (λ (x) (* (- x (sin x)) (/ 1 (- x (tan x))))) with error: 0
+Picked (λ (x) (- (/ x (- x (tan x))) (/ (sin x) (- x (tan x)))))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+Iter 3
+Alt (λ (x) (- (/ x (- x (tan x))) (/ (sin x) (- x (tan x))))) error: 0.00390625
+Alt (λ (x) (* (- x (sin x)) (/ 1 (- x (tan x))))) error: 0
+Alt (λ (x) (/ (- x (sin x)) (* (* (cbrt (- x (tan x))) (cbrt (- x (tan x)))) (cbrt (- x (tan x)))))) error: 0
+Alt (λ (x) (- (* 9/40 (pow x 2)) (+ (* 27/2800 (pow x 4)) 1/2))) error: 0.00390625
+Best alt (λ (x) (* (- x (sin x)) (/ 1 (- x (tan x))))) with error: 0
+Picked (λ (x) (* (- x (sin x)) (/ 1 (- x (tan x)))))
+Picked alt had 1.0% improvement of the best alt with span 0.00390625
+
+File: 10-2logproblem336
+Iter 0
+Alt (λ (N) (- (log (+ N 1)) (log N))) error: 0.01171875
+Best alt (λ (N) (- (log (+ N 1)) (log N))) with error: 0.01171875
+Picked (λ (N) (- (log (+ N 1)) (log N)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (N) (- (/ 1 N) (/ 1/2 (* N N)))) error: 0.0078125
+Alt (λ (N) (/ (+ (/ 1/3 (* N N)) (- 1 (/ 1/2 N))) N)) error: 0.0078125
+Alt (λ (N) (/ (- (pow (log (+ N 1)) 3) (pow (log N) 3)) (+ (* (log (+ 1 N)) (log (+ 1 N))) (* (+ (log N) (log (+ 1 N))) (log N))))) error: 0.0078125
+Alt (λ (N) (log (/ (+ N 1) N))) error: 0.0078125
+Best alt (λ (N) (- (/ 1 N) (/ 1/2 (* N N)))) with error: 0.0078125
+Picked (λ (N) (log (/ (+ N 1) N)))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (N) (- (/ 1 N) (/ 1/2 (* N N)))) error: 0.00390625
+Alt (λ (N) (+ (log (* (cbrt (/ (+ N 1) N)) (cbrt (/ (+ N 1) N)))) (log (cbrt (/ (+ N 1) N))))) error: 0.00390625
+Alt (λ (N) (/ (+ (/ 1/3 (* N N)) (- 1 (/ 1/2 N))) N)) error: 0.00390625
+Alt (λ (N) (/ (- (pow (log (+ N 1)) 3) (pow (log N) 3)) (+ (* (log (+ 1 N)) (log (+ 1 N))) (* (+ (log N) (log (+ 1 N))) (log N))))) error: 0.00390625
+Alt (λ (N) (log (/ (+ N 1) N))) error: 0.0078125
+Best alt (λ (N) (- (/ 1 N) (/ 1/2 (* N N)))) with error: 0.00390625
+Picked (λ (N) (+ (log (* (cbrt (/ (+ N 1) N)) (cbrt (/ (+ N 1) N)))) (log (cbrt (/ (+ N 1) N)))))
+Picked alt had 1.0% improvement of the best alt with span 0.00390625
+
+Iter 3
+Alt (λ (N) (- (/ 1 N) (/ 1/2 (* N N)))) error: 0
+Alt (λ (N) (+ (exp (log (log (* (cbrt (/ (+ N 1) N)) (cbrt (/ (+ N 1) N)))))) (log (cbrt (/ (+ N 1) N))))) error: 0.00390625
+Alt (λ (N) (/ (+ (/ 1/3 (* N N)) (- 1 (/ 1/2 N))) N)) error: 0
+Alt (λ (N) (/ (- (pow (log (+ N 1)) 3) (pow (log N) 3)) (+ (* (log (+ 1 N)) (log (+ 1 N))) (* (+ (log N) (log (+ 1 N))) (log N))))) error: 0
+Alt (λ (N) (log (/ (+ N 1) N))) error: 0.00390625
+Best alt (λ (N) (- (/ 1 N) (/ 1/2 (* N N)))) with error: 0
+Picked (λ (N) (/ (- (pow (log (+ N 1)) 3) (pow (log N) 3)) (+ (* (log (+ 1 N)) (log (+ 1 N))) (* (+ (log N) (log (+ 1 N))) (log N)))))
+Picked alt had 1.0% improvement of the best alt with span 0.00390625
+
+File: 11-2fracproblem331
+Iter 0
+Alt (λ (x) (- (/ 1 (+ x 1)) (/ 1 x))) error: 0.2637250219886432
+Best alt (λ (x) (- (/ 1 (+ x 1)) (/ 1 x))) with error: 0.2637250219886432
+Picked (λ (x) (- (/ 1 (+ x 1)) (/ 1 x)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (- 1) (* (+ x 1) x))) error: 0.0078125
+Alt (λ (x) (- (/ 1 (+ x 1)) (/ 1 x))) error: 0.2637250219886432
+Best alt (λ (x) (/ (- 1) (* (+ x 1) x))) with error: 0.0078125
+Picked (λ (x) (/ (- 1) (* (+ x 1) x)))
+Picked alt had 1.0% improvement of the best alt with span 0.2559125219886432
+
+Iter 2
+Alt (λ (x) (/ (- 1) (* (sqrt (+ x 1)) (* (sqrt (+ x 1)) x)))) error: 0.0078125
+Alt (λ (x) (* (/ (- (/ 1 x)) (- (* x x) 1)) (- x 1))) error: 0
+Alt (λ (x) (/ (- 1) (* (+ x 1) x))) error: 0.0078125
+Alt (λ (x) (/ (/ (- 1) (+ x 1)) x)) error: 0
+Best alt (λ (x) (* (/ (- (/ 1 x)) (- (* x x) 1)) (- x 1))) with error: 0
+Picked (λ (x) (/ (/ (- 1) (+ x 1)) x))
+Picked alt had 1.0% improvement of the best alt with span 0.0078125
+
+Iter 3
+Alt (λ (x) (/ (/ (- 1) (+ (pow x 3) (pow 1 3))) (/ x (+ (* x x) (- 1 x))))) error: 0
+Alt (λ (x) (/ (sqrt (/ (- 1) (+ x 1))) (/ x (sqrt (/ (- 1) (+ x 1)))))) error: 0
+Alt (λ (x) (/ (- 1) (* (sqrt (+ x 1)) (* (sqrt (+ x 1)) x)))) error: 0
+Alt (λ (x) (* (/ (- (/ 1 x)) (- (* x x) 1)) (- x 1))) error: 0
+Alt (λ (x) (/ (- 1) (* (+ x 1) x))) error: 0
+Alt (λ (x) (/ (/ (- 1) (+ x 1)) x)) error: 0
+Best alt (λ (x) (/ (/ (- 1) (+ (pow x 3) (pow 1 3))) (/ x (+ (* x x) (- 1 x))))) with error: 0
+Picked (λ (x) (* (/ (- (/ 1 x)) (- (* x x) 1)) (- x 1)))
+Picked alt had 100% improvement of the best alt
+
+File: 12-2cosproblem335
+Iter 0
+Alt (λ (x eps) (- (cos (+ x eps)) (cos x))) error: 0.39449467042829717
+Best alt (λ (x eps) (- (cos (+ x eps)) (cos x))) with error: 0.39449467042829717
+Picked (λ (x eps) (- (cos (+ x eps)) (cos x)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x eps) (/ (- (* (cos (+ x eps)) (cos (+ x eps))) (* (cos x) (cos x))) (+ (cos (+ x eps)) (cos x)))) error: 0.38277592042829717
+Alt (λ (x eps) (cbrt (pow (- (cos (+ eps x)) (cos x)) 3))) error: 0.35476839859927034
+Alt (λ (x eps) (* -2 (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))) error: 0.33980717042829717
+Alt (λ (x eps) (/ (- (pow (cos (+ x eps)) 3) (pow (cos x) 3)) (+ (* (cos (+ eps x)) (cos (+ eps x))) (* (+ (cos x) (cos (+ eps x))) (cos x))))) error: 0.38277592042829717
+Alt (λ (x eps) (- (* (cos x) (cos eps)) (+ (* (sin x) (sin eps)) (cos x)))) error: 0.2434784495526278
+Alt (λ (x eps) (* (- (* (* 1/6 x) (* x x)) (+ x (* 1/2 eps))) eps)) error: 0.39449467042829717
+Alt (λ (x eps) (- (- (* (cos x) (cos eps)) (* (sin x) (sin eps))) (cos x))) error: 0.2416427294914109
+Best alt (λ (x eps) (- (- (* (cos x) (cos eps)) (* (sin x) (sin eps))) (cos x))) with error: 0.2416427294914109
+Picked (λ (x eps) (* -2 (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2)))))
+Picked alt had 0.35778086732036257% improvement of the best alt with span 0.15285194093688625
+
+Iter 2
+Alt (λ (x eps) (* -2 (* (sqrt (sin (/ eps 2))) (* (sqrt (sin (/ eps 2))) (sin (/ (+ x (+ eps x)) 2)))))) error: 0.33199467042829717
+Alt (λ (x eps) (/ (- (* (cos (+ x eps)) (cos (+ x eps))) (* (cos x) (cos x))) (+ (cos (+ x eps)) (cos x)))) error: 0.33980717042829717
+Alt (λ (x eps) (* -2 (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))) error: 0.33980717042829717
+Alt (λ (x eps) (* -2 (exp (log (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))))) error: 0.33980717042829717
+Alt (λ (x eps) (* -2 (cbrt (pow (* (sin (/ (+ (+ x eps) x) 2)) (sin (/ eps 2))) 3)))) error: 0.33590092042829717
+Alt (λ (x eps) (* -2 (* (* (cbrt (sin (/ eps 2))) (cbrt (sin (/ eps 2)))) (* (cbrt (sin (/ eps 2))) (sin (/ (+ x (+ eps x)) 2)))))) error: 0.3397720623146761
+Alt (λ (x eps) (* -2 (* (sin (/ eps 2)) (cbrt (pow (sin (/ (+ x (+ eps x)) 2)) 3))))) error: 0.33590092042829717
+Alt (λ (x eps) (* -2 (* (* (cbrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2)))) (cbrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))) (cbrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))))) error: 0.3398071272195113
+Alt (λ (x eps) (* -2 (* (* (sin (/ eps 2)) (* (cbrt (sin (/ (+ x (+ eps x)) 2))) (cbrt (sin (/ (+ x (+ eps x)) 2))))) (cbrt (sin (/ (+ x (+ eps x)) 2)))))) error: 0.3359008340103941
+Alt (λ (x eps) (- (* (cos x) (cos eps)) (+ (* (sin x) (sin eps)) (cos x)))) error: 0.1887909495526278
+Alt (λ (x eps) (* -2 (* (sqrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2)))) (sqrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))))) error: 0.33980717042829717
+Alt (λ (x eps) (* (- (* (* 1/6 x) (* x x)) (+ x (* 1/2 eps))) eps)) error: 0.33980717042829717
+Alt (λ (x eps) (- (- (* (cos x) (cos eps)) (* (sin x) (sin eps))) (cos x))) error: 0.1947677294914109
+Best alt (λ (x eps) (- (* (cos x) (cos eps)) (+ (* (sin x) (sin eps)) (cos x)))) with error: 0.1887909495526278
+Picked (λ (x eps) (* -2 (* (* (sin (/ eps 2)) (* (cbrt (sin (/ (+ x (+ eps x)) 2))) (cbrt (sin (/ (+ x (+ eps x)) 2))))) (cbrt (sin (/ (+ x (+ eps x)) 2))))))
+Picked alt had 0.025866998890927854% improvement of the best alt with span 0.15101622087566938
+
+Iter 3
+Alt (λ (x eps) (* -2 (* (sqrt (sin (/ eps 2))) (* (sqrt (sin (/ eps 2))) (sin (/ (+ x (+ eps x)) 2)))))) error: 0.3319945840103941
+Alt (λ (x eps) (/ (- (* (cos (+ x eps)) (cos (+ x eps))) (* (cos x) (cos x))) (+ (cos (+ x eps)) (cos x)))) error: 0.3359008340103941
+Alt (λ (x eps) (* -2 (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))) error: 0.3359008340103941
+Alt (λ (x eps) (* -2 (exp (log (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))))) error: 0.3359008340103941
+Alt (λ (x eps) (* -2 (* (* (sin (/ eps 2)) (* (cbrt (sin (/ (+ x (+ eps x)) 2))) (cbrt (sin (/ (+ x (+ eps x)) 2))))) (* (* (cbrt (cbrt (sin (/ (+ x (+ eps x)) 2)))) (cbrt (cbrt (sin (/ (+ x (+ eps x)) 2))))) (cbrt (cbrt (sin (/ (+ x (+ eps x)) 2)))))))) error: 0.3359008340103941
+Alt (λ (x eps) (* -2 (cbrt (pow (* (sin (/ (+ (+ x eps) x) 2)) (sin (/ eps 2))) 3)))) error: 0.3319945840103941
+Alt (λ (x eps) (* -2 (* (* (cbrt (sin (/ eps 2))) (cbrt (sin (/ eps 2)))) (* (cbrt (sin (/ eps 2))) (sin (/ (+ x (+ eps x)) 2)))))) error: 0.3358658123146761
+Alt (λ (x eps) (* -2 (* (* (cbrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2)))) (cbrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))) (cbrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))))) error: 0.3359008340103941
+Alt (λ (x eps) (- (* (cos x) (cos eps)) (+ (* (sin x) (sin eps)) (cos x)))) error: 0.18488461313472473
+Alt (λ (x eps) (* -2 (* (sqrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2)))) (sqrt (* (sin (/ eps 2)) (sin (/ (+ x (+ eps x)) 2))))))) error: 0.3359008340103941
+Alt (λ (x eps) (* (- (* (* 1/6 x) (* x x)) (+ x (* 1/2 eps))) eps)) error: 0.3359008340103941
+Alt (λ (x eps) (- (- (* (cos x) (cos eps)) (* (sin x) (sin eps))) (cos x))) error: 0.19086139307350783
+Alt (λ (x eps) (* -2 (* (* (sin (/ eps 2)) (* (cbrt (sin (/ (+ x (+ eps x)) 2))) (cbrt (* (* (cbrt (sin (/ (+ x (+ eps x)) 2))) (cbrt (sin (/ (+ x (+ eps x)) 2)))) (cbrt (sin (/ (+ x (+ eps x)) 2))))))) (cbrt (sin (/ (+ x (+ eps x)) 2)))))) error: 0.3359008340103941
+Best alt (λ (x eps) (- (* (cos x) (cos eps)) (+ (* (sin x) (sin eps)) (cos x)))) with error: 0.18488461313472473
+Picked (λ (x eps) (* -2 (* (* (sin (/ eps 2)) (* (cbrt (sin (/ (+ x (+ eps x)) 2))) (cbrt (* (* (cbrt (sin (/ (+ x (+ eps x)) 2))) (cbrt (sin (/ (+ x (+ eps x)) 2)))) (cbrt (sin (/ (+ x (+ eps x)) 2))))))) (cbrt (sin (/ (+ x (+ eps x)) 2))))))
+Picked alt had 0.0% improvement of the best alt with span 0.15101622087566938
+
+File: 14-tanhfexample34
+Iter 0
+Alt (λ (x) (tan (/ x 2))) error: 0
+Best alt (λ (x) (tan (/ x 2))) with error: 0
+Picked (λ (x) (tan (/ x 2)))
+Picked alt had 100% improvement of the best alt
+
+File: 15-quadpp42positive
+Iter 0
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) error: 4.3184029000500574
+Best alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) with error: 4.3184029000500574
+Picked (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b c) (/ (exp (log (- (sqrt (- (* b b) (* (* 4 a) c))) b))) (* 2 a))) error: 4.318300938004949
+Alt (λ (a b c) (* (+ (- b) (sqrt (- (* b b) (* 4 (* a c))))) (/ 1 (* 2 a)))) error: 4.306683979650859
+Alt (λ (a b c) (/ (- b) a)) error: 4.3184029000500574
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) error: 4.3184029000500574
+Alt (λ (a b c) (/ (+ (- b) (* (fabs (cbrt (- (* b b) (* 4 (* a c))))) (sqrt (cbrt (- (* b b) (* 4 (* a c))))))) (* 2 a))) error: 4.3105750434499255
+Alt (λ (a b c) (- (/ (/ c b) 1) (/ (+ b b) (* a 2)))) error: 4.3184029000500574
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* a (* c 4)))) b)))) error: 4.3105904000500574
+Alt (λ (a b c) (* (- 1) (/ c b))) error: 4.3184029000500574
+Best alt (λ (a b c) (/ (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (* 2 a))) with error: 4.2988716500500574
+Picked (λ (a b c) (/ (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (* 2 a)))
+Picked alt had 1.0% improvement of the best alt with span 0.01953125
+
+Iter 2
+Alt (λ (a b c) (* (/ (/ (* c a) (* (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) 2) (/ (/ 4 (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c))))))) a))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (* (sqrt (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c))))))) (sqrt (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (* (sqrt (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))) (sqrt (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (exp (log (- (sqrt (- (* b b) (* (* 4 a) c))) b))) (* 2 a))) error: 4.298769688004949
+Alt (λ (a b c) (/ (- b) a)) error: 4.2988716500500574
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (- b) (cbrt (* (sqrt (- (* b b) (* a (* c 4)))) (- (* b b) (* a (* c 4))))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (log (exp (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))))) error: 4.294962689151619
+Alt (λ (a b c) (- (/ (/ c b) 1) (/ (+ b b) (* a 2)))) error: 4.2988716500500574
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* a (* c 4)))) b)))) error: 4.2988716500500574
+Alt (λ (a b c) (* (- 1) (/ c b))) error: 4.2988716500500574
+Best alt (λ (a b c) (log (exp (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))))) with error: 4.294962689151619
+Picked (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* a (* c 4)))) b))))
+Picked alt had 0.0% improvement of the best alt with span 0.003908960898438174
+
+Iter 3
+Alt (λ (a b c) (* (/ (/ (* c a) (* (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) 2) (/ (/ 4 (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c))))))) a))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (* (sqrt (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c))))))) (sqrt (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (* (sqrt (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))) (sqrt (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (exp (log (- (sqrt (- (* b b) (* (* 4 a) c))) b))) (* 2 a))) error: 4.298769688004949
+Alt (λ (a b c) (/ (- b) a)) error: 4.2988716500500574
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (+ (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (- b) (cbrt (* (sqrt (- (* b b) (* a (* c 4)))) (- (* b b) (* a (* c 4))))))) (* 2 a))) error: 4.2988716500500574
+Alt (λ (a b c) (log (exp (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))))) error: 4.294962689151619
+Alt (λ (a b c) (- (/ (/ c b) 1) (/ (+ b b) (* a 2)))) error: 4.2988716500500574
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (sqrt (- (* b b) (* a (* c 4)))) b)))) error: 4.2988716500500574
+Alt (λ (a b c) (* (- 1) (/ c b))) error: 4.2988716500500574
+Best alt (λ (a b c) (log (exp (/ (* (* 4 c) (/ 1 2)) (- (- b) (sqrt (- (* b b) (* (* c a) 4)))))))) with error: 4.294962689151619
+Picked (λ (a b c) (* (/ (/ (* c a) (* (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))) (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) 2) (/ (/ 4 (cbrt (- (- b) (sqrt (- (* b b) (* 4 (* a c))))))) a)))
+Picked alt had 0.0% improvement of the best alt with span 0.003908960898438174
+
+File: 16-quadmp42negative
+Iter 0
+Alt (λ (a b c) (/ (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) error: 4.339628828311373
+Best alt (λ (a b c) (/ (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) with error: 4.339628828311373
+Picked (λ (a b c) (/ (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) error: 4.327910078311373
+Alt (λ (a b c) (/ (- b) a)) error: 4.339628828311373
+Alt (λ (a b c) (/ (- (- b) (* (fabs (cbrt (- (* b b) (* 4 (* a c))))) (sqrt (cbrt (- (* b b) (* 4 (* a c))))))) (* 2 a))) error: 4.331816328311373
+Alt (λ (a b c) (/ (- c) (/ b 1))) error: 4.339628828311373
+Alt (λ (a b c) (exp (log (/ (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))))) error: 4.339628828311373
+Alt (λ (a b c) (* (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (/ 1 (* 2 a)))) error: 4.327910078311373
+Alt (λ (a b c) (- (* (/ c b) 1) (/ b a))) error: 4.339628828311326
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (* 2 a))) error: 4.324003828311373
+Alt (λ (a b c) (/ (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))) error: 4.339628828311373
+Best alt (λ (a b c) (/ (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (* 2 a))) with error: 4.324003828311373
+Picked (λ (a b c) (/ (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (* 2 a)))
+Picked alt had 1.0% improvement of the best alt with span 0.015625
+
+Iter 2
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) error: 4.324003828311373
+Alt (λ (a b c) (/ (- b) a)) error: 4.324003828311373
+Alt (λ (a b c) (/ (- (- b) (* (fabs (cbrt (- (* b b) (* 4 (* a c))))) (sqrt (cbrt (- (* b b) (* 4 (* a c))))))) (* 2 a))) error: 4.324003828311373
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (* (fabs (cbrt (- (* b b) (* a (* 4 c))))) (sqrt (cbrt (- (* b b) (* a (* 4 c)))))) b)) (* 2 a))) error: 4.324003828311373
+Alt (λ (a b c) (/ (- c) (/ b 1))) error: 4.324003828311373
+Alt (λ (a b c) (exp (log (/ (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))))) error: 4.324003828311373
+Alt (λ (a b c) (- (* (/ c b) 1) (/ b a))) error: 4.324003828311326
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (* 2 a))) error: 4.324003828311373
+Alt (λ (a b c) (* (sqrt (/ (/ (* 4 c) (/ 2 1)) (- (sqrt (- (* b b) (* (* c a) 4))) b))) (sqrt (/ (/ (* 4 c) (/ 2 1)) (- (sqrt (- (* b b) (* (* c a) 4))) b))))) error: 4.324003828311373
+Alt (λ (a b c) (* (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (/ 1 (* 2 a)))) error: 4.294945846762639
+Best alt (λ (a b c) (* (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (/ 1 (* 2 a)))) with error: 4.294945846762639
+Picked (λ (a b c) (* (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (/ 1 (* 2 a))))
+Picked alt had 1.0% improvement of the best alt with span 0.029057981548733736
+
+Iter 3
+Alt (λ (a b c) (/ 1 (/ (* 2 a) (- (- b) (sqrt (- (* b b) (* 4 (* a c)))))))) error: 4.294945846762639
+Alt (λ (a b c) (/ (- b) a)) error: 4.294945846762639
+Alt (λ (a b c) (/ (- (- b) (* (fabs (cbrt (- (* b b) (* 4 (* a c))))) (sqrt (cbrt (- (* b b) (* 4 (* a c))))))) (* 2 a))) error: 4.294945846762639
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (* (fabs (cbrt (- (* b b) (* a (* 4 c))))) (sqrt (cbrt (- (* b b) (* a (* 4 c)))))) b)) (* 2 a))) error: 4.294945846762639
+Alt (λ (a b c) (/ (- c) (/ b 1))) error: 4.294945846762639
+Alt (λ (a b c) (exp (log (/ (- (- b) (sqrt (- (* b b) (* 4 (* a c))))) (* 2 a))))) error: 4.294945846762639
+Alt (λ (a b c) (- (* (/ c b) 1) (/ b a))) error: 4.294945846762592
+Alt (λ (a b c) (/ (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (* 2 a))) error: 4.294945846762639
+Alt (λ (a b c) (* (sqrt (/ (/ (* 4 c) (/ 2 1)) (- (sqrt (- (* b b) (* (* c a) 4))) b))) (sqrt (/ (/ (* 4 c) (/ 2 1)) (- (sqrt (- (* b b) (* (* c a) 4))) b))))) error: 4.294945846762639
+Alt (λ (a b c) (* (/ (* (* c a) 4) (- (sqrt (- (* b b) (* a (* 4 c)))) b)) (/ 1 (* 2 a)))) error: 4.294945846762639
+Alt (λ (a b c) (/ (/ (/ a (* 2 a)) (/ (/ 2 4) c)) (- (* a (/ c b)) b))) error: 3.487960529809044
+Best alt (λ (a b c) (/ (/ (/ a (* 2 a)) (/ (/ 2 4) c)) (- (* a (/ c b)) b))) with error: 3.487960529809044
+Picked (λ (a b c) (/ (/ (* (* c a) 4) (- (* (fabs (cbrt (- (* b b) (* a (* 4 c))))) (sqrt (cbrt (- (* b b) (* a (* 4 c)))))) b)) (* 2 a)))
+Picked alt had 0.0% improvement of the best alt with span 0.806985316953595
+
+File: 17-qlogexample310
+Iter 0
+Alt (λ (x) (/ (log (- 1 x)) (log (+ 1 x)))) error: 0.00390625
+Best alt (λ (x) (/ (log (- 1 x)) (log (+ 1 x)))) with error: 0.00390625
+Picked (λ (x) (/ (log (- 1 x)) (log (+ 1 x))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (* (* (cbrt (log (- 1 x))) (cbrt (log (- 1 x)))) (cbrt (log (- 1 x)))) (log (+ 1 x)))) error: 0.00390625
+Alt (λ (x) (/ (log (- 1 x)) (log (+ 1 x)))) error: 0.00390625
+Alt (λ (x) (/ (- (log (- 1 (* x x))) (log (+ 1 x))) (log (+ 1 x)))) error: 0
+Alt (λ (x) (- (+ (* 1/2 (pow x 2)) (+ 1 x)))) error: 0.00390625
+Best alt (λ (x) (/ (- (log (- 1 (* x x))) (log (+ 1 x))) (log (+ 1 x)))) with error: 0
+Picked (λ (x) (- (+ (* 1/2 (pow x 2)) (+ 1 x))))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+Iter 2
+Alt (λ (x) (/ (* (* (cbrt (log (- 1 x))) (cbrt (log (- 1 x)))) (cbrt (log (- 1 x)))) (log (+ 1 x)))) error: 0.00390625
+Alt (λ (x) (/ (log (- 1 x)) (log (+ 1 x)))) error: 0.00390625
+Alt (λ (x) (/ (- (log (- 1 (* x x))) (log (+ 1 x))) (log (+ 1 x)))) error: 0
+Alt (λ (x) (- (+ (* 1/2 (pow x 2)) (+ 1 x)))) error: 0.00390625
+Best alt (λ (x) (/ (- (log (- 1 (* x x))) (log (+ 1 x))) (log (+ 1 x)))) with error: 0
+Picked (λ (x) (/ (* (* (cbrt (log (- 1 x))) (cbrt (log (- 1 x)))) (cbrt (log (- 1 x)))) (log (+ 1 x))))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+Iter 3
+Alt (λ (x) (/ (* (* (cbrt (log (- 1 x))) (cbrt (log (- 1 x)))) (cbrt (log (- 1 x)))) (log (+ 1 x)))) error: 0.00390625
+Alt (λ (x) (/ (log (- 1 x)) (log (+ 1 x)))) error: 0.00390625
+Alt (λ (x) (/ (- (log (- 1 (* x x))) (log (+ 1 x))) (log (+ 1 x)))) error: 0
+Alt (λ (x) (- (+ (* 1/2 (pow x 2)) (+ 1 x)))) error: 0.00390625
+Best alt (λ (x) (/ (- (log (- 1 (* x x))) (log (+ 1 x))) (log (+ 1 x)))) with error: 0
+Picked (λ (x) (/ (- (log (- 1 (* x x))) (log (+ 1 x))) (log (+ 1 x))))
+Picked alt had 1.0% improvement of the best alt with span 0.00390625
+
+File: 18-logsexample38
+Iter 0
+Alt (λ (n) (- (- (* (+ n 1) (log (+ n 1))) (* n (log n))) 1)) error: 0
+Best alt (λ (n) (- (- (* (+ n 1) (log (+ n 1))) (* n (log n))) 1)) with error: 0
+Picked (λ (n) (- (- (* (+ n 1) (log (+ n 1))) (* n (log n))) 1))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (n) (+ (- (log n) (/ (/ 1/6 n) n)) (+ (/ 1/2 n) 0))) error: 0
+Best alt (λ (n) (+ (- (log n) (/ (/ 1/6 n) n)) (+ (/ 1/2 n) 0))) with error: 0
+Picked (λ (n) (+ (- (log n) (/ (/ 1/6 n) n)) (+ (/ 1/2 n) 0)))
+Picked alt had 100% improvement of the best alt
+
+File: 19-logqproblem343
+Iter 0
+Alt (λ (eps) (log (/ (- 1 eps) (+ 1 eps)))) error: 0.014454842648988641
+Best alt (λ (eps) (log (/ (- 1 eps) (+ 1 eps)))) with error: 0.014454842648988641
+Picked (λ (eps) (log (/ (- 1 eps) (+ 1 eps))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (eps) (+ (log (- 1 eps)) (- (log (+ eps 1))))) error: 0.009070031620653759
+Alt (λ (eps) (- (+ (* 2/5 (pow eps 5)) (+ (* 2 eps) (* 2/3 (pow eps 3)))))) error: 0.014454842648988641
+Best alt (λ (eps) (+ (log (- 1 eps)) (- (log (+ eps 1))))) with error: 0.009070031620653759
+Picked (λ (eps) (- (+ (* 2/5 (pow eps 5)) (+ (* 2 eps) (* 2/3 (pow eps 3))))))
+Picked alt had 0.0% improvement of the best alt with span 0.005384811028334883
+
+Iter 2
+Alt (λ (eps) (+ (log (- 1 eps)) (- (log (+ eps 1))))) error: 0.009070031620653759
+Alt (λ (eps) (- (+ (* 2/5 (pow eps 5)) (+ (* 2 eps) (* 2/3 (pow eps 3)))))) error: 0.014454842648988641
+Best alt (λ (eps) (+ (log (- 1 eps)) (- (log (+ eps 1))))) with error: 0.009070031620653759
+Picked (λ (eps) (+ (log (- 1 eps)) (- (log (+ eps 1)))))
+Picked alt had 1.0% improvement of the best alt with span 0.005384811028334883
+
+Iter 3
+Alt (λ (eps) (- (+ (* 2/5 (pow eps 5)) (+ (* 2 eps) (* 2/3 (pow eps 3)))))) error: 0.009070031620653759
+Alt (λ (eps) (+ (log (- 1 eps)) (- (+ (log (sqrt (+ eps 1))) (log (sqrt (+ eps 1))))))) error: 0.009070031620653759
+Best alt (λ (eps) (- (+ (* 2/5 (pow eps 5)) (+ (* 2 eps) (* 2/3 (pow eps 3)))))) with error: 0.009070031620653759
+Picked (λ (eps) (+ (log (- 1 eps)) (- (+ (log (sqrt (+ eps 1))) (log (sqrt (+ eps 1)))))))
+Picked alt had 100% improvement of the best alt
+
+File: 2-quad2pproblem321positive
+Iter 0
+Alt (λ (a b_2 c) (/ (+ (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)) error: 4.302114028118376
+Best alt (λ (a b_2 c) (/ (+ (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)) with error: 4.302114028118376
+Picked (λ (a b_2 c) (/ (+ (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b_2 c) (/ (+ (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)) error: 4.302114028118376
+Alt (λ (a b_2 c) (/ c (/ b_2 -1/2))) error: 4.302114028118376
+Alt (λ (a b_2 c) (- (* (/ c b_2) 1/2) (+ (/ b_2 a) (/ b_2 a)))) error: 4.302114028118376
+Alt (λ (a b_2 c) (/ (exp (log (- (sqrt (- (* b_2 b_2) (* a c))) b_2))) a)) error: 4.301858817761053
+Alt (λ (a b_2 c) (/ (+ (- b_2) (* (fabs (cbrt (- (* b_2 b_2) (* a c)))) (sqrt (cbrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.302096116148343
+Alt (λ (a b_2 c) (/ (/ (* c a) (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))) a)) error: 4.294298615095026
+Alt (λ (a b_2 c) (/ 1 (/ a (- (sqrt (- (* b_2 b_2) (* a c))) b_2)))) error: 4.294301528118376
+Alt (λ (a b_2 c) (* -2 (/ b_2 a))) error: 4.302114028118376
+Best alt (λ (a b_2 c) (/ (/ (* c a) (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))) a)) with error: 4.294298615095026
+Picked (λ (a b_2 c) (/ (/ (* c a) (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))) a))
+Picked alt had 1.0% improvement of the best alt with span 0.007815413023349649
+
+Iter 2
+Alt (λ (a b_2 c) (/ (+ (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)) error: 4.294298615095026
+Alt (λ (a b_2 c) (/ c (+ (+ (- b_2) (- b_2)) (/ (* 1/2 c) (/ b_2 a))))) error: 4.294298615095026
+Alt (λ (a b_2 c) (log (exp (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))))) error: 4.294298615095026
+Alt (λ (a b_2 c) (* (* (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a)))))))) error: 4.258214380518649
+Alt (λ (a b_2 c) (/ (* c (/ a (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.294266160160951
+Alt (λ (a b_2 c) (/ c (/ b_2 -1/2))) error: 4.294298615095026
+Alt (λ (a b_2 c) (- (* (/ c b_2) 1/2) (+ (/ b_2 a) (/ b_2 a)))) error: 4.294298615095026
+Alt (λ (a b_2 c) (/ (+ (- b_2) (* (fabs (cbrt (- (* b_2 b_2) (* a c)))) (sqrt (cbrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.294280873446943
+Alt (λ (a b_2 c) (/ (/ (* c a) (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))) a)) error: 4.294298615095026
+Alt (λ (a b_2 c) (/ 1 (/ a (- (sqrt (- (* b_2 b_2) (* a c))) b_2)))) error: 4.294298615095026
+Alt (λ (a b_2 c) (* -2 (/ b_2 a))) error: 4.294298615095026
+Best alt (λ (a b_2 c) (* (* (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a)))))))) with error: 4.258214380518649
+Picked (λ (a b_2 c) (* (* (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a))))))))
+Picked alt had 1.0% improvement of the best alt with span 0.03608423457637677
+
+Iter 3
+Alt (λ (a b_2 c) (/ (+ (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)) error: 4.258214380518649
+Alt (λ (a b_2 c) (log (exp (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))))) error: 4.258214380518649
+Alt (λ (a b_2 c) (/ (* c (/ a (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.2581822662439155
+Alt (λ (a b_2 c) (/ c (/ b_2 -1/2))) error: 4.258214380518649
+Alt (λ (a b_2 c) (- (* (/ c b_2) 1/2) (+ (/ b_2 a) (/ b_2 a)))) error: 4.258214380518649
+Alt (λ (a b_2 c) (* (* (cbrt (/ (/ c (- 1/2)) (* (/ c b_2) a))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a))))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a)))))))) error: 4.256634802399242
+Alt (λ (a b_2 c) (* (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a)))))) (* (cbrt (/ c (- (* (* c 1/2) (/ a b_2)) (+ b_2 b_2)))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a))))))))) error: 4.256634802399242
+Alt (λ (a b_2 c) (* (* (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) (cbrt (/ c (- (- b_2) (exp (log (sqrt (- (* b_2 b_2) (* c a)))))))))) error: 4.258214210181255
+Alt (λ (a b_2 c) (/ (+ (- b_2) (* (fabs (cbrt (- (* b_2 b_2) (* a c)))) (sqrt (cbrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.258196979529909
+Alt (λ (a b_2 c) (/ (/ (* c a) (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))) a)) error: 4.258214380518649
+Alt (λ (a b_2 c) (/ 1 (/ a (- (sqrt (- (* b_2 b_2) (* a c))) b_2)))) error: 4.258214380518649
+Alt (λ (a b_2 c) (* -2 (/ b_2 a))) error: 4.258214380518649
+Best alt (λ (a b_2 c) (* (* (cbrt (/ (/ c (- 1/2)) (* (/ c b_2) a))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a))))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* c a)))))))) with error: 4.256634802399242
+Picked (λ (a b_2 c) (* (* (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))) (cbrt (/ c (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) (cbrt (/ c (- (- b_2) (exp (log (sqrt (- (* b_2 b_2) (* c a))))))))))
+Picked alt had 0.00010783727115161805% improvement of the best alt with span 0.0015795781194070102
+
+File: 20-invcotexample39
+Iter 0
+Alt (λ (x) (- (/ 1 x) (/ 1 (tan x)))) error: 0.32259750976844204
+Best alt (λ (x) (- (/ 1 x) (/ 1 (tan x)))) with error: 0.32259750976844204
+Picked (λ (x) (- (/ 1 x) (/ 1 (tan x))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) error: 0.21875
+Best alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) with error: 0.21875
+Picked (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x))))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) error: 0.21875
+Alt (λ (x) (/ (- (* (* 1/45 (pow x 3)) (* 1/45 (pow x 3))) (* (+ (* 2/945 (pow x 5)) (* 1/3 x)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) (- (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x))))) error: 0.0859375
+Alt (λ (x) (/ (+ (pow (* 1/45 (pow x 3)) 3) (pow (+ (* 2/945 (pow x 5)) (* 1/3 x)) 3)) (+ (* (+ (* (pow x 5) 2/945) (- (* 1/3 x) (* (* 1/45 x) (* x x)))) (+ (* 1/3 x) (* (pow x 5) 2/945))) (* (* (* 1/45 x) (* x x)) (* (* 1/45 x) (* x x)))))) error: 0.1640625
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (sqrt (* 1/3 x)) (sqrt (* 1/3 x)))))) error: 0.1953125
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))) (cbrt (* 1/3 x)))))) error: 0.15625
+Best alt (λ (x) (/ (- (* (* 1/45 (pow x 3)) (* 1/45 (pow x 3))) (* (+ (* 2/945 (pow x 5)) (* 1/3 x)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) (- (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x))))) with error: 0.0859375
+Picked (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))) (cbrt (* 1/3 x))))))
+Picked alt had 0.47058823529411764% improvement of the best alt with span 0.1328125
+
+Iter 3
+Alt (λ (x) (+ (+ (* (* 1/45 x) (* x x)) (* 2/945 (pow x 5))) (* (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))) (cbrt (/ -1/3 (/ -1 x)))))) error: 0.14453125
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (cbrt (* (* 1/3 x) (* 1/3 x))) (cbrt (* 1/3 x)))))) error: 0.1328125
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) error: 0.15625
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (* (* (cbrt (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x)))) (cbrt (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))))) (cbrt (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))))) (cbrt (* 1/3 x)))))) error: 0.1484375
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (* (* (cbrt (cbrt (* 1/3 x))) (cbrt (cbrt (* 1/3 x)))) (* (cbrt (cbrt (* 1/3 x))) (cbrt (* 1/3 x)))) (cbrt (* 1/3 x)))))) error: 0.140625
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))) (log (exp (cbrt (* 1/3 x)))))))) error: 0.15625
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (* (cbrt 1/3) (* (cbrt x) (cbrt (* 1/3 x)))) (cbrt (* 1/3 x)))))) error: 0.10546875
+Alt (λ (x) (/ (- (* (* 1/45 (pow x 3)) (* 1/45 (pow x 3))) (* (+ (* 2/945 (pow x 5)) (* 1/3 x)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) (- (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x))))) error: 0.0625
+Alt (λ (x) (/ (+ (pow (* 1/45 (pow x 3)) 3) (pow (+ (* 2/945 (pow x 5)) (* 1/3 x)) 3)) (+ (* (+ (* (pow x 5) 2/945) (- (* 1/3 x) (* (* 1/45 x) (* x x)))) (+ (* 1/3 x) (* (pow x 5) 2/945))) (* (* (* 1/45 x) (* x x)) (* (* 1/45 x) (* x x)))))) error: 0.12890625
+Alt (λ (x) (+ (pow (cbrt (* 1/3 x)) 3) (+ (* (* x x) (* 1/45 x)) (* 2/945 (pow x 5))))) error: 0.0859375
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (exp (log (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))))) (cbrt (* 1/3 x)))))) error: 0.14453125
+Alt (λ (x) (+ (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* (sqrt (* 1/3 x)) (sqrt (* 1/3 x)))))) error: 0.15234375
+Best alt (λ (x) (/ (- (* (* 1/45 (pow x 3)) (* 1/45 (pow x 3))) (* (+ (* 2/945 (pow x 5)) (* 1/3 x)) (+ (* 2/945 (pow x 5)) (* 1/3 x)))) (- (* 1/45 (pow x 3)) (+ (* 2/945 (pow x 5)) (* 1/3 x))))) with error: 0.0625
+Picked (λ (x) (+ (+ (* (* 1/45 x) (* x x)) (* 2/945 (pow x 5))) (* (* (cbrt (* 1/3 x)) (cbrt (* 1/3 x))) (cbrt (/ -1/3 (/ -1 x))))))
+Picked alt had 0.125% improvement of the best alt with span 0.09375
+
+File: 21-expq3problem342
+Iter 0
+Alt (λ (a b eps) (/ (* eps (- (exp (* (+ a b) eps)) 1)) (* (- (exp (* a eps)) 1) (- (exp (* b eps)) 1)))) error: 0.1284234402197122
+Best alt (λ (a b eps) (/ (* eps (- (exp (* (+ a b) eps)) 1)) (* (- (exp (* a eps)) 1) (- (exp (* b eps)) 1)))) with error: 0.1284234402197122
+Picked (λ (a b eps) (/ (* eps (- (exp (* (+ a b) eps)) 1)) (* (- (exp (* a eps)) 1) (- (exp (* b eps)) 1))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b eps) (* (/ eps (- (exp (* a eps)) 1)) (/ (- (exp (* (+ a b) eps)) 1) (- (exp (* b eps)) 1)))) error: 0.1284234402197122
+Alt (λ (a b eps) (+ (/ 1 b) (/ 1 a))) error: 0.10889219021971219
+Alt (λ (a b eps) (/ (* eps (- (exp (* (+ a b) eps)) 1)) (* (+ (* 1/6 (* (pow eps 3) (pow a 3))) (+ (* 1/2 (* (pow eps 2) (pow a 2))) (* eps a))) (- (exp (* b eps)) 1)))) error: 0.1284234402197122
+Best alt (λ (a b eps) (+ (/ 1 b) (/ 1 a))) with error: 0.10889219021971219
+Picked (λ (a b eps) (+ (/ 1 b) (/ 1 a)))
+Picked alt had 1.0% improvement of the best alt with span 0.01953125
+
+Iter 2
+Alt (λ (a b eps) (/ (- (/ (/ 1 b) b) (/ 1 (* a a))) (- (/ 1 b) (/ 1 a)))) error: 0.10888112829706924
+Alt (λ (a b eps) (* (/ eps (- (exp (* a eps)) 1)) (/ (- (exp (* (+ a b) eps)) 1) (- (exp (* b eps)) 1)))) error: 0.10889219021971219
+Alt (λ (a b eps) (+ (/ 1 b) (/ 1 a))) error: 0.10889219021971219
+Alt (λ (a b eps) (/ (+ a b) (* b a))) error: 0.10889219017396845
+Alt (λ (a b eps) (* (* (cbrt (+ (/ 1 b) (/ 1 a))) (cbrt (+ (/ 1 b) (/ 1 a)))) (cbrt (+ (/ 1 b) (/ 1 a))))) error: 0.10889218802401165
+Alt (λ (a b eps) (/ (* eps (- (exp (* (+ a b) eps)) 1)) (* (+ (* 1/6 (* (pow eps 3) (pow a 3))) (+ (* 1/2 (* (pow eps 2) (pow a 2))) (* eps a))) (- (exp (* b eps)) 1)))) error: 0.10889219021971219
+Best alt (λ (a b eps) (/ (- (/ (/ 1 b) b) (/ 1 (* a a))) (- (/ 1 b) (/ 1 a)))) with error: 0.10888112829706924
+Picked (λ (a b eps) (* (* (cbrt (+ (/ 1 b) (/ 1 a))) (cbrt (+ (/ 1 b) (/ 1 a)))) (cbrt (+ (/ 1 b) (/ 1 a)))))
+Picked alt had 0.00019849176394783752% improvement of the best alt with span 1.1061922642954802e-05
+
+Iter 3
+Alt (λ (a b eps) (/ (- (/ (/ 1 b) b) (/ 1 (* a a))) (- (/ 1 b) (/ 1 a)))) error: 0.10888112829706924
+Alt (λ (a b eps) (* (/ eps (- (exp (* a eps)) 1)) (/ (- (exp (* (+ a b) eps)) 1) (- (exp (* b eps)) 1)))) error: 0.10889218802401165
+Alt (λ (a b eps) (+ (/ 1 b) (/ 1 a))) error: 0.10889218802401165
+Alt (λ (a b eps) (* (pow (* (+ (/ 1 b) (/ 1 a)) (+ (/ 1 b) (/ 1 a))) 1/3) (cbrt (+ (/ 1 b) (/ 1 a))))) error: 0.10889218786390845
+Alt (λ (a b eps) (/ (+ a b) (* b a))) error: 0.10889218802401165
+Alt (λ (a b eps) (/ (* eps (- (exp (* (+ a b) eps)) 1)) (* (+ (* 1/6 (* (pow eps 3) (pow a 3))) (+ (* 1/2 (* (pow eps 2) (pow a 2))) (* eps a))) (- (exp (* b eps)) 1)))) error: 0.10889218802401165
+Alt (λ (a b eps) (* (* (cbrt (+ (/ 1 b) (/ 1 a))) (cbrt (+ (/ 1 b) (/ 1 a)))) (* (cbrt (* (cbrt (+ (/ 1 b) (/ 1 a))) (cbrt (+ (/ 1 b) (/ 1 a))))) (cbrt (cbrt (+ (/ 1 b) (/ 1 a))))))) error: 0.10889218802401165
+Best alt (λ (a b eps) (/ (- (/ (/ 1 b) b) (/ 1 (* a a))) (- (/ 1 b) (/ 1 a)))) with error: 0.10888112829706924
+Picked (λ (a b eps) (* (* (cbrt (+ (/ 1 b) (/ 1 a))) (cbrt (+ (/ 1 b) (/ 1 a)))) (* (cbrt (* (cbrt (+ (/ 1 b) (/ 1 a))) (cbrt (+ (/ 1 b) (/ 1 a))))) (cbrt (cbrt (+ (/ 1 b) (/ 1 a)))))))
+Picked alt had 0.0% improvement of the best alt with span 1.1059726942416748e-05
+
+File: 22-expq2section311
+Iter 0
+Alt (λ (x) (/ (exp x) (- (exp x) 1))) error: 0
+Best alt (λ (x) (/ (exp x) (- (exp x) 1))) with error: 0
+Picked (λ (x) (/ (exp x) (- (exp x) 1)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (exp x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1))))) error: 0
+Alt (λ (x) (+ 1/2 (+ (/ 1 x) (* 1/12 x)))) error: 0
+Alt (λ (x) (/ (exp x) (/ (- (pow (exp x) 3) 1) (+ (exp (+ x x)) (+ (exp x) 1))))) error: 0
+Best alt (λ (x) (/ (exp x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1))))) with error: 0
+Picked (λ (x) (+ 1/2 (+ (/ 1 x) (* 1/12 x))))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (x) (/ (exp x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1))))) error: 0
+Alt (λ (x) (+ 1/2 (+ (/ 1 x) (* 1/12 x)))) error: 0
+Alt (λ (x) (/ (exp x) (/ (- (pow (exp x) 3) 1) (+ (exp (+ x x)) (+ (exp x) 1))))) error: 0
+Best alt (λ (x) (/ (exp x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1))))) with error: 0
+Picked (λ (x) (/ (exp x) (/ (- (pow (exp x) 3) 1) (+ (exp (+ x x)) (+ (exp x) 1)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (x) (/ (exp x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1))))) error: 0
+Alt (λ (x) (+ 1/2 (+ (/ 1 x) (* 1/12 x)))) error: 0
+Alt (λ (x) (/ (exp x) (/ (- (pow (exp x) 3) 1) (+ (exp (+ x x)) (+ (exp x) 1))))) error: 0
+Best alt (λ (x) (/ (exp x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1))))) with error: 0
+Picked (λ (x) (/ (exp x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1)))))
+Picked alt had 100% improvement of the best alt
+
+File: 23-expm1example37
+Iter 0
+Alt (λ (x) (- (exp x) 1)) error: 0.017670163890847707
+Best alt (λ (x) (- (exp x) 1)) with error: 0.017670163890847707
+Picked (λ (x) (- (exp x) 1))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (- (pow (exp x) 3) 1) (+ (exp (+ x x)) (+ (exp x) 1)))) error: 0.017670163890847707
+Alt (λ (x) (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x)) error: 0.016593466849389005
+Alt (λ (x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1)))) error: 0.017670163890847707
+Alt (λ (x) (cbrt (pow (- (exp x) 1) 3))) error: 0.017670163890847707
+Best alt (λ (x) (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x)) with error: 0.016593466849389005
+Picked (λ (x) (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x))
+Picked alt had 1.0% improvement of the best alt with span 0.0010766970414587025
+
+Iter 2
+Alt (λ (x) (/ (- (pow (exp x) 3) 1) (+ (exp (+ x x)) (+ (exp x) 1)))) error: 0.016593466849389005
+Alt (λ (x) (exp (log (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x)))) error: 0.010097509768442016
+Alt (λ (x) (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x)) error: 0.016593466849389005
+Alt (λ (x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1)))) error: 0.016593466849389005
+Alt (λ (x) (cbrt (pow (- (exp x) 1) 3))) error: 0.016593466849389005
+Best alt (λ (x) (exp (log (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x)))) with error: 0.010097509768442016
+Picked (λ (x) (exp (log (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x))))
+Picked alt had 1.0% improvement of the best alt with span 0.006495957080946989
+
+Iter 3
+Alt (λ (x) (exp (+ (* 1/24 (pow x 2)) (+ (log x) (* 1/2 x))))) error: 0.00390625
+Alt (λ (x) (/ (- (pow (exp x) 3) 1) (+ (exp (+ x x)) (+ (exp x) 1)))) error: 0.010097509768442016
+Alt (λ (x) (+ (* (+ 1/2 (* 1/6 x)) (* x x)) x)) error: 0.010097509768442016
+Alt (λ (x) (* (* (cbrt (- (exp x) 1)) (cbrt (- (exp x) 1))) (cbrt (- (exp x) 1)))) error: 0.010097509768442016
+Alt (λ (x) (cbrt (pow (- (exp x) 1) 3))) error: 0.010097509768442016
+Best alt (λ (x) (exp (+ (* 1/24 (pow x 2)) (+ (log x) (* 1/2 x))))) with error: 0.00390625
+Picked (λ (x) (exp (+ (* 1/24 (pow x 2)) (+ (log x) (* 1/2 x)))))
+Picked alt had 1.0% improvement of the best alt with span 0.006191259768442016
+
+File: 24-expaxsection35
+Iter 0
+Alt (λ (a x) (- (exp (* a x)) 1)) error: 0.01688253162065376
+Best alt (λ (a x) (- (exp (* a x)) 1)) with error: 0.01688253162065376
+Picked (λ (a x) (- (exp (* a x)) 1))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a x) (+ (* (* (* a x) (* a x)) (+ 1/2 (* (* a x) 1/6))) (* a x))) error: 0.01688253162065376
+Alt (λ (a x) (* a (+ (* (* a x) (* x 1/2)) x))) error: 0.01688253162065376
+Alt (λ (a x) (- (exp (* a x)) 1)) error: 0.01688253162065376
+Best alt (λ (a x) (+ (* (* (* a x) (* a x)) (+ 1/2 (* (* a x) 1/6))) (* a x))) with error: 0.01688253162065376
+Picked (λ (a x) (+ (* (* (* a x) (* a x)) (+ 1/2 (* (* a x) 1/6))) (* a x)))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (a x) (+ (* (* (* a x) (* a x)) (+ 1/2 (* (* a x) 1/6))) (* a x))) error: 0.01688253162065376
+Alt (λ (a x) (* a (+ (* (* a x) (* x 1/2)) x))) error: 0.01688253162065376
+Alt (λ (a x) (- (exp (* a x)) 1)) error: 0.01688253162065376
+Best alt (λ (a x) (+ (* (* (* a x) (* a x)) (+ 1/2 (* (* a x) 1/6))) (* a x))) with error: 0.01688253162065376
+Picked (λ (a x) (* a (+ (* (* a x) (* x 1/2)) x)))
+Picked alt had 100% improvement of the best alt
+
+File: 25-exp2problem337
+Iter 0
+Alt (λ (x) (+ (- (exp x) 2) (exp (- x)))) error: 0.009070031620653759
+Best alt (λ (x) (+ (- (exp x) 2) (exp (- x)))) with error: 0.009070031620653759
+Picked (λ (x) (+ (- (exp x) 2) (exp (- x))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (+ (* (* 2 2) (+ (* (- 2) (exp x)) 1)) (* (exp x) (+ (+ 2 (exp x)) (pow (exp x) 3)))) (+ (* (exp x) (* 2 2)) (* (+ 2 (exp x)) (exp (+ x x)))))) error: 0.009070031620653759
+Alt (λ (x) (* (* (cbrt (+ (- (exp x) 2) (exp (- x)))) (cbrt (+ (- (exp x) 2) (exp (- x))))) (cbrt (+ (- (exp x) 2) (exp (- x)))))) error: 0.009070031620653759
+Alt (λ (x) (+ (pow x 2) (+ (* 1/12 (pow x 4)) (* 1/360 (pow x 6))))) error: 0.009070031620653759
+Best alt (λ (x) (/ (+ (* (* 2 2) (+ (* (- 2) (exp x)) 1)) (* (exp x) (+ (+ 2 (exp x)) (pow (exp x) 3)))) (+ (* (exp x) (* 2 2)) (* (+ 2 (exp x)) (exp (+ x x)))))) with error: 0.009070031620653759
+Picked (λ (x) (+ (pow x 2) (+ (* 1/12 (pow x 4)) (* 1/360 (pow x 6)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 2
+Alt (λ (x) (/ (+ (* (* 2 2) (+ (* (- 2) (exp x)) 1)) (* (exp x) (+ (+ 2 (exp x)) (pow (exp x) 3)))) (+ (* (exp x) (* 2 2)) (* (+ 2 (exp x)) (exp (+ x x)))))) error: 0.009070031620653759
+Alt (λ (x) (* (* (cbrt (+ (- (exp x) 2) (exp (- x)))) (cbrt (+ (- (exp x) 2) (exp (- x))))) (cbrt (+ (- (exp x) 2) (exp (- x)))))) error: 0.009070031620653759
+Alt (λ (x) (+ (pow x 2) (+ (* 1/12 (pow x 4)) (* 1/360 (pow x 6))))) error: 0.009070031620653759
+Best alt (λ (x) (/ (+ (* (* 2 2) (+ (* (- 2) (exp x)) 1)) (* (exp x) (+ (+ 2 (exp x)) (pow (exp x) 3)))) (+ (* (exp x) (* 2 2)) (* (+ 2 (exp x)) (exp (+ x x)))))) with error: 0.009070031620653759
+Picked (λ (x) (* (* (cbrt (+ (- (exp x) 2) (exp (- x)))) (cbrt (+ (- (exp x) 2) (exp (- x))))) (cbrt (+ (- (exp x) 2) (exp (- x))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (x) (/ (+ (* (* 2 2) (+ (* (- 2) (exp x)) 1)) (* (exp x) (+ (+ 2 (exp x)) (pow (exp x) 3)))) (+ (* (exp x) (* 2 2)) (* (+ 2 (exp x)) (exp (+ x x)))))) error: 0.009070031620653759
+Alt (λ (x) (* (* (cbrt (+ (- (exp x) 2) (exp (- x)))) (cbrt (+ (- (exp x) 2) (exp (- x))))) (cbrt (+ (- (exp x) 2) (exp (- x)))))) error: 0.009070031620653759
+Alt (λ (x) (+ (pow x 2) (+ (* 1/12 (pow x 4)) (* 1/360 (pow x 6))))) error: 0.009070031620653759
+Best alt (λ (x) (/ (+ (* (* 2 2) (+ (* (- 2) (exp x)) 1)) (* (exp x) (+ (+ 2 (exp x)) (pow (exp x) 3)))) (+ (* (exp x) (* 2 2)) (* (+ 2 (exp x)) (exp (+ x x)))))) with error: 0.009070031620653759
+Picked (λ (x) (/ (+ (* (* 2 2) (+ (* (- 2) (exp x)) 1)) (* (exp x) (+ (+ 2 (exp x)) (pow (exp x) 3)))) (+ (* (exp x) (* 2 2)) (* (+ 2 (exp x)) (exp (+ x x))))))
+Picked alt had 100% improvement of the best alt
+
+File: 26-3fracproblem333
+Iter 0
+Alt (λ (x) (+ (- (/ 1 (+ x 1)) (/ 2 x)) (/ 1 (- x 1)))) error: 0.05078125
+Best alt (λ (x) (+ (- (/ 1 (+ x 1)) (/ 2 x)) (/ 1 (- x 1)))) with error: 0.05078125
+Picked (λ (x) (+ (- (/ 1 (+ x 1)) (/ 2 x)) (/ 1 (- x 1))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (+ (* (- (* 1 x) (* (+ x 1) 2)) (- x 1)) (* (* (+ x 1) x) 1)) (* (* (+ x 1) x) (- x 1)))) error: 0.01953125
+Alt (λ (x) (+ (+ (/ 2 (pow x 7)) (/ 2 (pow x 5))) (/ (/ 2 x) (* x x)))) error: 0
+Alt (λ (x) (+ (- (/ 1 (+ x 1)) (/ 2 x)) (* (/ 1 (- (* x x) 1)) (+ x 1)))) error: 0.05078125
+Alt (λ (x) (+ (cbrt (pow (- (/ 1 (+ x 1)) (/ 2 x)) 3)) (/ 1 (- x 1)))) error: 0.05078125
+Best alt (λ (x) (+ (+ (/ 2 (pow x 7)) (/ 2 (pow x 5))) (/ (/ 2 x) (* x x)))) with error: 0
+Picked (λ (x) (/ (+ (* (- (* 1 x) (* (+ x 1) 2)) (- x 1)) (* (* (+ x 1) x) 1)) (* (* (+ x 1) x) (- x 1))))
+Picked alt had 0.6153846153846154% improvement of the best alt with span 0.05078125
+
+Iter 2
+Alt (λ (x) (+ (+ (/ 2 (pow x 7)) (/ 2 (pow x 5))) (/ (/ 2 x) (* x x)))) error: 0
+Alt (λ (x) (+ (cbrt (pow (- (/ 1 (+ x 1)) (/ 2 x)) 3)) (/ 1 (- x 1)))) error: 0.01953125
+Alt (λ (x) (/ 2 (* (* (+ x 1) x) (- x 1)))) error: 0
+Best alt (λ (x) (+ (+ (/ 2 (pow x 7)) (/ 2 (pow x 5))) (/ (/ 2 x) (* x x)))) with error: 0
+Picked (λ (x) (/ 2 (* (* (+ x 1) x) (- x 1))))
+Picked alt had 1.0% improvement of the best alt with span 0.01953125
+
+Iter 3
+Alt (λ (x) (+ (+ (/ 2 (pow x 7)) (/ 2 (pow x 5))) (/ (/ 2 x) (* x x)))) error: 0
+Alt (λ (x) (* (/ 2 (* (- (pow x 3) x) (+ 1 (pow x 3)))) (* (+ (* x x) (- (* 1 1) (* x 1))) (+ x 1)))) error: 0
+Alt (λ (x) (/ 2 (* (* (* (+ x 1) x) (sqrt (- x 1))) (sqrt (- x 1))))) error: 0
+Alt (λ (x) (+ (cbrt (pow (- (/ 1 (+ x 1)) (/ 2 x)) 3)) (/ 1 (- x 1)))) error: 0
+Alt (λ (x) (/ 2 (* (* (+ x 1) x) (- x 1)))) error: 0
+Best alt (λ (x) (+ (+ (/ 2 (pow x 7)) (/ 2 (pow x 5))) (/ (/ 2 x) (* x x)))) with error: 0
+Picked (λ (x) (* (/ 2 (* (- (pow x 3) x) (+ 1 (pow x 3)))) (* (+ (* x x) (- (* 1 1) (* x 1))) (+ x 1))))
+Picked alt had 100% improvement of the best alt
+
+File: 28-2sqrtexample31
+Iter 0
+Alt (λ (x) (- (sqrt (+ x 1)) (sqrt x))) error: 0.12109375
+Best alt (λ (x) (- (sqrt (+ x 1)) (sqrt x))) with error: 0.12109375
+Picked (λ (x) (- (sqrt (+ x 1)) (sqrt x)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (cbrt (pow (- (sqrt (+ 1 x)) (sqrt x)) 3))) error: 0.08984375
+Alt (λ (x) (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) error: 0.01953125
+Alt (λ (x) (* (* (cbrt (- (sqrt (+ x 1)) (sqrt x))) (cbrt (- (sqrt (+ x 1)) (sqrt x)))) (cbrt (- (sqrt (+ x 1)) (sqrt x))))) error: 0.1171875
+Alt (λ (x) (/ (- (pow (sqrt (+ x 1)) 3) (pow (sqrt x) 3)) (+ (+ (+ 1 x) x) (* (sqrt (+ 1 x)) (sqrt x))))) error: 0.1171875
+Best alt (λ (x) (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) with error: 0.01953125
+Picked (λ (x) (/ 1 (+ (sqrt (+ x 1)) (sqrt x))))
+Picked alt had 1.0% improvement of the best alt with span 0.09765625
+
+Iter 2
+Alt (λ (x) (cbrt (pow (- (sqrt (+ 1 x)) (sqrt x)) 3))) error: 0.01953125
+Alt (λ (x) (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) error: 0.01953125
+Alt (λ (x) (* (/ 1 (+ (pow (sqrt (+ x 1)) 3) (pow (sqrt x) 3))) (+ (* (sqrt (+ x 1)) (sqrt (+ x 1))) (- (* (sqrt x) (sqrt x)) (* (sqrt (+ x 1)) (sqrt x)))))) error: 0.01171875
+Alt (λ (x) (/ (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x)))) (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) error: 0
+Alt (λ (x) (* (sqrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) (sqrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))))) error: 0.00390625
+Alt (λ (x) (* (* (cbrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) (cbrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x))))) (cbrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))))) error: 0.00390625
+Alt (λ (x) (/ (- (pow (sqrt (+ x 1)) 3) (pow (sqrt x) 3)) (+ (+ (+ 1 x) x) (* (sqrt (+ 1 x)) (sqrt x))))) error: 0.01953125
+Alt (λ (x) (cbrt (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (+ (sqrt (+ x 1)) (sqrt x)) (+ (sqrt (+ x 1)) (sqrt x)))))) error: 0.00390625
+Alt (λ (x) (/ 1 (cbrt (pow (+ (sqrt (+ 1 x)) (sqrt x)) 3)))) error: 0.0078125
+Best alt (λ (x) (/ (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x)))) (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) with error: 0
+Picked (λ (x) (/ (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x)))) (sqrt (+ (sqrt (+ x 1)) (sqrt x)))))
+Picked alt had 1.0% improvement of the best alt with span 0.01953125
+
+Iter 3
+Alt (λ (x) (cbrt (pow (- (sqrt (+ 1 x)) (sqrt x)) 3))) error: 0
+Alt (λ (x) (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) error: 0
+Alt (λ (x) (* (/ 1 (+ (pow (sqrt (+ x 1)) 3) (pow (sqrt x) 3))) (+ (* (sqrt (+ x 1)) (sqrt (+ x 1))) (- (* (sqrt x) (sqrt x)) (* (sqrt (+ x 1)) (sqrt x)))))) error: 0
+Alt (λ (x) (* (/ (sqrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (fabs (cbrt (+ (sqrt (+ x 1)) (sqrt x))))) (/ (sqrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (sqrt (cbrt (+ (sqrt (+ x 1)) (sqrt x))))))) error: 0
+Alt (λ (x) (/ (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x)))) (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) error: 0
+Alt (λ (x) (* (/ (* (cbrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (cbrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x)))))) (sqrt (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (/ (cbrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (sqrt (sqrt (+ (sqrt (+ x 1)) (sqrt x))))))) error: 0
+Alt (λ (x) (/ (cbrt (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) error: 0
+Alt (λ (x) (* (* (/ (cbrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (fabs (cbrt (+ (sqrt (+ x 1)) (sqrt x))))) (cbrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x)))))) (/ (cbrt (/ 1 (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (sqrt (cbrt (+ (sqrt (+ x 1)) (sqrt x))))))) error: 0
+Alt (λ (x) (cbrt (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (+ (sqrt (+ x 1)) (sqrt x)) (+ (sqrt (+ x 1)) (sqrt x)))))) error: 0
+Best alt (λ (x) (cbrt (pow (- (sqrt (+ 1 x)) (sqrt x)) 3))) with error: 0
+Picked (λ (x) (/ (cbrt (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (sqrt (+ (sqrt (+ x 1)) (sqrt x))))) (sqrt (+ (sqrt (+ x 1)) (sqrt x)))))
+Picked alt had 100% improvement of the best alt
+
+File: 29-2sinexample33
+Iter 0
+Alt (λ (x eps) (- (sin (+ x eps)) (sin x))) error: 0.36405066602033315
+Best alt (λ (x eps) (- (sin (+ x eps)) (sin x))) with error: 0.36405066602033315
+Picked (λ (x eps) (- (sin (+ x eps)) (sin x)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x eps) (+ (* (sin x) (cos eps)) (- (* (cos x) (sin eps)) (sin x)))) error: 0.26431071454199
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))) error: 0.3210812950065576
+Alt (λ (x eps) (- (+ (* (sin x) (cos eps)) (* (cos x) (sin eps))) (sin x))) error: 0.27259593095199536
+Alt (λ (x eps) (- eps (* (* eps (+ eps x)) (* x 1/2)))) error: 0.36405066602033315
+Best alt (λ (x eps) (+ (* (sin x) (cos eps)) (- (* (cos x) (sin eps)) (sin x)))) with error: 0.26431071454199
+Picked (λ (x eps) (* 2 (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2)))))
+Picked alt had 0.43081403566860216% improvement of the best alt with span 0.09973995147834314
+
+Iter 2
+Alt (λ (x eps) (+ (* (sin x) (cos eps)) (- (* (cos x) (sin eps)) (sin x)))) error: 0.2213413435282145
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (* (* (cbrt (cos (/ (+ x (+ eps x)) 2))) (cbrt (cos (/ (+ x (+ eps x)) 2)))) (cbrt (cos (/ (+ x (+ eps x)) 2))))))) error: 0.3171750450065576
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (log (exp (cos (/ (+ x (+ eps x)) 2))))))) error: 0.3132687950065576
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))) error: 0.3210812950065576
+Alt (λ (x eps) (- (+ (* (sin x) (cos eps)) (* (cos x) (sin eps))) (sin x))) error: 0.22962655993821982
+Alt (λ (x eps) (- eps (* (* eps (+ eps x)) (* x 1/2)))) error: 0.3210812950065576
+Alt (λ (x eps) (* 2 (* (* (cbrt (sin (/ eps 2))) (cbrt (sin (/ eps 2)))) (* (cbrt (sin (/ eps 2))) (cos (/ (+ x (+ eps x)) 2)))))) error: 0.3210811569942025
+Alt (λ (x eps) (* 2 (* (* (cbrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2)))) (cbrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))) (cbrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))))) error: 0.3171750450065576
+Alt (λ (x eps) (* 2 (* (sqrt (sin (/ eps 2))) (* (sqrt (sin (/ eps 2))) (cos (/ (+ x (+ eps x)) 2)))))) error: 0.31326879500655763
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (* (sqrt (cos (/ (+ x (+ eps x)) 2))) (sqrt (cos (/ (+ x (+ eps x)) 2))))))) error: 0.3171750450065576
+Alt (λ (x eps) (* 2 (* (sqrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2)))) (sqrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))))) error: 0.3171750450065576
+Best alt (λ (x eps) (+ (* (sin x) (cos eps)) (- (* (cos x) (sin eps)) (sin x)))) with error: 0.2213413435282145
+Picked (λ (x eps) (* 2 (* (sin (/ eps 2)) (log (exp (cos (/ (+ x (+ eps x)) 2)))))))
+Picked alt had 0.0783286926071581% improvement of the best alt with span 0.09973995147834308
+
+Iter 3
+Alt (λ (x eps) (* 2 (* (* (sin (/ eps 2)) (sqrt (cos (/ (+ eps (+ x x)) 2)))) (sqrt (log (exp (cos (/ (+ x (+ eps x)) 2)))))))) error: 0.30936254500655763
+Alt (λ (x eps) (+ (* (sin x) (cos eps)) (- (* (cos x) (sin eps)) (sin x)))) error: 0.2135288435282145
+Alt (λ (x eps) (* 2 (* (* (* (cbrt (cos (/ (+ x (+ x eps)) 2))) (cbrt (cos (/ (+ x (+ x eps)) 2)))) (sin (/ eps 2))) (cbrt (log (exp (cos (/ (+ x (+ eps x)) 2)))))))) error: 0.30936254500655763
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (log (exp (cos (/ (+ x (+ eps x)) 2))))))) error: 0.3132687950065576
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))) error: 0.3132687950065576
+Alt (λ (x eps) (- (+ (* (sin x) (cos eps)) (* (cos x) (sin eps))) (sin x))) error: 0.22181405993821982
+Alt (λ (x eps) (- eps (* (* eps (+ eps x)) (* x 1/2)))) error: 0.3132687950065576
+Alt (λ (x eps) (* 2 (* (* (cbrt (sin (/ eps 2))) (cbrt (sin (/ eps 2)))) (* (cbrt (sin (/ eps 2))) (cos (/ (+ x (+ eps x)) 2)))))) error: 0.3132686569942025
+Alt (λ (x eps) (* 2 (* (* (cbrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2)))) (cbrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))) (cbrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))))) error: 0.3132687950065576
+Alt (λ (x eps) (* 2 (* (sqrt (sin (/ eps 2))) (* (sqrt (sin (/ eps 2))) (cos (/ (+ x (+ eps x)) 2)))))) error: 0.30545629500655763
+Alt (λ (x eps) (* 2 (* (sin (/ eps 2)) (* (sqrt (cos (/ (+ x (+ eps x)) 2))) (sqrt (cos (/ (+ x (+ eps x)) 2))))))) error: 0.30936254500655763
+Alt (λ (x eps) (* 2 (* (sqrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2)))) (sqrt (* (sin (/ eps 2)) (cos (/ (+ x (+ eps x)) 2))))))) error: 0.30936254500655763
+Best alt (λ (x eps) (+ (* (sin x) (cos eps)) (- (* (cos x) (sin eps)) (sin x)))) with error: 0.2135288435282145
+Picked (λ (x eps) (* 2 (* (* (* (cbrt (cos (/ (+ x (+ x eps)) 2))) (cbrt (cos (/ (+ x (+ x eps)) 2)))) (sin (/ eps 2))) (cbrt (log (exp (cos (/ (+ x (+ eps x)) 2))))))))
+Picked alt had 0.0391643463035785% improvement of the best alt with span 0.09973995147834308
+
+File: 3-quad2mproblem321negative
+Iter 0
+Alt (λ (a b_2 c) (/ (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)) error: 4.319528453296323
+Best alt (λ (a b_2 c) (/ (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)) with error: 4.319528453296323
+Picked (λ (a b_2 c) (/ (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (a b_2 c) (/ c (/ b_2 -1/2))) error: 4.319528453296323
+Alt (λ (a b_2 c) (/ (- (- b_2) (* (fabs (cbrt (- (* b_2 b_2) (* a c)))) (sqrt (cbrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.319528453296323
+Alt (λ (a b_2 c) (/ (- (* (/ a b_2) (* 1/2 c)) (+ b_2 b_2)) a)) error: 4.319528453296323
+Alt (λ (a b_2 c) (exp (log (/ (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)))) error: 4.319528453296323
+Alt (λ (a b_2 c) (/ 1 (/ a (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) error: 4.315492645234076
+Alt (λ (a b_2 c) (- (/ (- b_2) a) (/ (sqrt (- (* b_2 b_2) (* a c))) a))) error: 4.315622203296323
+Alt (λ (a b_2 c) (- (* c (/ 1/2 b_2)) (* (/ 2 a) b_2))) error: 4.319528453296323
+Alt (λ (a b_2 c) (* -2 (/ b_2 a))) error: 4.319528453296323
+Alt (λ (a b_2 c) (/ (/ (* c a) (- (sqrt (- (* b_2 b_2) (* a c))) b_2)) a)) error: 4.294279389350418
+Best alt (λ (a b_2 c) (/ (/ (* c a) (- (sqrt (- (* b_2 b_2) (* a c))) b_2)) a)) with error: 4.294279389350418
+Picked (λ (a b_2 c) (/ (/ (* c a) (- (sqrt (- (* b_2 b_2) (* a c))) b_2)) a))
+Picked alt had 1.0% improvement of the best alt with span 0.025249063945905093
+
+Iter 2
+Alt (λ (a b_2 c) (log (exp (/ c (- (sqrt (- (* b_2 b_2) (* c a))) b_2))))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (/ c a) (* (/ c b_2) (- 1/2)))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ c (/ b_2 -1/2))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (- (- b_2) (* (fabs (cbrt (- (* b_2 b_2) (* a c)))) (sqrt (cbrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (- (* (/ a b_2) (* 1/2 c)) (+ b_2 b_2)) a)) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ c (- (/ (* 1/2 a) (/ b_2 c)) (+ b_2 b_2)))) error: 4.294278138987826
+Alt (λ (a b_2 c) (exp (log (/ (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ 1 (/ a (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) error: 4.294279389350418
+Alt (λ (a b_2 c) (- (/ (- b_2) a) (/ (sqrt (- (* b_2 b_2) (* a c))) a))) error: 4.294279389350418
+Alt (λ (a b_2 c) (- (* c (/ 1/2 b_2)) (* (/ 2 a) b_2))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (/ (* c a) (- (sqrt (- (* b_2 b_2) (* a c))) b_2)) a)) error: 4.294279389350418
+Best alt (λ (a b_2 c) (/ c (- (/ (* 1/2 a) (/ b_2 c)) (+ b_2 b_2)))) with error: 4.294278138987826
+Picked (λ (a b_2 c) (/ 1 (/ a (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))))))
+Picked alt had 0.0% improvement of the best alt with span 1.2503625921311823e-06
+
+Iter 3
+Alt (λ (a b_2 c) (log (exp (/ c (- (sqrt (- (* b_2 b_2) (* c a))) b_2))))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (/ c a) (* (/ c b_2) (- 1/2)))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ c (/ b_2 -1/2))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (- (- b_2) (* (fabs (cbrt (- (* b_2 b_2) (* a c)))) (sqrt (cbrt (- (* b_2 b_2) (* a c)))))) a)) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (- (* (/ a b_2) (* 1/2 c)) (+ b_2 b_2)) a)) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ c (- (/ (* 1/2 a) (/ b_2 c)) (+ b_2 b_2)))) error: 4.294278138987826
+Alt (λ (a b_2 c) (exp (log (/ (- (- b_2) (sqrt (- (* b_2 b_2) (* a c)))) a)))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ 1 (/ a (- (- b_2) (sqrt (- (* b_2 b_2) (* a c))))))) error: 4.294279389350418
+Alt (λ (a b_2 c) (- (/ (- b_2) a) (/ (sqrt (- (* b_2 b_2) (* a c))) a))) error: 4.294279389350418
+Alt (λ (a b_2 c) (- (* c (/ 1/2 b_2)) (* (/ 2 a) b_2))) error: 4.294279389350418
+Alt (λ (a b_2 c) (/ (/ (* c a) (- (sqrt (- (* b_2 b_2) (* a c))) b_2)) a)) error: 4.294279389350418
+Best alt (λ (a b_2 c) (/ c (- (/ (* 1/2 a) (/ b_2 c)) (+ b_2 b_2)))) with error: 4.294278138987826
+Picked (λ (a b_2 c) (- (/ (- b_2) a) (/ (sqrt (- (* b_2 b_2) (* a c))) a)))
+Picked alt had 0.0% improvement of the best alt with span 1.2503625921311823e-06
+
+File: 30-2isqrtexample36
+Iter 0
+Alt (λ (x) (- (/ 1 (sqrt x)) (/ 1 (sqrt (+ x 1))))) error: 17.884704331255808
+Best alt (λ (x) (- (/ 1 (sqrt x)) (/ 1 (sqrt (+ x 1))))) with error: 17.884704331255808
+Picked (λ (x) (- (/ 1 (sqrt x)) (/ 1 (sqrt (+ x 1)))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (/ (- (sqrt (+ x 1)) (sqrt x)) (* (sqrt x) (sqrt (+ x 1))))) error: 0.22339638675818824
+Alt (λ (x) (- (/ (/ 1 (* (cbrt (sqrt x)) (cbrt (sqrt x)))) (cbrt (sqrt x))) (/ 1 (sqrt (+ x 1))))) error: 17.884704331255808
+Alt (λ (x) (- (/ 1 (sqrt x)) (* (sqrt (/ 1 (sqrt (+ x 1)))) (sqrt (/ 1 (sqrt (+ x 1))))))) error: 17.876653672604053
+Alt (λ (x) (- (pow x (- 1/2)) (/ 1 (sqrt (+ x 1))))) error: 17.883351886295067
+Alt (λ (x) (- (/ 1 (sqrt x)) (/ (/ 1 (* (cbrt (sqrt (+ x 1))) (cbrt (sqrt (+ x 1))))) (cbrt (sqrt (+ x 1)))))) error: 17.883991738197107
+Alt (λ (x) (- (/ (/ 1 (sqrt (sqrt x))) (sqrt (sqrt x))) (/ 1 (sqrt (+ x 1))))) error: 17.87271760714221
+Alt (λ (x) (/ (- (/ 1 x) (/ 1 (+ x 1))) (+ (/ 1 (sqrt x)) (/ 1 (sqrt (+ x 1)))))) error: 5.311538983410706
+Alt (λ (x) (* (+ (sqrt (/ 1 (sqrt x))) (sqrt (/ 1 (sqrt (+ x 1))))) (- (sqrt (/ 1 (sqrt x))) (sqrt (/ 1 (sqrt (+ x 1))))))) error: 17.876907346248352
+Alt (λ (x) (- (/ 1 (sqrt x)) (* (* (cbrt (/ 1 (sqrt (+ x 1)))) (cbrt (/ 1 (sqrt (+ x 1))))) (cbrt (/ 1 (sqrt (+ x 1))))))) error: 17.8837938567438
+Alt (λ (x) (- (* (* (cbrt (/ 1 (sqrt x))) (cbrt (/ 1 (sqrt x)))) (cbrt (/ 1 (sqrt x)))) (/ 1 (sqrt (+ x 1))))) error: 17.884704331255808
+Alt (λ (x) (- (/ 1 (sqrt x)) (cbrt (/ (/ 1 (+ x 1)) (sqrt (+ x 1)))))) error: 17.884079561859046
+Alt (λ (x) (- (cbrt (/ (/ 1 x) (sqrt x))) (/ 1 (sqrt (+ x 1))))) error: 17.884244094804828
+Best alt (λ (x) (/ (- (sqrt (+ x 1)) (sqrt x)) (* (sqrt x) (sqrt (+ x 1))))) with error: 0.22339638675818824
+Picked (λ (x) (/ (- (sqrt (+ x 1)) (sqrt x)) (* (sqrt x) (sqrt (+ x 1)))))
+Picked alt had 1.0% improvement of the best alt with span 17.66130794449762
+
+Iter 2
+Alt (λ (x) (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (sqrt x) (sqrt (+ x 1))))) error: 0.00390625
+Alt (λ (x) (/ (- (* (sqrt (+ x 1)) (sqrt (+ x 1))) (* (sqrt x) (sqrt x))) (* (* (sqrt x) (sqrt (+ x 1))) (+ (sqrt (+ x 1)) (sqrt x))))) error: 0.03972626953688403
+Alt (λ (x) (/ 1 (/ (* (sqrt x) (sqrt (+ x 1))) (- (sqrt (+ x 1)) (sqrt x))))) error: 0.13576127930532605
+Alt (λ (x) (- (pow x (- 1/2)) (/ 1 (sqrt (+ x 1))))) error: 0.22339638675818824
+Best alt (λ (x) (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (sqrt x) (sqrt (+ x 1))))) with error: 0.00390625
+Picked (λ (x) (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (sqrt x) (sqrt (+ x 1)))))
+Picked alt had 1.0% improvement of the best alt with span 0.21949013675818824
+
+Iter 3
+Alt (λ (x) (- (pow x (- 1/2)) (/ 1 (sqrt (+ x 1))))) error: 0.00390625
+Alt (λ (x) (* (/ 1 (sqrt x)) (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (sqrt (+ x 1))))) error: 0
+Alt (λ (x) (* (/ (* (cbrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) (cbrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x))))) (sqrt x)) (/ (cbrt (/ 1 (+ (sqrt (+ x 1)) (sqrt x)))) (sqrt (+ x 1))))) error: 0
+Alt (λ (x) (/ (cbrt (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (+ (sqrt (+ x 1)) (sqrt x)) (+ (sqrt (+ x 1)) (sqrt x))))) (* (sqrt x) (sqrt (+ x 1))))) error: 0.00390625
+Alt (λ (x) (* (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (/ 1 (* (sqrt x) (sqrt (+ x 1)))))) error: 0.00390625
+Alt (λ (x) (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (* (cbrt (* (sqrt x) (sqrt (+ x 1)))) (cbrt (* (sqrt x) (sqrt (+ x 1))))) (cbrt (* (sqrt x) (sqrt (+ x 1))))))) error: 0.00390625
+Alt (λ (x) (* (/ (/ 1 (+ (pow (sqrt (+ x 1)) 3) (pow (sqrt x) 3))) (sqrt x)) (- (/ x (sqrt (+ 1 x))) (- (sqrt x) (sqrt (+ 1 x)))))) error: 0.00390625
+Alt (λ (x) (/ 1 (+ (* (sqrt x) (+ x 1)) (* (sqrt (+ x 1)) x)))) error: 0
+Alt (λ (x) (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (* (* (fabs (cbrt (+ x 1))) (sqrt x)) (sqrt (cbrt (+ x 1)))))) error: 0
+Best alt (λ (x) (* (/ 1 (sqrt x)) (/ (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (sqrt (+ x 1))))) with error: 0
+Picked (λ (x) (* (/ 1 (+ (sqrt (+ x 1)) (sqrt x))) (/ 1 (* (sqrt x) (sqrt (+ x 1))))))
+Picked alt had 0.0% improvement of the best alt with span 0.00390625
+
+File: 31-2atanexample35
+Iter 0
+Alt (λ (N) (- (atan (+ N 1)) (atan N))) error: 0.2637250219886432
+Best alt (λ (N) (- (atan (+ N 1)) (atan N))) with error: 0.2637250219886432
+Picked (λ (N) (- (atan (+ N 1)) (atan N)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (N) (atan2 1 (+ 1 (* (+ N 1) N)))) error: 0.24419377198864323
+Alt (λ (N) (log (exp (- (atan (+ 1 N)) (atan N))))) error: 0.2637250219886432
+Best alt (λ (N) (atan2 1 (+ 1 (* (+ N 1) N)))) with error: 0.24419377198864323
+Picked (λ (N) (atan2 1 (+ 1 (* (+ N 1) N))))
+Picked alt had 1.0% improvement of the best alt with span 0.01953125
+
+Iter 2
+Alt (λ (N) (atan2 1 (+ 1 (* (+ N 1) N)))) error: 0.24419377198864323
+Alt (λ (N) (log (exp (- (atan (+ 1 N)) (atan N))))) error: 0.24419377198864323
+Alt (λ (N) (* (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))) (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))))) error: 0.23638127198864323
+Alt (λ (N) (atan2 1 (+ 1 (* (sqrt (+ N 1)) (* (sqrt (+ N 1)) N))))) error: 0.24419377198864323
+Best alt (λ (N) (* (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))) (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))))) with error: 0.23638127198864323
+Picked (λ (N) (* (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))) (sqrt (atan2 1 (+ 1 (* (+ N 1) N))))))
+Picked alt had 1.0% improvement of the best alt with span 0.0078125
+
+Iter 3
+Alt (λ (N) (atan2 1 (+ 1 (* (+ N 1) N)))) error: 0.23638127198864323
+Alt (λ (N) (log (exp (- (atan (+ 1 N)) (atan N))))) error: 0.23638127198864323
+Alt (λ (N) (* (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))) (cbrt (* (atan2 1 (+ (* N N) (+ N 1))) (sqrt (atan2 1 (+ (* N N) (+ N 1)))))))) error: 0.23247502198864323
+Alt (λ (N) (atan2 1 (+ 1 (* (sqrt (+ N 1)) (* (sqrt (+ N 1)) N))))) error: 0.23638127198864323
+Alt (λ (N) (* (* (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))) (sqrt (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))))) (sqrt (sqrt (atan2 1 (+ 1 (* (+ N 1) N))))))) error: 0.22856877198864323
+Best alt (λ (N) (* (* (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))) (sqrt (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))))) (sqrt (sqrt (atan2 1 (+ 1 (* (+ N 1) N))))))) with error: 0.22856877198864323
+Picked (λ (N) (* (* (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))) (sqrt (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))))) (sqrt (sqrt (atan2 1 (+ 1 (* (+ N 1) N)))))))
+Picked alt had 1.0% improvement of the best alt with span 0.0078125
+
+File: 4-cos2problem341
+Iter 0
+Alt (λ (x) (/ (- 1 (cos x)) (* x x))) error: 0.0078125
+Best alt (λ (x) (/ (- 1 (cos x)) (* x x))) with error: 0.0078125
+Picked (λ (x) (/ (- 1 (cos x)) (* x x)))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x) (* (* (cbrt (/ (- 1 (cos x)) (* x x))) (cbrt (/ (- 1 (cos x)) (* x x)))) (cbrt (/ (- 1 (cos x)) (* x x))))) error: 0.0078125
+Alt (λ (x) (- (/ 1 (* x x)) (/ (cos x) (* x x)))) error: 0.0078125
+Alt (λ (x) (/ (/ (* (sin x) (sin x)) (+ 1 (cos x))) (* x x))) error: 0
+Alt (λ (x) (/ (exp (log (- 1 (cos x)))) (* x x))) error: 0.0078125
+Alt (λ (x) (* (/ (sqrt (- 1 (cos x))) x) (/ (sqrt (- 1 (cos x))) x))) error: 0.0078125
+Alt (λ (x) (* (/ 1 x) (/ (- 1 (cos x)) x))) error: 0.00390625
+Alt (λ (x) (cbrt (pow (/ (- 1 (cos x)) (* x x)) 3))) error: 0.00390625
+Alt (λ (x) (- (+ (* 1/720 (pow x 4)) 1/2) (* 1/24 (pow x 2)))) error: 0.0078125
+Best alt (λ (x) (/ (/ (* (sin x) (sin x)) (+ 1 (cos x))) (* x x))) with error: 0
+Picked (λ (x) (/ (/ (* (sin x) (sin x)) (+ 1 (cos x))) (* x x)))
+Picked alt had 1.0% improvement of the best alt with span 0.0078125
+
+Iter 2
+Alt (λ (x) (cbrt (* (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (+ 1 (cos x)))) (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (* x x)))))) error: 0
+Alt (λ (x) (* (* (cbrt (/ (- 1 (cos x)) (* x x))) (cbrt (/ (- 1 (cos x)) (* x x)))) (cbrt (/ (- 1 (cos x)) (* x x))))) error: 0
+Alt (λ (x) (- (/ 1 (* x x)) (/ (cos x) (* x x)))) error: 0
+Alt (λ (x) (/ (/ (* (sin x) (sin x)) (+ 1 (cos x))) (* x x))) error: 0
+Alt (λ (x) (/ (exp (log (- 1 (cos x)))) (* x x))) error: 0
+Alt (λ (x) (* (/ (sqrt (- 1 (cos x))) x) (/ (sqrt (- 1 (cos x))) x))) error: 0
+Alt (λ (x) (* (/ 1 x) (/ (- 1 (cos x)) x))) error: 0
+Alt (λ (x) (- (+ (* 1/720 (pow x 4)) 1/2) (* 1/24 (pow x 2)))) error: 0
+Best alt (λ (x) (cbrt (* (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (+ 1 (cos x)))) (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (* x x)))))) with error: 0
+Picked (λ (x) (- (+ (* 1/720 (pow x 4)) 1/2) (* 1/24 (pow x 2))))
+Picked alt had 100% improvement of the best alt
+
+Iter 3
+Alt (λ (x) (cbrt (* (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (+ 1 (cos x)))) (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (* x x)))))) error: 0
+Alt (λ (x) (* (* (cbrt (/ (- 1 (cos x)) (* x x))) (cbrt (/ (- 1 (cos x)) (* x x)))) (cbrt (/ (- 1 (cos x)) (* x x))))) error: 0
+Alt (λ (x) (- (/ 1 (* x x)) (/ (cos x) (* x x)))) error: 0
+Alt (λ (x) (/ (/ (* (sin x) (sin x)) (+ 1 (cos x))) (* x x))) error: 0
+Alt (λ (x) (/ (exp (log (- 1 (cos x)))) (* x x))) error: 0
+Alt (λ (x) (* (/ (sqrt (- 1 (cos x))) x) (/ (sqrt (- 1 (cos x))) x))) error: 0
+Alt (λ (x) (* (/ 1 x) (/ (- 1 (cos x)) x))) error: 0
+Alt (λ (x) (- (+ (* 1/720 (pow x 4)) 1/2) (* 1/24 (pow x 2)))) error: 0
+Best alt (λ (x) (cbrt (* (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (+ 1 (cos x)))) (/ (* (tan (/ x 2)) (* (sin x) (sin x))) (* (* x x) (* x x)))))) with error: 0
+Picked (λ (x) (* (/ 1 x) (/ (- 1 (cos x)) x)))
+Picked alt had 100% improvement of the best alt
+
+File: 5-392realpartp56
+Iter 0
+Alt (λ () (re (+ (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (* (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (- (/ 1 2)) (/ (sqrt 3) 2))) (+ (complex (- 2) 0) (complex (- (/ 1 2)) (/ (sqrt 3) 2))))) (+ (complex 7 0) (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (+ (* (- 5) (/ 1 2)) 4) (* (/ (sqrt 3) 2) 5))))))) error: 0
+Best alt (λ () (re (+ (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (* (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (- (/ 1 2)) (/ (sqrt 3) 2))) (+ (complex (- 2) 0) (complex (- (/ 1 2)) (/ (sqrt 3) 2))))) (+ (complex 7 0) (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (+ (* (- 5) (/ 1 2)) 4) (* (/ (sqrt 3) 2) 5))))))) with error: 0
+Picked (λ () (re (+ (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (* (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (- (/ 1 2)) (/ (sqrt 3) 2))) (+ (complex (- 2) 0) (complex (- (/ 1 2)) (/ (sqrt 3) 2))))) (+ (complex 7 0) (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (+ (* (- 5) (/ 1 2)) 4) (* (/ (sqrt 3) 2) 5)))))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ () (re (+ (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (* (complex (- (* (/ 1 2) (/ 1 2)) (/ (/ 3 2) 2)) (* (/ (- 1) (* 2 2)) (+ (sqrt 3) (sqrt 3)))) (+ (complex (- 2) 0) (complex (- (/ 1 2)) (/ (sqrt 3) 2))))) (+ (complex 7 0) (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (+ (* (- 5) (/ 1 2)) 4) (* (/ (sqrt 3) 2) 5))))))) error: 0
+Best alt (λ () (re (+ (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (* (complex (- (* (/ 1 2) (/ 1 2)) (/ (/ 3 2) 2)) (* (/ (- 1) (* 2 2)) (+ (sqrt 3) (sqrt 3)))) (+ (complex (- 2) 0) (complex (- (/ 1 2)) (/ (sqrt 3) 2))))) (+ (complex 7 0) (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (+ (* (- 5) (/ 1 2)) 4) (* (/ (sqrt 3) 2) 5))))))) with error: 0
+Picked (λ () (re (+ (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (* (complex (- (* (/ 1 2) (/ 1 2)) (/ (/ 3 2) 2)) (* (/ (- 1) (* 2 2)) (+ (sqrt 3) (sqrt 3)))) (+ (complex (- 2) 0) (complex (- (/ 1 2)) (/ (sqrt 3) 2))))) (+ (complex 7 0) (* (complex (- (/ 1 2)) (/ (sqrt 3) 2)) (complex (+ (* (- 5) (/ 1 2)) 4) (* (/ (sqrt 3) 2) 5)))))))
+Picked alt had 100% improvement of the best alt
+
+File: 6-392imaginarypartp56
+Iter 0
+Alt (λ () (im (+ (+ (+ (+ (* (* (* (complex (/ (- 1) 2) (/ (sqrt 3) 2)) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (* (* (* (complex (- 2) 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (* (* (complex 5 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (* (complex 4 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (complex 7 0)))) error: 0
+Best alt (λ () (im (+ (+ (+ (+ (* (* (* (complex (/ (- 1) 2) (/ (sqrt 3) 2)) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (* (* (* (complex (- 2) 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (* (* (complex 5 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (* (complex 4 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (complex 7 0)))) with error: 0
+Picked (λ () (im (+ (+ (+ (+ (* (* (* (complex (/ (- 1) 2) (/ (sqrt 3) 2)) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (* (* (* (complex (- 2) 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (* (* (complex 5 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2))) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (* (complex 4 0) (complex (/ (- 1) 2) (/ (sqrt 3) 2)))) (complex 7 0))))
+Picked alt had 100% improvement of the best alt
+
+File: 7-391realpartp56
+Iter 0
+Alt (λ () (re (+ (+ (+ (+ (+ (+ (* (* (* (* (* (complex -1 1) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (* (* (* (* (* (complex 6 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (* (complex 15 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (complex 20 0) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (complex 15 0) (complex -1 1)) (complex -1 1))) (* (complex 6 0) (complex -1 1))) (complex 1 0)))) error: 0
+Best alt (λ () (re (+ (+ (+ (+ (+ (+ (* (* (* (* (* (complex -1 1) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (* (* (* (* (* (complex 6 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (* (complex 15 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (complex 20 0) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (complex 15 0) (complex -1 1)) (complex -1 1))) (* (complex 6 0) (complex -1 1))) (complex 1 0)))) with error: 0
+Picked (λ () (re (+ (+ (+ (+ (+ (+ (* (* (* (* (* (complex -1 1) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (* (* (* (* (* (complex 6 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (* (complex 15 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (complex 20 0) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (complex 15 0) (complex -1 1)) (complex -1 1))) (* (complex 6 0) (complex -1 1))) (complex 1 0))))
+Picked alt had 100% improvement of the best alt
+
+File: 8-391imaginarypartp56
+Iter 0
+Alt (λ () (im (+ (+ (+ (+ (+ (+ (* (* (* (* (* (complex -1 1) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (* (* (* (* (* (complex 6 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (* (complex 15 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (complex 20 0) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (complex 15 0) (complex -1 1)) (complex -1 1))) (* (complex 6 0) (complex -1 1))) (complex 1 0)))) error: 0
+Best alt (λ () (im (+ (+ (+ (+ (+ (+ (* (* (* (* (* (complex -1 1) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (* (* (* (* (* (complex 6 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (* (complex 15 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (complex 20 0) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (complex 15 0) (complex -1 1)) (complex -1 1))) (* (complex 6 0) (complex -1 1))) (complex 1 0)))) with error: 0
+Picked (λ () (im (+ (+ (+ (+ (+ (+ (* (* (* (* (* (complex -1 1) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (* (* (* (* (* (complex 6 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (* (complex 15 0) (complex -1 1)) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (* (complex 20 0) (complex -1 1)) (complex -1 1)) (complex -1 1))) (* (* (complex 15 0) (complex -1 1)) (complex -1 1))) (* (complex 6 0) (complex -1 1))) (complex 1 0))))
+Picked alt had 100% improvement of the best alt
+
+File: 9-2nthrtproblem346
+Iter 0
+Alt (λ (x n) (- (pow (+ x 1) (/ 1 n)) (pow x (/ 1 n)))) error: 21.8395711032341
+Best alt (λ (x n) (- (pow (+ x 1) (/ 1 n)) (pow x (/ 1 n)))) with error: 21.8395711032341
+Picked (λ (x n) (- (pow (+ x 1) (/ 1 n)) (pow x (/ 1 n))))
+Picked alt had 100% improvement of the best alt
+
+Iter 1
+Alt (λ (x n) (log (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n)))))) error: 2.100452590997892
+Alt (λ (x n) (+ (- 1 (pow x (/ 1 n))) (+ (/ 1 (* x n)) (/ (log x) n)))) error: 21.8395711032341
+Alt (λ (x n) (exp (log (- (pow (+ x 1) (/ 1 n)) (pow x (/ 1 n)))))) error: 20.881132953029642
+Alt (λ (x n) (+ (- (/ 1 (* x n)) (/ (/ 1/2 n) (* x x))) (/ (log x) (* (* n n) x)))) error: 21.486114806161403
+Alt (λ (x n) (+ (- (+ 0 (/ (log x) n)) (pow x (/ 1 n))) (+ (/ (/ 1 n) x) 1))) error: 21.839571103234018
+Alt (λ (x n) (/ (- (pow (pow (+ x 1) (/ 1 n)) 3) (pow (pow x (/ 1 n)) 3)) (+ (* (pow (+ 1 x) (/ 1 n)) (+ (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n)))) (* (pow x (/ 1 n)) (pow x (/ 1 n)))))) error: 21.45463424897836
+Alt (λ (x n) (* (* (cbrt (- (pow (+ x 1) (/ 1 n)) (pow x (/ 1 n)))) (cbrt (- (pow (+ x 1) (/ 1 n)) (pow x (/ 1 n))))) (cbrt (- (pow (+ x 1) (/ 1 n)) (pow x (/ 1 n)))))) error: 21.82298388016752
+Best alt (λ (x n) (log (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n)))))) with error: 2.100452590997892
+Picked (λ (x n) (log (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))))
+Picked alt had 1.0% improvement of the best alt with span 19.739118512236207
+
+Iter 2
+Alt (λ (x n) (+ (log (* (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))) (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))))) (log (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n)))))))) error: 2.100452590997892
+Alt (λ (x n) (log (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n)))))) error: 2.100452590997892
+Alt (λ (x n) (+ (- (/ 1 (* x n)) (/ (/ 1/2 n) (* x x))) (/ (log x) (* (* n n) x)))) error: 2.0780731143133493
+Alt (λ (x n) (+ (- (+ (+ 1 0) (/ (log x) n)) (pow x (/ 1 n))) (/ (/ 1 n) x))) error: 2.096546340997892
+Alt (λ (x n) (- (- (pow (+ x 1) (/ 1 n)) 1) (+ (/ (log x) n) (* (/ 1/2 (* n n)) (* (log x) (log x)))))) error: 2.0691808463464803
+Best alt (λ (x n) (- (- (pow (+ x 1) (/ 1 n)) 1) (+ (/ (log x) n) (* (/ 1/2 (* n n)) (* (log x) (log x)))))) with error: 2.0691808463464803
+Picked (λ (x n) (+ (log (* (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))) (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))))) (log (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))))))
+Picked alt had 0.0% improvement of the best alt with span 0.031271744651411915
+
+Iter 3
+Alt (λ (x n) (+ (log (* (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))) (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n))))))) (log (cbrt (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n)))))))) error: 2.100452590997892
+Alt (λ (x n) (log (exp (- (pow (+ 1 x) (/ 1 n)) (pow x (/ 1 n)))))) error: 2.100452590997892
+Alt (λ (x n) (+ (- (/ 1 (* x n)) (/ (/ 1/2 n) (* x x))) (/ (log x) (* (* n n) x)))) error: 2.0780731143133493
+Alt (λ (x n) (+ (- (+ (+ 1 0) (/ (log x) n)) (pow x (/ 1 n))) (/ (/ 1 n) x))) error: 2.096546340997892
+Alt (λ (x n) (- (- (pow (+ x 1) (/ 1 n)) 1) (+ (/ (log x) n) (* (/ 1/2 (* n n)) (* (log x) (log x)))))) error: 2.0691808463464803
+Best alt (λ (x n) (- (- (pow (+ x 1) (/ 1 n)) 1) (+ (/ (log x) n) (* (/ 1/2 (* n n)) (* (log x) (log x)))))) with error: 2.0691808463464803
+Picked (λ (x n) (- (- (pow (+ x 1) (/ 1 n)) 1) (+ (/ (log x) n) (* (/ 1/2 (* n n)) (* (log x) (log x))))))
+Picked alt had 1.0% improvement of the best alt with span 0.031271744651411915
+
