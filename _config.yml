@@ -25,7 +25,7 @@ blog_name: Blog
 blog_description: Research Notes and Updates
 
 # Pagination
-paginate: 4
+paginate: 10
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
