@@ -63,6 +63,7 @@ news_limit: 5
 
 # Build settings
 markdown: kramdown
+remote_theme: DavidThien/dthien-website
 highlighter: pygments
 
 # Includes & excludes
