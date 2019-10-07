@@ -2,16 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: David Thien
-email: dthien@cs.washington.edu
+email: dthien@eng.ucsd.edu
 description: > # this means to ignore newlines until "url:"
   David Thien's research website.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-
-url: "" # the base hostname & protocol for your site
-baseurl: "/~dthien" # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
-destination: /cse/web/homes/dthien
 
 # -----------------------------------------------------------------------------
 # Social integration
